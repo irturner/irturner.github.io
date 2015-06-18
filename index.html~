@@ -61,8 +61,7 @@ a:active {
 
 <hr align="center" style="width: 85%; color: #262626; height: 0.2%; background-color:#262626;" />
 
-<span img class="img-responsive" style='position:absolute;z-index:9;
-right:25%;top:13%;width:5%;height:5%'><img width=200% height=400%
+<span img class="img-responsive" style='position:absolute;z-index:9;right:25%;top:13%;width:5%;height:5%'><img width="200%" height="400%"
 src="tamu.jpg"></span>
 
 <p>
@@ -334,6 +333,7 @@ We present a model of executive-legislative bargaining over appointments to inde
 	</tr>
 </tbody></table>
 
+<br>
 
 <table align="center" width="80%">
 	<tr>
@@ -360,7 +360,10 @@ We present a model of executive-legislative bargaining over appointments to inde
 			<font face="Helvetica" size="4"><b>Washington University in St. Louis</b></font>
 		</td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
+
+<br>
 
 <table align="center" width="80%">
 	<tr>
