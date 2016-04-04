@@ -342,21 +342,32 @@ We present a model of executive-legislative bargaining over appointments to inde
 		</td>
 	</tr>
 </tbody></table>
-
+ 
 <br>
 
-<!--
 <table align="center" width="80%">
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"Bureaucratic Inflexibility.'' <i>[coming soon]</i>
+			<li><font face="Helvetica" size="3">"Reviewing Procedure vs. Judging Substance: The Scope of Review and Bureaucratic Policymaking.'' <i>[coming soon]</i>
 <br>
 
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsBureauInflexible')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsProcedureSubstance')" href="javascript:;" >Abstract</a> &nbsp &nbsp
 <span style="font-size: 12pt;">
-<div class="mid" id="AbsBureauInflexible" style="DISPLAY: none" >
-<i>Abstract coming soon!</i>
+<div class="mid" id="AbsProcedureSubstance" style="DISPLAY: none" >
+Bureaucratic policymaking is a central feature of the modern American political system. Adminis-
+trative agencies not only make policy choices, they must also implement policy effectively. Courts
+play an integral role in the policymaking process by monitoring, through judicial review of agency
+policy actions, both policymaking tasks. I analyze two variants of a model of policymaking between
+an agency and a court. In the first case—procedural review—the court only takes agency effort
+in policy implementation into account when making its review decisions. At times judicial review
+can induce higher effort from the agency than would otherwise be obtained. At other times judi-
+cial review can also dissuade agencies from exerting high effort. In the second case—substantive
+review—the court reviews both the agency’s policy choice and the effort exerted in implementing
+policy. Surprisingly, this additional information in the review process precludes fully revealing 
+policy choices from the agency even when the agency is perfectly faithful. The policy consequences
+of these two different types of review are analyzed with an eye toward implications for institutional 
+design.
 </div>
 </span>
 
@@ -365,7 +376,6 @@ We present a model of executive-legislative bargaining over appointments to inde
 		</li></ul></td>
 	</tr>
 </table>
--->
 
 <br>
 
