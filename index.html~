@@ -281,27 +281,6 @@ offset the possible costs of interest group control over electoral outcomes.
 </table>
 
 <br>
-	
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"Fear of Failure: Career Concerns and Policy Experimentation in the Lab." (with <a href="http://www.ianpcook.com/"> Ian P. Cook </a> and <a href="http://www.pitt.edu/~woon/"> Jon Woon</a>). <i>[coming soon]</i>
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsFearFail')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsFearFail" style="DISPLAY: none" >
-When political agents worry about losing their jobs, they may prioritize job protection over job performance. Experimenting with new, possibly beneficial, policy choices can be squelched because keeping the status quo is proof against firing. Or it can be pursued despite knowing the policy will fail, as low quality agents mimic high quality ones in the hopes that managers will not discern the difference. We conduct a test of policy-making with career concerns, evaluating the predictions of a formal model in a laboratory setting. Our results indicate that, while subjects do perform as the theory suggests and respond to information about the correct policy choice, career concerns distort these choices in less expected ways. Subjects appear to be motivated by avoiding policy failure, even when their strategic incentive would indicate ignoring it.
-</div>
-</span>  
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
 
 <table align="center" width="80%">
 	<tr>
@@ -314,6 +293,27 @@ When political agents worry about losing their jobs, they may prioritize job pro
 <span style="font-size: 12pt;">
 <div class="mid" id="AbsFed" style="DISPLAY: none" >
 We present a model of executive-legislative bargaining over appointments to independent central banks in the face of an uncertain economy with strategic economic actors. The model highlights the contrast between two idealized views of Federal Reserve appointments. In one view, all politicians prefer to appoint conservatively biased central bankers to overcome credible commitment problems that arise in monetary policy. In the other, politicians prefer to appoint allies, and appointments are well described by the spatial model used to describe appointments to other agencies. Both ideals are limiting cases of our model, which depend on the level of economic uncertainty. When economic uncertainty is extremely low, politicians prefer very conservative appointments. When economic uncertainty increases, politicians' prefer central bank appointees closer to their own ideal points. In the typical case, the results are somewhere in between: equilibrium appointments move in the direction of politician's preferences but with a moderate conservative bias.
+</div>
+</span>  
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+<br>
+	
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3">"Fear of Failure: Career Concerns and Policy Experimentation in the Lab." (with <a href="http://www.ianpcook.com/"> Ian P. Cook </a> and <a href="http://www.pitt.edu/~woon/"> Jon Woon</a>). <i>[coming soon]</i>
+<br>
+
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsFearFail')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="AbsFearFail" style="DISPLAY: none" >
+When political agents worry about losing their jobs, they may prioritize job protection over job performance. Experimenting with new, possibly beneficial, policy choices can be squelched because keeping the status quo is proof against firing. Or it can be pursued despite knowing the policy will fail, as low quality agents mimic high quality ones in the hopes that managers will not discern the difference. We conduct a test of policy-making with career concerns, evaluating the predictions of a formal model in a laboratory setting. Our results indicate that, while subjects do perform as the theory suggests and respond to information about the correct policy choice, career concerns distort these choices in less expected ways. Subjects appear to be motivated by avoiding policy failure, even when their strategic incentive would indicate ignoring it.
 </div>
 </span>  
 </p>
