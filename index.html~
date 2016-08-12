@@ -108,7 +108,10 @@ a:active {
 	<tbody><tr>
 		<td align="left" valign="center" width="75%">
 			<font face="Helvetica" size="3">
-I am an Assistant Professor of <a href="http://politicalscience.tamu.edu/html/home.html">Political Science</a> and Co-director of the Political Institutions/Political Behavior Research Program at <a href="https://www.tamu.edu/">Texas A&M University</a>. I am also a faculty <a href="http://perg-tamu.com/current-members">member</a> of the <a href="http://perg-tamu.com/">Project for Equity, Representation, and Governance (PERG)</a>. I received my PhD in <a href="https://polisci.wustl.edu/">political science</a> from <a href="http://wustl.edu/">Washington University in St. Louis</a>, where I was a fellow in the <a href="https://www.nsfgrfp.org/">National Science Foundation Graduate Research Fellowship Program</a> (2011-2014) and a graduate associate for the <a href="http://cerl.wustl.edu/">Center for Empirical Research in the Law (CERL)</a>. My research focuses primarily on American political institutions and democratic accountability. There is a particular focus on interactions within the executive branch --- e.g., the President and bureaucracy --- as well as between the executive and other institutions --- e.g., courts, Congress, and the executive branch. My main project studies how institutions such as executive and judicial review affect the incentives for bureaucratic agencies to more effectively craft and implement public policy, and provides insight into how one might design institutions to foster this behavior. Another major project studies how lobbying policymakers may or may not affect issues of accountability in policymaking. I am also generally interested in political economy, formal political theory, and public administration, management, and policy.
+I am an Assistant Professor of <a href="http://politicalscience.tamu.edu/html/home.html">Political Science</a> and Co-director of the Political Institutions/Political Behavior Research Program at <a href="https://www.tamu.edu/">Texas A&M University</a>. I am also a faculty <a href="http://perg-tamu.com/current-members">member</a> of the <a href="http://perg-tamu.com/">Project for Equity, Representation, and Governance (PERG)</a>. I received my PhD in <a href="https://polisci.wustl.edu/">political science</a> from <a href="http://wustl.edu/">Washington University in St. Louis</a>, where I was a fellow in the <a href="https://www.nsfgrfp.org/">National Science Foundation Graduate Research Fellowship Program</a> (2011-2014) and a graduate associate for the <a href="http://cerl.wustl.edu/">Center for Empirical Research in the Law (CERL)</a>. 
+<br>
+<br>
+My research focuses primarily on American political institutions and democratic accountability. In particular, my work examines interactions within the executive branch --- e.g., the President and bureaucracy --- as well as between the executive and other institutions --- e.g., courts, Congress, and interest groups. My main project studies how institutions such as executive and judicial review affect the incentives for bureaucratic agencies to more effectively craft and implement public policy, and provides insight into how one might design institutions to foster this behavior. Another major project studies how interest group lobbying of policymakers affect policymaking incentives, informational dynamics, and political agendas. I am also generally interested in political economy, formal political theory, and public administration, management, and policy.
 <br>
 <br>
 For more information on my work, see my <a href="https://www.dropbox.com/s/w4gvj4dspb3o5uz/turnerCV.pdf?dl=0" target="_blank">CV</a>, the papers listed below, or my <a href="http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1787251">SSRN page</a>.
@@ -181,13 +184,21 @@ The lion's share of policy in the United States is made by administrative agenci
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a href="instrumental-bias-V1-submitted.pdf">Political Agency, Oversight, and Bias: The Instrumental Value of Politicized Policymaking</a>." <i>Under review.</i>  
-
+			<li><font face="Helvetica" size="3">"<a a href="https://www.dropbox.com/s/jp34eng7z9jjh7a/instrumental-bias-submitted2.pdf?dl=0" target="_blank">Political Agency, Oversight, and Bias: The Instrumental Value of Politicized Policymaking</a>." <b>Under review.</b>  
 <br>
 &nbsp &nbsp <a onclick ="javascript:ShowHide('AbsOptBias')" href="javascript:;" >Abstract</a> &nbsp &nbsp
 <span style="font-size: 12pt;">
 <div class="mid" id="AbsOptBias" style="DISPLAY: none" >
-We develop a political-institutional theory of policymaking between a principal, an agent, and an overseer that can overturn agent regulatory actions. The agent can increase the overall quality of implemented outcomes through costly ex ante effort investments. Oversight of the agent can impact agent effort incentives, but only if the ideological bias of the agent does as well. The principal, in light of the oversight dynamics, chooses whether or not to authorize the agent to make policy on her behalf. We show that anytime oversight is not an effective means of political control, the principal never benefits from authorizing a biased agent relative to an ally. However, when oversight is effective at inducing higher effort investments, the principal always benefits from increased agent bias. That is, in certain institutional environments, based on the dynamics of policymaking oversight, the ally principle fails for instrumental reasons. The principal benefits from trading off agent bias for reduced slack in policy implementation. The results have implications for bureaucratic personnel politics, political appointments, and the efficacy of managerial motivation strategies.
+We develop a theory of policymaking between a principal, an agent, and an overseer. The agent
+increases the overall quality of policy outcomes through costly capacity investments. Oversight
+impacts agent investment incentives, but only if the policy bias of the agent does as well. The
+principal chooses whether or not to authorize the agent to make policy on her behalf in light
+of oversight dynamics. We show that anytime oversight is not an effective means of political
+control, the principal never benefits from a biased agent relative to an ally. When oversight
+is effective, the principal almost always benefits from agent bias. Based on the dynamics of
+policymaking oversight the ally principle fails for instrumental reasons. The principal benefits
+from trading off agent bias for higher capacity investments. The results have implications for
+bureaucratic personnel politics, political appointments, and the efficacy of managerial strategies.
 </div>
 </span>  
 </p>
@@ -195,49 +206,6 @@ We develop a political-institutional theory of policymaking between a principal,
 		</li></ul></td>
 	</tr>
 </table>
-
-<!--
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"<a href="ProcedureSubstance-2-2015.pdf">Reviewing Procedure <i>vs.</i> Judging Substance: The Scope of Review and Agency Policymaking</a>." 
-<br>
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsProSub')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsProSub" style="DISPLAY: none" >
-Bureaucratic policymaking is a central feature of the modern American political system. Administrative agencies not only make policy choices, they must also implement policy effectively. Courts play an integral role in the policymaking process by monitoring, through judicial review of agency policy actions, both policymaking tasks. I analyze two variants of a model of policymaking between an agency and a court. In the first case---procedural review---the court only takes agency effort in policy implementation into account when making its review decisions. At times judicial review can induce higher effort from the agency than would otherwise be obtained. At other times judicial review can also dissuade agencies from exerting high effort. In the second case---substantive review---the court reviews both the agency's policy choice and the effort exerted in implementing policy. Surprisingly, this additional information in the review process precludes fully revealing policy choices from the agency <i>even when the agency is perfectly faithful</i>. The policy consequences of these two different types of review are analyzed with an eye toward implications for institutional design.
-</div>
-</span>  
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
--->
-
-<!--
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"Undisclosed Contributions in Electoral Campaigns." (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). <i>[coming soon]</i> 
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsDarkMoney')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsDarkMoney" style="DISPLAY: none" >
-We provide a game-theoretic model for evaluating the impacts of campaign finance disclosure rules. In the model, donations have two effects: they can directly affect the outcome of the election or they can provide information to politicians about which policy is best. Rules allowing undisclosed contributions increase the difficulty of transmitting policy information through contributions by creating the potential for interest groups with bad policy claims to publicly imitate good groups and then offset their electoral costs using secret donations. Because of this potential, good interest groups must respond to the possibility of undisclosed contributions by making increasingly costly public contributions to avoid imitation by other interest groups. As a result, we find that interest groups may prefer policies that require them to disclose contributions while voters opposed to the interest group may benefit from allowing undisclosed contributions.
-</div>
-</span>  
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
--->
 
 <br>
 
@@ -246,7 +214,7 @@ We provide a game-theoretic model for evaluating the impacts of campaign finance
 		<td align="left" valign="center" width="75%">
 			<ul>
 			<li><font face="Helvetica" size="3">
-"<a href="SchnakenbergTurnerCampaignFinance2.pdf">Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). <i>Under review.</i>
+"<a href="SchnakenbergTurnerCampaignFinance2.pdf">Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). <br>  <b>Under review.</b>
 
 <br>
 
@@ -286,7 +254,40 @@ offset the possible costs of interest group control over electoral outcomes.
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a href="fedappt-new-V1.pdf">Allies or Commitment Devices? A Model of Appointments to the Federal Reserve</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a> and <a href="http://faculty.las.illinois.edu/aburibe/">Alicia Uribe</a>). <i>Under review.</i>
+			<li><font face="Helvetica" size="3">
+"<a href="https://www.dropbox.com/s/5ibf74v11zbsebr/PattyTurner-obfuscation-V2.pdf?dl=0" target="_blank">Ex Post Review and Expert Policymaking: When Does Oversight Reduce Accountability?</a>" (with <a href="http://www.johnwpatty.net/">John W. Patty</a>). <b>Under review.</b>
+<br>
+
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsInfoDeference')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="AbsInfoDeference" style="DISPLAY: none" >
+Ex post review is a common feature of policymaking institutions. We consider a simple environment
+in which an expert agent makes a policy recommendation, which can then be accepted
+or rejected by a principal whose policy goals differ from those of the agent. The theory offers
+testable predictions about policy recommendations and the principal’s acceptance or rejection
+of these recommendations. The theory suggests that behavior and institutional design incentives
+are sensitive to both actors’ preference alignment and the importance of and uncertainty inherent
+to the policy area in multiple ways, some expected and some less obvious. We characterize the
+types of situations in which ex post review creates incentives for the agent to make pathological
+policy choices. In these situations, ex post review can reduce the accountability of the agent to
+the wishes of the principal and ultimately create an incentive for the principal to forego review
+entirely.
+</div>
+</span>
+
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+<br>
+
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3">"<a href="fedappt-new-V1.pdf">Allies or Commitment Devices? A Model of Appointments to the Federal Reserve</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a> and <a href="http://faculty.las.illinois.edu/aburibe/">Alicia Uribe</a>). <br>  <b>R&R at <i>Economics & Politics.</i></b>
 <br>
 
 &nbsp &nbsp <a onclick ="javascript:ShowHide('AbsFed')" href="javascript:;" >Abstract</a> &nbsp &nbsp
@@ -325,39 +326,6 @@ When political agents worry about losing their jobs, they may prioritize job pro
 <br>
 
 <table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">
-"An Informational Argument for Judicial Deference," (with <a href="http://www.johnwpatty.net/">John W. Patty</a>). <i>[coming soon]</i>
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsInfoDeference')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsInfoDeference" style="DISPLAY: none" >
-<i>Abstract coming soon!</i>
-</div>
-</span>
-
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<!-- Research in Progress -->
-
-<br>
-<!--
-<table align="center" width="80%">
-	<tbody><tr>
-		<td align="left" valign="center" width="75%">
-			<font face="Helvetica" size="4"><b>Working Papers</b></font>
-		</td>
-	</tr>
-</tbody></table>
--->
-<table align="center" width="80%">
 	<tbody><tr>
 		<td align="left" valign="center" width="75%">
 			<font face="Helvetica" size="4"><b>Selected Work in Progress</b></font>
@@ -372,6 +340,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 		<td align="left" valign="center" width="75%">
 			<ul>
 			<li><font face="Helvetica" size="3">"Reviewing Procedure vs. Judging Substance: The Scope of Review and Bureaucratic Policymaking.'' <i>[coming soon]</i>
+			
 <br>
 
 &nbsp &nbsp <a onclick ="javascript:ShowHide('AbsProcedureSubstance')" href="javascript:;" >Abstract</a> &nbsp &nbsp
@@ -439,7 +408,28 @@ empirical studies of bureaucratic policymaking.
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"Undisclosed Contributions in Electoral Campaigns," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). <i>[coming soon]</i> 
+			<li><font face="Helvetica" size="3">"Lobbying for Inside Information," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). 
+<br>
+
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsInsideInfo')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="AbsInsideInfo" style="DISPLAY: none" >
+<i> Abstract coming soon! </i>
+</div>
+</span>  
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+<br>
+
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3">"Undisclosed Contributions in Electoral Campaigns," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). 
 <br>
 
 &nbsp &nbsp <a onclick ="javascript:ShowHide('AbsDarkMoney')" href="javascript:;" >Abstract</a> &nbsp &nbsp
@@ -507,7 +497,7 @@ We provide a game-theoretic model for evaluating the impacts of campaign finance
 <table align="center" width="80%">
 	<tbody><tr>
 		<td align="left" valign="center" width="75%">
-			<font face="Helvetica" size="4"><b>Texas A&M</b></font>
+			<font face="Helvetica" size="4"><b>Texas A&M University</b></font>
 		</td>
 	</tr>
 </tbody></table>
@@ -518,7 +508,7 @@ We provide a game-theoretic model for evaluating the impacts of campaign finance
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">Game Theoretic Methods in Political Science (Undergraduate, Fall 2015)
+			<li><font face="Helvetica" size="3">Game Theoretic Methods in Political Science (Undergraduate, Fall 2015, Fall 2016)
 <br><br>
 <a href="308-500-gamethry-ug-syll-final.pdf">POLS 308 (500) Syllabus</a>
 <br><br>
@@ -549,6 +539,19 @@ We provide a game-theoretic model for evaluating the impacts of campaign finance
 
 <br>
 
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3">Political Institutions (Graduate, Summer 2016)
+<br><br>
+<a href="Political-Institutions-Syllabus-Summer-2016.pdf">POLS 689 Syllabus</a>
+<span style="font-size: 10pt; font-family: Helvetica;">
+</span></p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
 
 <table align="center" width="80%">
 	<tbody><tr>
@@ -569,19 +572,6 @@ We provide a game-theoretic model for evaluating the impacts of campaign finance
 <br><br>
 <a href="AmPol_Syllabus_Sum14.pdf">Syllabus</a>
 <br>
-<!-- Course Description 
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AmPolDescribe')" href="javascript:;" >Course Description</a>
-<span style="font-size: 10pt; font-family: Helvetica;">
-<div class="mid" id="Course3" style="DISPLAY: none" >
-This course surveys contemporary American politics. In addition to the basics of the three branches
-of the federal government and how they interact with one another in making policy, the course
-will also cover federalism, civil liberties, civil rights, public opinion, elections, political parties,
-interest groups, and the media. This is a lecture-based course. Attendance at all lectures is a natural
-expectation of the course.
-</div>
-</span>
-</p>
--->
 			</font>
 		</li></ul></td>
 	</tr>
@@ -596,7 +586,7 @@ expectation of the course.
 &nbsp;</p>
 <p style="margin-top: 0px; margin-bottom: 0px;" align="center" dir="ltr">
 <font face="Helvetica"><font size="2">Last updated on <!--webbotbot="Timestamp" S-Type="EDITED" S-Format="%B %d, %Y" startspan -->
-September 6, 2015<!--webbot
+June 24, 2016<!--webbot
 bot="Timestamp" endspan i-checksum="14208" --></font> </font> </p>
 
 <!-- Sets up Abstract "button" -->
@@ -625,4 +615,5 @@ document.getElementById(divId).style.display = 'none';
   ga('send', 'pageview');
 
 </script>
+
 
