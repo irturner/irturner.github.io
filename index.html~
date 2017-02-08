@@ -152,14 +152,35 @@ For more information on my work, see my <a href="https://www.dropbox.com/s/w4gvj
 		<td align="left" valign="center" width="75%">
 			<ul>
 			<li><font face="Helvetica" size="3">
-"<a href="http://jtp.sagepub.com/content/early/2016/03/21/0951629816630430.full">Working Smart <i>and</i> Hard? Agency Effort, Judicial Review, and Policy Precision</a>."
+"<a href="http://journals.sagepub.com/doi/full/10.1177/0951629816630430">Working Smart <i>and</i> Hard? Agency Effort, Judicial Review, and Policy Precision</a>." 2017.
 
-Forthcoming at <i>Journal of Theoretical Politics</i>. <br>
+<i>Journal of Theoretical Politics</i> 29(1): 69-96. <br>
 
 &nbsp &nbsp <a onclick ="javascript:ShowHide('AbsWorkSmart')" href="javascript:;" >Abstract</a> &nbsp &nbsp
 <span style="font-size: 12pt;">
 <div class="mid" id="AbsWorkSmart" style="DISPLAY: none" >
 The lion's share of policy in the United States is made by administrative agencies. Agencies not only make policy <i>choices</i>, they must also <i>implement</i> policy effectively. Oversight institutions play an integral role in the policymaking process by monitoring, through review of agency policy actions, both policymaking tasks. Through analysis of a formal model I develop a theory of policymaking between agencies and courts and show that review can impact agency effort choices even when bureaucratic subversion is not a concern. At times the court has no impact on this effort and the agency is unconstrained. However, when the agency's effort dictates whether or not the court defers to the agency's actions judicial review does affect effort decisions. In this setting, review can either strengthen or, counter-intuitively, weaken agency effort incentives. Implications for executive and congressional oversight are discussed in light of these results.
+</div>
+</span>  
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+<br>
+
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3">"<a href="fedappt-new-V1.pdf">Allies or Commitment Devices? A Model of Appointments to the Federal Reserve</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a> and <a href="http://faculty.las.illinois.edu/aburibe/">Alicia Uribe</a>). <br>  <b>Accepted at <i>Economics & Politics.</i></b>
+<br>
+
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsFed')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="AbsFed" style="DISPLAY: none" >
+We present a model of executive-legislative bargaining over appointments to independent central banks in the face of an uncertain economy with strategic economic actors. The model highlights the contrast between two idealized views of Federal Reserve appointments. In one view, all politicians prefer to appoint conservatively biased central bankers to overcome credible commitment problems that arise in monetary policy. In the other, politicians prefer to appoint allies, and appointments are well described by the spatial model used to describe appointments to other agencies. Both ideals are limiting cases of our model, which depend on the level of economic uncertainty. When economic uncertainty is extremely low, politicians prefer very conservative appointments. When economic uncertainty increases, politicians' prefer central bank appointees closer to their own ideal points. In the typical case, the results are somewhere in between: equilibrium appointments move in the direction of politician's preferences but with a moderate conservative bias.
 </div>
 </span>  
 </p>
@@ -266,27 +287,6 @@ entirely.
 </div>
 </span>
 
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"<a href="fedappt-new-V1.pdf">Allies or Commitment Devices? A Model of Appointments to the Federal Reserve</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a> and <a href="http://faculty.las.illinois.edu/aburibe/">Alicia Uribe</a>). <br>  <b>R&R at <i>Economics & Politics.</i></b>
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsFed')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsFed" style="DISPLAY: none" >
-We present a model of executive-legislative bargaining over appointments to independent central banks in the face of an uncertain economy with strategic economic actors. The model highlights the contrast between two idealized views of Federal Reserve appointments. In one view, all politicians prefer to appoint conservatively biased central bankers to overcome credible commitment problems that arise in monetary policy. In the other, politicians prefer to appoint allies, and appointments are well described by the spatial model used to describe appointments to other agencies. Both ideals are limiting cases of our model, which depend on the level of economic uncertainty. When economic uncertainty is extremely low, politicians prefer very conservative appointments. When economic uncertainty increases, politicians' prefer central bank appointees closer to their own ideal points. In the typical case, the results are somewhere in between: equilibrium appointments move in the direction of politician's preferences but with a moderate conservative bias.
-</div>
-</span>  
 </p>
 			</font>
 		</li></ul></td>
@@ -563,8 +563,6 @@ We provide a game-theoretic model for evaluating the impacts of campaign finance
 		<td align="left" valign="center" width="75%">
 			<ul>
 			<li><font face="Helvetica" size="3">Game Theoretic Methods in Political Science (Undergraduate, Fall 2015, Fall 2016)
-<br><br>
-Fall 2016 Office Hours: Monday 2:05-4:05PM or by appointment.
 <br><br>
 <a href="POLS308-500-syllabus-final-2016.pdf">POLS 308 (500) Syllabus</a>
 <br><br>
