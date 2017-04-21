@@ -174,7 +174,7 @@ The lion's share of policy in the United States is made by administrative agenci
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a href="fedappt-new-V1.pdf">Allies or Commitment Devices? A Model of Appointments to the Federal Reserve</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a> and <a href="http://faculty.las.illinois.edu/aburibe/">Alicia Uribe</a>). <br>  <b>Accepted at <i>Economics & Politics.</i></b>
+			<li><font face="Helvetica" size="3">"<a href="fedappt-new-V1.pdf">Allies or Commitment Devices? A Model of Appointments to the Federal Reserve</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a> and <a href="http://faculty.las.illinois.edu/aburibe/">Alicia Uribe</a>). <br>  <b>Forthcoming at <i>Economics & Politics.</i></b>
 <br>
 
 &nbsp &nbsp <a onclick ="javascript:ShowHide('AbsFed')" href="javascript:;" >Abstract</a> &nbsp &nbsp
@@ -226,7 +226,40 @@ We develop a theory of policymaking between a principal, an agent, and an overse
 		<td align="left" valign="center" width="75%">
 			<ul>
 			<li><font face="Helvetica" size="3">
-"<a href="SchnakenbergTurnerCampaignFinance2.pdf">Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). <br>  <b>Under review.</b>
+"<a href="https://www.dropbox.com/s/5ibf74v11zbsebr/PattyTurner-obfuscation-V2.pdf?dl=0" target="_blank">Ex Post Review and Expert Policymaking: When Does Oversight Reduce Accountability?</a>" (with <a href="http://www.johnwpatty.net/">John W. Patty</a>). <b>R&R at <i>Journal of Politics</i>.</b>
+<br>
+
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsInfoDeference')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="AbsInfoDeference" style="DISPLAY: none" >
+Ex post review is a common feature of policymaking institutions. We consider a simple environment
+in which an expert agent makes a policy recommendation, which can then be accepted
+or rejected by a principal whose policy goals differ from those of the agent. The theory offers
+testable predictions about policy recommendations and the principal’s acceptance or rejection
+of these recommendations. The theory suggests that behavior and institutional design incentives
+are sensitive to both actors’ preference alignment and the importance of and uncertainty inherent
+to the policy area in multiple ways, some expected and some less obvious. We characterize the
+types of situations in which ex post review creates incentives for the agent to make pathological
+policy choices. In these situations, ex post review can reduce the accountability of the agent to
+the wishes of the principal and ultimately create an incentive for the principal to forego review
+entirely.
+</div>
+</span>
+
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+<br>
+
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3">
+"<a href="SchnakenbergTurnerCampaignFinance2.pdf">Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). <br>  <i>[New version coming soon]</i>
 
 <br>
 
@@ -266,40 +299,7 @@ offset the possible costs of interest group control over electoral outcomes.
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">
-"<a href="https://www.dropbox.com/s/5ibf74v11zbsebr/PattyTurner-obfuscation-V2.pdf?dl=0" target="_blank">Ex Post Review and Expert Policymaking: When Does Oversight Reduce Accountability?</a>" (with <a href="http://www.johnwpatty.net/">John W. Patty</a>). <b>Under review.</b>
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsInfoDeference')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsInfoDeference" style="DISPLAY: none" >
-Ex post review is a common feature of policymaking institutions. We consider a simple environment
-in which an expert agent makes a policy recommendation, which can then be accepted
-or rejected by a principal whose policy goals differ from those of the agent. The theory offers
-testable predictions about policy recommendations and the principal’s acceptance or rejection
-of these recommendations. The theory suggests that behavior and institutional design incentives
-are sensitive to both actors’ preference alignment and the importance of and uncertainty inherent
-to the policy area in multiple ways, some expected and some less obvious. We characterize the
-types of situations in which ex post review creates incentives for the agent to make pathological
-policy choices. In these situations, ex post review can reduce the accountability of the agent to
-the wishes of the principal and ultimately create an incentive for the principal to forego review
-entirely.
-</div>
-</span>
-
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"<a href="SchnakenbergTurner-corruption.pdf">Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>).
+			<li><font face="Helvetica" size="3">"<a href="SchnakenbergTurner-corruption.pdf">Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). <b>Under review.</b>
 <br>
 
 &nbsp &nbsp <a onclick ="javascript:ShowHide('AbsCorruption')" href="javascript:;" >Abstract</a> &nbsp &nbsp
@@ -320,34 +320,13 @@ Lobbying is a potential source of corruption but is also a valuable source of in
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a href="">Legislative Capacity and Credit Risk</a>," (with <a href="http://davidfortunato.com/">David Fortunato</a>). <i>[coming soon]</i>
+			<li><font face="Helvetica" size="3">"<a href="FortunatoTurner-capacity-V3.pdf">Legislative Capacity and Credit Risk</a>," (with <a href="http://davidfortunato.com/">David Fortunato</a>). <b>Under review.</b>
 <br>
 
 &nbsp &nbsp <a onclick ="javascript:ShowHide('AbsCreditRisk')" href="javascript:;" >Abstract</a> &nbsp &nbsp
 <span style="font-size: 12pt;">
 <div class="mid" id="AbsCreditRisk" style="DISPLAY: none" >
-Legislatures differ in their institutional capacity to draft and enact policy. While strong legislatures can increase the congruence of policy outcomes to the electorate's preferences, they can also inject uncertainty into markets with their ability to alter the political economic landscape. We argue that this uncertainty will manifest in a state's ability to borrow and hypothesize a negative relationship between legislative capacity and credit-worthiness. Using ratings of general obligation bonds issued by the American states over nearly two decades and data on the institutional capacity of state legislative assemblies, we find support for the claim that having a legislature that is better equipped to affect policy change increases credit risk.
-</div>
-</span>  
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-	
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"Fear of Failure: Career Concerns and Policy Experimentation in the Lab." (with <a href="http://www.ianpcook.com/"> Ian P. Cook </a> and <a href="http://www.pitt.edu/~woon/"> Jon Woon</a>). <i>[coming soon]</i>
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsFearFail')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsFearFail" style="DISPLAY: none" >
-When political agents worry about losing their jobs, they may prioritize job protection over job performance. Experimenting with new, possibly beneficial, policy choices can be squelched because keeping the status quo is proof against firing. Or it can be pursued despite knowing the policy will fail, as low quality agents mimic high quality ones in the hopes that managers will not discern the difference. We conduct a test of policy-making with career concerns, evaluating the predictions of a formal model in a laboratory setting. Our results indicate that, while subjects do perform as the theory suggests and respond to information about the correct policy choice, career concerns distort these choices in less expected ways. Subjects appear to be motivated by avoiding policy failure, even when their strategic incentive would indicate ignoring it.
+Legislatures differ in their institutional capacity to draft and enact policy. While strong legislatures can increase the congruence of policy outcomes to the electorate's preferences, they can also inject uncertainty into markets with their ability to alter the political economic landscape. We argue that this uncertainty will manifest in a state's ability to borrow and hypothesize a negative relationship between legislative capacity and credit-worthiness. Using ratings of general obligation bonds issued by the American states over nearly two decades and data on the institutional capacity of state legislative assemblies, we find support for the claim that having a legislature that is better equipped to affect policy change increases credit risk evaluations. The results we present broaden our understanding of the importance of legislative institutions and the determinants of credit risk, and also bring evidence to bear on competing expectations for policymaking behavior under representative and responsible models of governance.
 </div>
 </span>  
 </p>
@@ -490,6 +469,27 @@ We provide a game-theoretic model for evaluating the impacts of campaign finance
 <span style="font-size: 12pt;">
 <div class="mid" id="AbsPrincipalsPrincipal" style="DISPLAY: none" >
 <i>Abstract coming soon!</i>
+</div>
+</span>  
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+<br>
+
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3">"Fear of Failure: Career Concerns and Policy Experimentation in the Lab." (with <a href="http://www.ianpcook.com/"> Ian P. Cook </a> and <a href="http://www.pitt.edu/~woon/"> Jon Woon</a>). <i>[coming soon]</i>
+<br>
+
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsFearFail')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="AbsFearFail" style="DISPLAY: none" >
+When political agents worry about losing their jobs, they may prioritize job protection over job performance. Experimenting with new, possibly beneficial, policy choices can be squelched because keeping the status quo is proof against firing. Or it can be pursued despite knowing the policy will fail, as low quality agents mimic high quality ones in the hopes that managers will not discern the difference. We conduct a test of policy-making with career concerns, evaluating the predictions of a formal model in a laboratory setting. Our results indicate that, while subjects do perform as the theory suggests and respond to information about the correct policy choice, career concerns distort these choices in less expected ways. Subjects appear to be motivated by avoiding policy failure, even when their strategic incentive would indicate ignoring it.
 </div>
 </span>  
 </p>
