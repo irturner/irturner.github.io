@@ -174,7 +174,7 @@ The lion's share of policy in the United States is made by administrative agenci
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a href="http://onlinelibrary.wiley.com/doi/10.1111/ecpo.12089/full">Allies or Commitment Devices? A Model of Appointments to the Federal Reserve</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a> and <a href="http://faculty.las.illinois.edu/aburibe/">Alicia Uribe</a>). <br>  <b>Forthcoming at <i>Economics & Politics.</i></b>
+			<li><font face="Helvetica" size="3">"<a href="http://onlinelibrary.wiley.com/doi/10.1111/ecpo.12089/full">Allies or Commitment Devices? A Model of Appointments to the Federal Reserve</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a> and <a href="http://faculty.las.illinois.edu/aburibe/">Alicia Uribe</a>). <b>Forthcoming at <i>Economics & Politics.</i></b>
 <br>
 
 &nbsp &nbsp <a onclick ="javascript:ShowHide('AbsFed')" href="javascript:;" >Abstract</a> &nbsp &nbsp
@@ -338,39 +338,6 @@ offset the possible costs of interest group control over electoral outcomes.
 <br>
 
 <table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"Designed to Work? The Impact of Oversight and Agency Characteristics on Administrative Effort Incentives.'' <i>[coming soon]</i>
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsDesignToWork')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsDesignToWork" style="DISPLAY: none" >
-A central concern for organizational management is how to properly motivate workers. This
-is especially true in public bureaucracies where monetary incentives (e.g., wage contracts) are
-difficult to tie to performance. In this paper I present results that highlight how oversight and
-agency bias impact administrative effort incentives. The ability of oversight to induce desirable
-effort effects depends crucially on agency policy biases. Additionally, the impact of well-known
-characteristics of agency design and the policy environment on administrative effort are explored
-in light of potential limitations of oversight as an incentive mechanism. The ability of a political
-principal to properly motivate administrative effort by attempting to alter agency characteristics,
-like "sense of mission" or how averse an agency is to being reprimanded by an overseer, depends
-crucially on an agency’s policy biases and the nature of ex post oversight. These results have
-implications for agency design and delegation, managerial strategies for effort motivation, and
-empirical studies of bureaucratic policymaking.
-</div>
-</span>
-
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
 	<tbody><tr>
 		<td align="left" valign="center" width="75%">
 			<font face="Helvetica" size="4"><b>Selected Work in Progress</b></font>
@@ -384,7 +351,7 @@ empirical studies of bureaucratic policymaking.
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"Reviewing Procedure vs. Judging Substance: The Scope of Review and Bureaucratic Policymaking.'' <i>[coming soon]</i>
+			<li><font face="Helvetica" size="3">"Reviewing Procedure vs. Judging Substance: The Scope of Review and Bureaucratic Policymaking.''
 			
 <br>
 
@@ -415,6 +382,40 @@ design.
 </table>
 
 <br>
+
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3">"Designed to Work? The Impact of Oversight and Agency Characteristics on Administrative Effort Incentives.''
+<br>
+
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsDesignToWork')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="AbsDesignToWork" style="DISPLAY: none" >
+A central concern for organizational management is how to properly motivate workers. This
+is especially true in public bureaucracies where monetary incentives (e.g., wage contracts) are
+difficult to tie to performance. In this paper I present results that highlight how oversight and
+agency bias impact administrative effort incentives. The ability of oversight to induce desirable
+effort effects depends crucially on agency policy biases. Additionally, the impact of well-known
+characteristics of agency design and the policy environment on administrative effort are explored
+in light of potential limitations of oversight as an incentive mechanism. The ability of a political
+principal to properly motivate administrative effort by attempting to alter agency characteristics,
+like "sense of mission" or how averse an agency is to being reprimanded by an overseer, depends
+crucially on an agency’s policy biases and the nature of ex post oversight. These results have
+implications for agency design and delegation, managerial strategies for effort motivation, and
+empirical studies of bureaucratic policymaking.
+</div>
+</span>
+
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+<br>
+
 <!--
 <table align="center" width="80%">
 	<tr>
