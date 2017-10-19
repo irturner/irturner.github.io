@@ -105,7 +105,7 @@ a:active {
 	<tbody><tr>
 		<td align="left" valign="center" width="75%">
 			<font face="Helvetica" size="3">
-I am an Assistant Professor of <a href="http://politicalscience.yale.edu/">Political Science</a>, a Resident Fellow in the <a href="http://isps.yale.edu/">Institution of Social and Policy Studies</a> and the <a href="http://csap.yale.edu/">Center for the Study of American Politics</a>, and a Faculty Affiliate of the <a href="http://leitner.yale.edu/">Leitner Program in International and Comparative Political Economy</a> at <a href="https://www.yale.edu/">Yale University</a>. Prior to joining the Yale faculty I was an Assistant Professor of Political Science and Co-director of the Political Institutions/Political Behavior Research Program at <a href="https://pols.tamu.edu/">Texas A&M University</a>. I received my PhD in <a href="https://polisci.wustl.edu/">political science</a> from <a href="http://wustl.edu/">Washington University in St. Louis</a>, where I was a fellow in the <a href="https://www.nsfgrfp.org/">National Science Foundation Graduate Research Fellowship Program</a> (2011-2014) and a graduate associate for the <a href="http://cerl.wustl.edu/">Center for Empirical Research in the Law (CERL)</a>. 
+I am an Assistant Professor of <a href="http://politicalscience.yale.edu/">Political Science</a>, a Resident Fellow in the <a href="http://isps.yale.edu/">Institution of Social and Policy Studies</a> and the <a href="http://csap.yale.edu/">Center for the Study of American Politics</a>, and a Faculty Affiliate of the <a href="http://leitner.yale.edu/">Leitner Program in International and Comparative Political Economy</a> at <a href="https://www.yale.edu/">Yale University</a>. Prior to joining the Yale faculty I was an Assistant Professor of Political Science and Co-director of the Political Institutions/Political Behavior Research Program at <a href="https://pols.tamu.edu/">Texas A&M University</a>. I received my PhD in <a href="https://polisci.wustl.edu/">Political Science</a> from <a href="http://wustl.edu/">Washington University in St. Louis</a>, where I was a fellow in the <a href="https://www.nsfgrfp.org/">National Science Foundation Graduate Research Fellowship Program</a> (2011-2014) and a graduate associate for the <a href="http://cerl.wustl.edu/">Center for Empirical Research in the Law (CERL)</a>. 
 <br>
 <br>
 My research focuses primarily on American political institutions and democratic accountability. In particular, my work examines interactions within the executive branch --- e.g., the President and bureaucracy --- as well as between the executive and other institutions --- e.g., courts, Congress, and interest groups. My main project studies how institutions such as executive and judicial review impact the incentives for bureaucratic agencies to more effectively craft and implement public policy, and provides insight into how one might design institutions to foster this behavior. Another major project studies how interest group lobbying and campaign finance structures policymaking incentives, informational dynamics, and political agendas. I am also generally interested in political economy, formal political theory, and public administration, management, and policy.
@@ -231,6 +231,42 @@ The lion's share of policy in the United States is made by administrative agenci
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
+			<li><font face="Helvetica" size="3">"<a href="FortunatoTurner-capacity-AJPS-final-submitted.pdf">Legislative Capacity and Credit Risk</a>," (with <a href="http://davidfortunato.com/">David Fortunato</a>). <b>Conditionally accepted, <i>American Journal of Political Science</i>.</b>
+
+<br>
+
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsCreditRisk')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="AbsCreditRisk" style="DISPLAY: none" >
+Legislatures differ in their institutional capacity to draft and enact policy. While strong legislatures can increase the congruence of policy outcomes to the electorate's preferences, they can also inject uncertainty into markets with their ability to alter the political economic landscape. We argue that this uncertainty will manifest in a state's ability to borrow and hypothesize a negative relationship between legislative capacity and credit-worthiness. Using ratings of general obligation bonds issued by the American states over nearly two decades and data on the institutional capacity of state legislative assemblies, we find support for the claim that having a legislature that is better equipped to affect policy change increases credit risk evaluations. The results we present broaden our understanding of the importance of legislative institutions and the determinants of credit risk, and also bring evidence to bear on competing expectations for policymaking behavior under representative and responsible models of governance.
+</div>
+</span>
+&nbsp &nbsp <a onclick ="javascript:ShowHide('bibCreditRisk')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="bibCreditRisk" style="DISPLAY: none" >
+<pre>
+@article{FortunatoTurnerCapacity,
+  title={Legislative Capacity and Credit Risk},
+  author={Fortunato, David and Turner, Ian R},
+  journal={American Journal of Political Science},
+  year={2017}
+}
+</pre>
+</div>
+</span>   
+&nbsp &nbsp <a href="ajps-online-SI.pdf">Supporting Information</a> &nbsp &nbsp
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+<br>
+
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
 			<li><font face="Helvetica" size="3">"<a a href="Turner-bias-1-2017-submitted.pdf" target="_blank">Political Agency, Oversight, and Bias: The Instrumental Value of Politicized Policymaking</a>." <b>R&R at <i>Journal of Law, Economics, &#38; Organization</i>.</b>  
 <br>
 &nbsp &nbsp <a onclick ="javascript:ShowHide('AbsOptBias')" href="javascript:;" >Abstract</a> &nbsp &nbsp
@@ -343,40 +379,6 @@ Lobbying is a potential source of corruption but is also a valuable source of in
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a href="FortunatoTurner-capacity-V3.pdf">Legislative Capacity and Credit Risk</a>," (with <a href="http://davidfortunato.com/">David Fortunato</a>). <b>R&R at <i>American Journal of Political Science</i>.</b>
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsCreditRisk')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsCreditRisk" style="DISPLAY: none" >
-Legislatures differ in their institutional capacity to draft and enact policy. While strong legislatures can increase the congruence of policy outcomes to the electorate's preferences, they can also inject uncertainty into markets with their ability to alter the political economic landscape. We argue that this uncertainty will manifest in a state's ability to borrow and hypothesize a negative relationship between legislative capacity and credit-worthiness. Using ratings of general obligation bonds issued by the American states over nearly two decades and data on the institutional capacity of state legislative assemblies, we find support for the claim that having a legislature that is better equipped to affect policy change increases credit risk evaluations. The results we present broaden our understanding of the importance of legislative institutions and the determinants of credit risk, and also bring evidence to bear on competing expectations for policymaking behavior under representative and responsible models of governance.
-</div>
-</span>
-&nbsp &nbsp <a onclick ="javascript:ShowHide('bibCreditRisk')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="bibCreditRisk" style="DISPLAY: none" >
-<pre>
-@article{fortunatoturner2017capacity,
-  title={Legislative Capacity and Credit Risk},
-  author={Fortunato, David and Turner, Ian R},
-  journal={Unpublished Manuscript, Yale University},
-  year={2017}
-}
-</pre>
-</div>
-</span>   
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
 			<li><font face="Helvetica" size="3">
 "<a href="SchnakenbergTurnerCampaignFinance7-2017-ONLINE.pdf">Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). <b><i>Under review</i>.</b>
 
@@ -414,7 +416,7 @@ Campaign finance contributions may influence policy by affecting elections or in
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a href="procedure-substance-online-2017.pdf">Reviewing Procedure vs. Judging Substance: The Scope of Review and Bureaucratic Policymaking</a>.'' <b><i>Under review</i>.</b>
+			<li><font face="Helvetica" size="3">"<a href="procedure-substance-ONLINE-8-2017.pdf">Reviewing Procedure vs. Judging Substance: The Scope of Review and Bureaucratic Policymaking</a>.'' <b><i>Under review</i>.</b>
 			
 <br>
 
@@ -638,7 +640,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 			<ul>
 			<li><font face="Helvetica" size="3">Democracy &amp; Bureaucracy (Undergraduate Lecture, Fall 2017)
 <br><br>
-<a href="">PLSC 258 Syllabus</a>
+<a href="https://www.dropbox.com/s/scac1dz6jutlhly/dem-and-bur-fall17-syllabus.pdf?dl=0">PLSC 258 Syllabus</a>
 <span style="font-size: 10pt; font-family: Helvetica;">
 </span></p>
 			</font>
@@ -654,7 +656,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 			<ul>
 			<li><font face="Helvetica" size="3">Interest Groups, Money, and Influence in American Politics (Undergraduate/Graduate Seminar, Fall 2017)
 <br><br>
-<a href="">PLSC 231/833 and EP&amp;E 337 Syllabus</a>
+<a href="https://www.dropbox.com/s/fnfgpr38royuppr/money-politics-syllabus-fall2017.pdf?dl=0">PLSC 231/833 and EP&amp;E 337 Syllabus</a>
 <span style="font-size: 10pt; font-family: Helvetica;">
 </span></p>
 			</font>
@@ -670,7 +672,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 			<ul>
 			<li><font face="Helvetica" size="3">Formal Models of Accountability &amp; Representation (Graduate Seminar, Spring 2018)
 <br><br>
-<a href="">Syllabus</a>
+<a href="">PLSC 836 Syllabus</a>
 <span style="font-size: 10pt; font-family: Helvetica;">
 </span></p>
 			</font>
