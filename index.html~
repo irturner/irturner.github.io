@@ -11,10 +11,10 @@
 
 -->
 
-<html><head><title>Ian R. Turner - Assistant Professor - Yale University</title>
+<html><head><title>Ian R. Turner - Yale University - Assistant Professor</title>
 		
 		<meta content="American political institutions, political economy, formal political theory, positive political theory, game theory, political methodology, research, teaching, Ian Turner" name="keywords">
-		<meta content="Ian Turner, American politics, political institutions, political economy, formal political theory, game theory, principal-agent, political methodology" name="description">
+		<meta content="Ian Turner, American politics, political institutions, bureaucracy, political economy, formal political theory, game theory" name="description">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
@@ -108,7 +108,7 @@ a:active {
 I am an Assistant Professor of <a href="http://politicalscience.yale.edu/">Political Science</a>, a Resident Fellow in the <a href="http://isps.yale.edu/">Institution of Social and Policy Studies</a> and the <a href="http://csap.yale.edu/">Center for the Study of American Politics</a>, and a Faculty Affiliate of the <a href="http://leitner.yale.edu/">Leitner Program in International and Comparative Political Economy</a> at <a href="https://www.yale.edu/">Yale University</a>. Prior to joining the Yale faculty I was an Assistant Professor of Political Science and Co-director of the Political Institutions/Political Behavior Research Program at <a href="https://pols.tamu.edu/">Texas A&M University</a>. I received my PhD in <a href="https://polisci.wustl.edu/">Political Science</a> from <a href="http://wustl.edu/">Washington University in St. Louis</a>, where I was a fellow in the <a href="https://www.nsfgrfp.org/">National Science Foundation Graduate Research Fellowship Program</a> (2011-2014) and a graduate associate for the <a href="http://cerl.wustl.edu/">Center for Empirical Research in the Law (CERL)</a>. 
 <br>
 <br>
-My research focuses primarily on American political institutions and democratic accountability. In particular, my work examines interactions within the executive branch --- e.g., the President and bureaucracy --- as well as between the executive and other institutions --- e.g., courts, Congress, and interest groups. My main project studies how institutions such as executive and judicial review impact the incentives for bureaucratic agencies to more effectively craft and implement public policy, and provides insight into how one might design institutions to foster this behavior. Another major project studies how interest group lobbying and campaign finance structures policymaking incentives, informational dynamics, and political agendas. I am also generally interested in political economy, formal political theory, and public administration, management, and policy.
+My research focuses primarily on American political institutions and democratic accountability. I am currently working on topics in bureaucratic politics, including the role that oversight institutions play in structuring multiple dimensions of policymaking behavior. In particular, my work examines interactions within the executive branch as well as between the executive branch and other institutions. Another major project studies how interest group lobbying and campaign finance structures policymaking incentives, informational dynamics, and political agendas. I am also generally interested in political economy, formal political theory, and issues in public administration and management.
 <br>
 <br>
 For more information on my work check out my <a href="https://www.dropbox.com/s/w4gvj4dspb3o5uz/turnerCV.pdf?dl=0" target="_blank">CV</a>, the papers listed below, or my <a href="http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1787251">SSRN page</a>.
@@ -139,6 +139,44 @@ For more information on my work check out my <a href="https://www.dropbox.com/s/
 		</td>
 	</tr>
 </tbody></table>
+
+<br>
+
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3">"<a href="FortunatoTurner-capacity-AJPS-final-submitted.pdf">Legislative Capacity and Credit Risk</a>," (with <a href="http://davidfortunato.com/">David Fortunato</a>). Forthcoming. <i>American Journal of Political Science</i>.
+
+<br>
+
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsCreditRisk')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="AbsCreditRisk" style="DISPLAY: none" >
+Legislatures differ in their institutional capacity to draft and enact policy. While strong legislatures can increase the congruence of policy outcomes to the electorate's preferences, they can also inject uncertainty into markets with their ability to alter the political economic landscape. We argue that this uncertainty will manifest in a state's ability to borrow and hypothesize a negative relationship between legislative capacity and credit-worthiness. Using ratings of general obligation bonds issued by the American states over nearly two decades and data on the institutional capacity of state legislative assemblies, we find support for the claim that having a legislature that is better equipped to affect policy change increases credit risk evaluations. The results we present broaden our understanding of the importance of legislative institutions, the determinants of credit risk, and the economic implications of democratic responsiveness.
+</div>
+</span>
+&nbsp &nbsp <a onclick ="javascript:ShowHide('bibCreditRisk')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="bibCreditRisk" style="DISPLAY: none" >
+<pre>
+@article{FortunatoTurnerCapacity,
+  title={Legislative Capacity and Credit Risk},
+  author={Fortunato, David and Turner, Ian R},
+  journal={American Journal of Political Science},
+  volume={Forthcoming},
+  year={2018}
+}
+</pre>
+</div>
+</span>   
+&nbsp &nbsp <a href="ajps-online-SI.pdf">Supporting Information</a> &nbsp &nbsp
+&nbsp &nbsp <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WYA1S2">Dataverse</a> &nbsp &nbsp
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
 
 <br>
 
@@ -231,43 +269,7 @@ The lion's share of policy in the United States is made by administrative agenci
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a href="FortunatoTurner-capacity-AJPS-final-submitted.pdf">Legislative Capacity and Credit Risk</a>," (with <a href="http://davidfortunato.com/">David Fortunato</a>). <b>Conditionally accepted, <i>American Journal of Political Science</i>.</b>
-
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsCreditRisk')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsCreditRisk" style="DISPLAY: none" >
-Legislatures differ in their institutional capacity to draft and enact policy. While strong legislatures can increase the congruence of policy outcomes to the electorate's preferences, they can also inject uncertainty into markets with their ability to alter the political economic landscape. We argue that this uncertainty will manifest in a state's ability to borrow and hypothesize a negative relationship between legislative capacity and credit-worthiness. Using ratings of general obligation bonds issued by the American states over nearly two decades and data on the institutional capacity of state legislative assemblies, we find support for the claim that having a legislature that is better equipped to affect policy change increases credit risk evaluations. The results we present broaden our understanding of the importance of legislative institutions, the determinants of credit risk, and the economic implications of democratic responsiveness.
-</div>
-</span>
-&nbsp &nbsp <a onclick ="javascript:ShowHide('bibCreditRisk')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="bibCreditRisk" style="DISPLAY: none" >
-<pre>
-@article{FortunatoTurnerCapacity,
-  title={Legislative Capacity and Credit Risk},
-  author={Fortunato, David and Turner, Ian R},
-  journal={American Journal of Political Science},
-  year={2017}
-}
-</pre>
-</div>
-</span>   
-&nbsp &nbsp <a href="ajps-online-SI.pdf">Supporting Information</a> &nbsp &nbsp
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"<a a href="Turner-bias-1-2017-submitted.pdf" target="_blank">Political Agency, Oversight, and Bias: The Instrumental Value of Politicized Policymaking</a>." <b>R&R at <i>Journal of Law, Economics, &#38; Organization</i>.</b>  
+			<li><font face="Helvetica" size="3">"<a a href="Turner-bias-1-2017-submitted.pdf" target="_blank">Political Agency, Oversight, and Bias: The Instrumental Value of Politicized Policymaking</a>." <b>R&R at <i>Journal of Law, Economics, and Organization</i>.</b>  
 <br>
 &nbsp &nbsp <a onclick ="javascript:ShowHide('AbsOptBias')" href="javascript:;" >Abstract</a> &nbsp &nbsp
 <span style="font-size: 12pt;">
@@ -345,42 +347,8 @@ entirely.
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a href="SchnakenbergTurner-corruption-online.pdf">Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). <b>R&R at <i>American Journal of Political Science</i>.</b>
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsCorruption')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsCorruption" style="DISPLAY: none" >
-Lobbying is a potential source of corruption but is also a valuable source of information for policymakers. We analyze a game-theoretic model that shows how the threat of corruption affects the incentives of non-corrupt politicians to enlist the help of lobbyists to make more informed decisions. Politicians face a dilemma because voters cannot always tell whether a politician allows access to lobbyists in order to solicit corruption or to seek information. Thus, a non-corrupt politician may deny access to lobbyists to signal that she is non-corrupt even though doing so impedes her ability to make good policy. This signaling may decrease the welfare of the voters depending on the value of the lost policy information relative to the value of screening out corrupt politicians.
-</div>
-</span>  
-&nbsp &nbsp <a onclick ="javascript:ShowHide('bibCorruption')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="bibCorruption" style="DISPLAY: none" >
-<pre>
-@article{schnakenbergturner2017corruption,
-  title={Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking},
-  author={Schnakenberg, Keith E and Turner, Ian R},
-  journal={Unpublished Manuscript, Yale University},
-  year={2017}
-}
-</pre>
-</div>
-</span>  
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
 			<li><font face="Helvetica" size="3">
-"<a href="SchnakenbergTurnerCampaignFinance7-2017-ONLINE.pdf">Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions</a>," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). <b><i>Under review</i>.</b>
+"<a href="SchnakenbergTurnerCampaignFinance7-2017-ONLINE.pdf">Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions</a>," (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a>). <b>R&R at <i>American Political Science Review</i>.</b>
 
 <br>
 
@@ -416,7 +384,42 @@ Campaign finance contributions may influence policy by affecting elections or in
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a href="procedure-substance-ONLINE-8-2017.pdf">Reviewing Procedure vs. Judging Substance: The Scope of Review and Bureaucratic Policymaking</a>.'' <b><i>Under review</i>.</b>
+			<li><font face="Helvetica" size="3">"<a href="SchnakenbergTurner-corruption-online-may18.pdf">Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking</a>," (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a>). <b>R&R at <i>American Political Science Review</i>.</b>
+<br>
+
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsCorruption')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="AbsCorruption" style="DISPLAY: none" >
+Lobbying is a potential source of corruption but is also a valuable source of information for policymakers. We analyze a game-theoretic model that shows how the threat of corruption affects the incentives of non-corrupt politicians to enlist the help of lobbyists to make more informed decisions. Politicians face a dilemma because voters cannot always tell whether a politician allows access to lobbyists in order to solicit corruption or to seek information. Thus, a non-corrupt politician may deny access to lobbyists to signal that she is non-corrupt even though doing so impedes her ability to make good policy. This signaling may decrease the welfare of the voters depending on the value of the lost policy information relative to the value of screening out corrupt politicians.
+</div>
+</span>  
+&nbsp &nbsp <a onclick ="javascript:ShowHide('bibCorruption')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="bibCorruption" style="DISPLAY: none" >
+<pre>
+@article{schnakenbergturner2018corruption,
+  title={Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking},
+  author={Schnakenberg, Keith E and Turner, Ian R},
+  journal={Unpublished Manuscript, Yale University},
+  year={2018}
+}
+</pre>
+</div>
+</span>  
+&nbsp &nbsp <a href="SchnakenbergTurner-onlineSI-may18.pdf">Supplemental Appendix</a> &nbsp &nbsp
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+<br>
+
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3">"<a href="procedure-substance-ONLINE-8-2017.pdf">Reviewing Procedure vs. Judging Substance: The Scope of Review and Bureaucratic Policymaking</a>.''
 			
 <br>
 
@@ -445,7 +448,7 @@ How does the scope of review affect bureaucratic policymaking incentives? To exp
 		</li></ul></td>
 	</tr>
 </table>
-
+<!--
 <br>
 
 <table align="center" width="80%">
@@ -491,12 +494,11 @@ empirical studies of bureaucratic policymaking.
 
 <br>
 
-<!--
 <table align="center" width="80%">
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"Lobbying for Inside Information," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). 
+			<li><font face="Helvetica" size="3">"Lobbying for Inside Information," (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a>). 
 <br>
 
 &nbsp &nbsp <a onclick ="javascript:ShowHide('AbsInsideInfo')" href="javascript:;" >Abstract</a> &nbsp &nbsp
@@ -511,7 +513,7 @@ empirical studies of bureaucratic policymaking.
 	</tr>
 </table>
 
-<br> -->
+<br> 
 
 <table align="center" width="80%">
 	<tr>
@@ -573,7 +575,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 		</li></ul></td>
 	</tr>
 </table>
-
+-->
 <br>
 
 <table align="center" width="80%">
@@ -638,7 +640,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">Democracy &amp; Bureaucracy (Undergraduate Lecture, Fall 2017)
+			<li><font face="Helvetica" size="3">Democracy &amp; Bureaucracy (Undergraduate, Fall 2017)
 <br><br>
 <a href="https://www.dropbox.com/s/scac1dz6jutlhly/dem-and-bur-fall17-syllabus.pdf?dl=0">PLSC 258 Syllabus</a>
 <span style="font-size: 10pt; font-family: Helvetica;">
@@ -654,7 +656,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">Interest Groups, Money, and Influence in American Politics (Undergraduate/Graduate Seminar, Fall 2017)
+			<li><font face="Helvetica" size="3">Interest Groups, Money, and Influence in American Politics (Undergraduate/Graduate, Fall 2017)
 <br><br>
 <a href="https://www.dropbox.com/s/fnfgpr38royuppr/money-politics-syllabus-fall2017.pdf?dl=0">PLSC 231/833 and EP&amp;E 337 Syllabus</a>
 <span style="font-size: 10pt; font-family: Helvetica;">
@@ -670,9 +672,9 @@ When political agents worry about losing their jobs, they may prioritize job pro
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">Formal Models of Accountability &amp; Representation (Graduate Seminar, Spring 2018)
+			<li><font face="Helvetica" size="3">Formal Models of Accountability (Graduate, Spring 2018)
 <br><br>
-<a href="">PLSC 836 Syllabus</a>
+<a href="accountability-representation-spring18-syl.pdf">PLSC 836 Syllabus</a>
 <span style="font-size: 10pt; font-family: Helvetica;">
 </span></p>
 			</font>
@@ -698,9 +700,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 			<ul>
 			<li><font face="Helvetica" size="3">Game Theoretic Methods in Political Science (Undergraduate, Fall 2015, Fall 2016)
 <br><br>
-<a href="POLS308-500-syllabus-final-2016.pdf">POLS 308 (500) Syllabus</a>
-<br><br>
-<a href="POLS308-501-syllabus-final-2016.pdf">POLS 308 (501) Syllabus</a>
+<a href="POLS308-500-syllabus-final-2016.pdf">Syllabus</a>
 <br>
 <span style="font-size: 10pt; font-family: Helvetica;">
 </span></p>
@@ -717,7 +717,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 			<ul>
 			<li><font face="Helvetica" size="3">Formal Models of Bureaucracy (Graduate, Spring 2016)
 <br><br>
-<a href="formal-bureaucracy-grad.pdf">POLS 643 Syllabus</a>
+<a href="formal-bureaucracy-grad.pdf">Syllabus</a>
 <span style="font-size: 10pt; font-family: Helvetica;">
 </span></p>
 			</font>
@@ -733,7 +733,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 			<ul>
 			<li><font face="Helvetica" size="3">Political Institutions (Graduate, Summer 2016)
 <br><br>
-<a href="Political-Institutions-Syllabus-Summer-2016.pdf">POLS 689 Syllabus</a>
+<a href="Political-Institutions-Syllabus-Summer-2016.pdf">Syllabus</a>
 <span style="font-size: 10pt; font-family: Helvetica;">
 </span></p>
 			</font>
