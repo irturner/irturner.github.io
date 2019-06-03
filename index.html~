@@ -56,6 +56,7 @@ a:active {
 
 </tbody></table>
 
+
 <hr align="center" style="width: 85%; color: #0f4d92; height: 0.2%; background-color:#0f4d92;" />
 
 <p>
@@ -94,7 +95,7 @@ a:active {
 			<!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<font face="Helvetica" size="4"><b><a href="" onclick="Calendly.showPopupWidget('https://calendly.com/ian-turner/office-hours');return false;">Office Hours: Schedule an Appointment Here</a></b></font>
+<font face="Helvetica" size="4"><b><a href="" onclick="Calendly.showPopupWidget('https://calendly.com/ian-turner/office-hours');return false;">Office Hours: Schedule Appointment Here</a></b></font>
 <!-- Calendly link widget end -->
 </font></td>
 
@@ -114,7 +115,7 @@ a:active {
 I am an Assistant Professor of <a href="http://politicalscience.yale.edu/">Political Science</a>, a Resident Fellow in the <a href="http://isps.yale.edu/">Institution of Social and Policy Studies</a> and the <a href="http://csap.yale.edu/">Center for the Study of American Politics</a>, and a Faculty Affiliate of the <a href="http://leitner.yale.edu/">Leitner Program in International and Comparative Political Economy</a> at <a href="https://www.yale.edu/">Yale University</a>. Prior to joining the Yale faculty I was an Assistant Professor of Political Science and Co-director of the Political Institutions/Political Behavior Research Program at <a href="https://pols.tamu.edu/">Texas A&M University</a>. I received my PhD in <a href="https://polisci.wustl.edu/">Political Science</a> from <a href="http://wustl.edu/">Washington University in St. Louis</a>, where I was a fellow in the <a href="https://www.nsfgrfp.org/">National Science Foundation Graduate Research Fellowship Program</a> (2011-2014) and a graduate associate for the <a href="http://cerl.wustl.edu/">Center for Empirical Research in the Law (CERL)</a>. 
 <br>
 <br>
-I am broadly interested in political economy, formal political theory, and issues in public administration and management. My research focuses primarily on political institutions and democratic accountability and representation. Currently, I am working on projects using applied formal modeling to study various topics in bureaucratic politics and special interest politics (lobbying and campaign finance). For more information on my work check out my <a href="https://www.dropbox.com/s/yajb28ykcozbr0e/turnerCV.pdf?dl=0" target="_blank">CV</a>, the papers listed below, or my <a href="http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1787251">SSRN page</a>. <br><br>
+I am broadly interested in American politics, political institutions, political economy, formal political theory, and issues in public administration, management, and policy. My research focuses primarily on political institutions and democratic accountability and representation. Currently, I am working on projects using applied formal modeling to study various topics in bureaucratic politics and special interest politics (lobbying and campaign finance). For more information on my work check out my <a href="https://www.dropbox.com/s/yajb28ykcozbr0e/turnerCV.pdf?dl=0" target="_blank">CV</a>, the papers listed below, or my <a href="http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1787251">SSRN page</a>. <br><br>
 
 If you would like to schedule a meeting with me during my office hours click the link at the top of the page to reserve a time slot (please do not exceed two 15 minute blocs).
 
@@ -140,7 +141,7 @@ If you would like to schedule a meeting with me during my office hours click the
 <table align="center" width="80%">
 	<tbody><tr>
 		<td align="left" valign="center" width="75%">
-			<font face="Helvetica" size="4"><b>Peer-reviewed publications</b></font>
+			<font face="Helvetica" size="3"><b>Published & forthcoming</b></font>
 		</td>
 	</tr>
 </tbody></table>
@@ -151,7 +152,129 @@ If you would like to schedule a meeting with me during my office hours click the
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12368">Legislative Capacity and Credit Risk</a>," (with <a href="http://davidfortunato.com/">David Fortunato</a>). 2018. <i>American Journal of Political Science</i> 62(3): 623-636.
+			<li><font face="Helvetica" size="3">
+"<a href="https://www.dropbox.com/s/awdivxlgma2eubt/PattyTurner-JOP-final-online.pdf?dl=0" target="_blank">Ex Post Review and Expert Policymaking: When Does Oversight Reduce Accountability?</a>" (with <a href="http://www.johnwpatty.net/">John W. Patty</a>). Forthcoming. <i>Journal of Politics</i>.
+<br>
+
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsInfoDeference')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="AbsInfoDeference" style="DISPLAY: none" >
+Ex post review is a common feature of policymaking institutions. We consider a simple environment
+in which an expert agent makes a policy recommendation, which can then be accepted
+or rejected by a principal whose policy goals differ from those of the agent. The theory offers
+testable predictions about policy recommendations and the principal’s acceptance or rejection
+of these recommendations. The theory suggests that behavior and institutional design incentives
+are sensitive to both actors’ preference alignment and the importance of and uncertainty inherent
+to the policy area in multiple ways, some expected and some less obvious. We characterize the
+types of situations in which ex post review creates incentives for the agent to make pathological
+policy choices. In these situations, ex post review can reduce the accountability of the agent to
+the wishes of the principal and ultimately create an incentive for the principal to forego review
+entirely.
+</div>
+</span>
+&nbsp &nbsp <a onclick ="javascript:ShowHide('bibInfoDeference')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="bibInfoDeference" style="DISPLAY: none" >
+<pre>
+@article{pattyturner2019review,
+  title={Ex Post Review and Expert Policymaking: When Does Oversight Reduce Accountability?},
+  author={Patty, John W and Turner, Ian R},
+  journal={Journal of Politics},
+  volume={},
+  number={},
+  pages={n/a--n/a}
+  year={2019}
+}
+</pre>
+</div>
+</span> 
+<!-- &nbsp &nbsp <a href="https://www.dropbox.com/s/awdivxlgma2eubt/PattyTurner-JOP-final-online.pdf?dl=0" target="_blank">Final manuscript</a> &nbsp &nbsp -->
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+<br>
+
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3">"<a href="https://www.cambridge.org/core/journals/american-political-science-review/article/signaling-with-reform-how-the-threat-of-corruption-prevents-informed-policymaking/DF50871EC917E7D2FE89EDCA3DFEF861#">Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking</a>" (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a>). Forthcoming. <i>American Political Science Review</i>.
+<br>
+
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsCorruption')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="AbsCorruption" style="DISPLAY: none" >
+Lobbying is a potential source of corruption but is also a valuable source of information for policymakers. We analyze a game-theoretic model that shows how the threat of corruption affects the incentives of non-corrupt politicians to enlist the help of lobbyists to make more informed decisions. Politicians face a dilemma because voters cannot always tell whether a politician allows access to lobbyists in order to solicit corruption or to seek information. Thus, a non-corrupt politician may deny access to lobbyists to signal that she is non-corrupt even though doing so impedes her ability to make good policy. This signaling may decrease the welfare of the voters depending on the value of the lost policy information relative to the value of screening out corrupt politicians.
+</div>
+</span>  
+&nbsp &nbsp <a onclick ="javascript:ShowHide('bibCorruption')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="bibCorruption" style="DISPLAY: none" >
+<pre>
+@article{schnakenbergturner2019corruption,
+  title={Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking},
+  author={Schnakenberg, Keith E and Turner, Ian R},
+  journal={American Political Science Review},
+  volume={},
+  number={},
+  pages={n/a--n/a}
+  year={2019}
+}
+</pre>
+</div>
+</span>  
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+<br>
+
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3">"<a a href="turner-jleo-ONLINE-1-24-19.pdf" target="_blank">Political Agency, Oversight, and Bias: The Instrumental Value of Politicized Policymaking</a>." Forthcoming. <i>Journal of Law, Economics, & Organization</i>.
+<br>
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsOptBias')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="AbsOptBias" style="DISPLAY: none" >
+We develop a theory of policymaking between an agent and an overseer, with a principal whose welfare is affected by agent-overseer interactions. The agent can increase the quality of policy outcomes through costly capacity investments. Oversight and agent bias jointly determine optimal agent capacity investments. We show that when oversight improves agent investment incentives the principal always benefits from an agent with biases opposite the overseer. Competing agent-overseer biases translate into higher quality policy outcomes than the principal could induce were she monitoring the agent. Effective oversight is necessary for these incentive effects. The results imply that political principals ought to consider the nature of the broader policymaking environment when appointing agents to make policy on their behalf and when designing managerial strategies aimed at motivating agents.
+</div>
+</span>  
+&nbsp &nbsp <a onclick ="javascript:ShowHide('bibOptBias')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
+<span style="font-size: 12pt;">
+<div class="mid" id="bibOptBias" style="DISPLAY: none" >
+<pre>
+@article{turner2019jleo,
+  title={Political Agency, Oversight, and Bias: The Instrumental Value of Politicized Policymaking},
+  author={Turner, Ian R},
+  journal={Journal of Law, Economics, and Organization},
+  volume={35},
+  number={},
+  pages={n/a--n/a},
+  year={2019}
+}
+</pre>
+</div>
+</span>  
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+<br>
+
+<table align="center" width="80%">
+	<tr>
+		<td align="left" valign="center" width="75%">
+			<ul>
+			<li><font face="Helvetica" size="3">"<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12368">Legislative Capacity and Credit Risk</a>" (with <a href="http://davidfortunato.com/">David Fortunato</a>). 2018. <i>American Journal of Political Science</i> 62(3): 623-636.
 
 <br>
 
@@ -191,7 +314,7 @@ Legislatures differ in their institutional capacity to draft and enact policy. W
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a href="http://onlinelibrary.wiley.com/doi/10.1111/ecpo.12089/full">Allies or Commitment Devices? A Model of Appointments to the Federal Reserve</a>," (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a> and <a href="http://aliciauribemcguire.com/">Alicia Uribe-McGuire</a>). 2017. <i>Economics &#38; Politics</i> 29(2): 118-132. <br>
+			<li><font face="Helvetica" size="3">"<a href="http://onlinelibrary.wiley.com/doi/10.1111/ecpo.12089/full">Allies or Commitment Devices? A Model of Appointments to the Federal Reserve</a>" (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a> and <a href="http://aliciauribemcguire.com/">Alicia Uribe-McGuire</a>). 2017. <i>Economics &#38; Politics</i> 29(2): 118-132. <br>
 
 &nbsp &nbsp <a onclick ="javascript:ShowHide('AbsFed')" href="javascript:;" >Abstract</a> &nbsp &nbsp
 <span style="font-size: 12pt;">
@@ -265,7 +388,7 @@ The lion's share of policy in the United States is made by administrative agenci
 <table align="center" width="80%">
 	<tbody><tr>
 		<td align="left" valign="center" width="75%">
-			<font face="Helvetica" size="4"><b>Working papers</b></font>
+			<font face="Helvetica" size="3"><b>Working papers</b></font>
 		</td>
 	</tr>
 </tbody></table>
@@ -276,86 +399,8 @@ The lion's share of policy in the United States is made by administrative agenci
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a a href="Turner-bias-1-2017-submitted.pdf" target="_blank">Political Agency, Oversight, and Bias: The Instrumental Value of Politicized Policymaking</a>." <b>R&R at <i>Journal of Law, Economics, and Organization</i>.</b>  
-<br>
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsOptBias')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsOptBias" style="DISPLAY: none" >
-We develop a theory of policymaking between a principal, an agent, and an overseer. The agent increases the overall quality of policy outcomes through costly capacity investments. Oversight impacts agent investment incentives, but only if the policy bias of the agent does as well. The principal chooses whether or not to authorize the agent to make policy on her behalf in light of oversight dynamics. We show that when oversight is not an effective means of political control, the principal never benefits from a biased agent relative to an ally. When oversight is effective, the principal almost always benefits from agent bias. Based on the dynamics of policymaking oversight the ally principle fails for instrumental reasons. The principal benefits from trading off agent bias for higher capacity investments. The results have implications for bureaucratic appointments and intra-agency organization.
-</div>
-</span>  
-&nbsp &nbsp <a onclick ="javascript:ShowHide('bibOptBias')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="bibOptBias" style="DISPLAY: none" >
-<pre>
-@article{turner2017bias,
-  title={Political Agency, Oversight, and Bias: The Instrumental Value of Politicized Policymaking},
-  author={Turner, Ian R},
-  journal={Unpublished Manuscript, Yale University},
-  year={2017}
-}
-</pre>
-</div>
-</span>  
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
 			<li><font face="Helvetica" size="3">
-"<a href="https://www.dropbox.com/s/z5ugsbxbm8vmk18/PattyTurner-obfuscation-JOP-V2-online.pdf?dl=0" target="_blank">Ex Post Review and Expert Policymaking: When Does Oversight Reduce Accountability?</a>" (with <a href="http://www.johnwpatty.net/">John W. Patty</a>). <b>R&R at <i>Journal of Politics</i>.</b>
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsInfoDeference')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsInfoDeference" style="DISPLAY: none" >
-Ex post review is a common feature of policymaking institutions. We consider a simple environment
-in which an expert agent makes a policy recommendation, which can then be accepted
-or rejected by a principal whose policy goals differ from those of the agent. The theory offers
-testable predictions about policy recommendations and the principal’s acceptance or rejection
-of these recommendations. The theory suggests that behavior and institutional design incentives
-are sensitive to both actors’ preference alignment and the importance of and uncertainty inherent
-to the policy area in multiple ways, some expected and some less obvious. We characterize the
-types of situations in which ex post review creates incentives for the agent to make pathological
-policy choices. In these situations, ex post review can reduce the accountability of the agent to
-the wishes of the principal and ultimately create an incentive for the principal to forego review
-entirely.
-</div>
-</span>
-&nbsp &nbsp <a onclick ="javascript:ShowHide('bibInfoDeference')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="bibInfoDeference" style="DISPLAY: none" >
-<pre>
-@article{pattyturner2018review,
-  title={Ex Post Review and Expert Policymaking: When Does Oversight Reduce Accountability?},
-  author={Patty, John W and Turner, Ian R},
-  journal={Unpublished Manuscript, Yale University},
-  year={2017}
-}
-</pre>
-</div>
-</span>  
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">
-"<a href="SchnakenbergTurnerCampaignFinance-ONLINE.pdf">Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions</a>," (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a>). <b>R&R at <i>American Political Science Review</i>.</b>
+"<a href="SchnakenbergTurnerCampaignFinance-ONLINE.pdf">Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions</a>" (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a>). R&R at <i>American Political Science Review</i>.
 
 <br>
 
@@ -392,42 +437,7 @@ Campaign finance contributions may influence policy by affecting elections or in
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"<a href="SchnakenbergTurner-corruption-online-72018.pdf">Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking</a>," (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a>). <b>R&R at <i>American Political Science Review</i>.</b>
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsCorruption')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsCorruption" style="DISPLAY: none" >
-Lobbying is a potential source of corruption but is also a valuable source of information for policymakers. We analyze a game-theoretic model that shows how the threat of corruption affects the incentives of non-corrupt politicians to enlist the help of lobbyists to make more informed decisions. Politicians face a dilemma because voters cannot always tell whether a politician allows access to lobbyists in order to solicit corruption or to seek information. Thus, a non-corrupt politician may deny access to lobbyists to signal that she is non-corrupt even though doing so impedes her ability to make good policy. This signaling may decrease the welfare of the voters depending on the value of the lost policy information relative to the value of screening out corrupt politicians.
-</div>
-</span>  
-&nbsp &nbsp <a onclick ="javascript:ShowHide('bibCorruption')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="bibCorruption" style="DISPLAY: none" >
-<pre>
-@article{schnakenbergturner2018corruption,
-  title={Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking},
-  author={Schnakenberg, Keith E and Turner, Ian R},
-  journal={Unpublished Manuscript, Yale University},
-  year={2018}
-}
-</pre>
-</div>
-</span>  
-&nbsp &nbsp <a href="SchnakenbergTurner-corruption-SI-online-72018.pdf">Supplemental Appendix</a> &nbsp &nbsp
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"<a href="ProcSub-ONLINE.pdf">Reviewing Procedure vs. Judging Substance: The Scope of Review and Bureaucratic Policymaking</a>.'' <b>R&R at <i>Journal of Politics</i>.</b>
+			<li><font face="Helvetica" size="3">"<a href="Proc-Sub-2019-V1.pdf">Reviewing Procedure vs. Judging Substance: The Scope of Review and Bureaucratic Policymaking</a>.''
 			
 <br>
 
@@ -450,7 +460,6 @@ How does the scope of review affect bureaucratic policymaking incentives? To exp
 </pre>
 </div>
 </span>  
-&nbsp &nbsp <a href="ProcSub-appendix-ONLINE.pdf">Supplemental Appendix</a> &nbsp &nbsp
 </p>
 			</font>
 		</li></ul></td>
@@ -463,216 +472,37 @@ How does the scope of review affect bureaucratic policymaking incentives? To exp
 	<tr>
 		<td align="left" valign="center" width="75%">
 			<ul>
-			<li><font face="Helvetica" size="3">"Designed to Work? An Inter-institutional Theory of Bureaucratic Motivation'' <i>[Draft coming soon]</i>
+			<li><font face="Helvetica" size="3">"Accountability in Governing Hierarchies" (with <a href="https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1">Christopher Li</a> and <a href="https://gregsasso.me/">Greg Sasso</a>). <i>[Draft coming soon]</i>
 <br>
 
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsDesignToWork')" href="javascript:;" >Abstract</a> &nbsp &nbsp
+&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsHierarchies')" href="javascript:;" >Abstract</a> &nbsp &nbsp
 <span style="font-size: 12pt;">
-<div class="mid" id="AbsDesignToWork" style="DISPLAY: none" >
-A central concern for organizational management is how to properly motivate workers. This
-is especially true in public bureaucracies where monetary incentives (e.g., wage contracts) are
-difficult to tie to performance. In this paper I present results that highlight how oversight and
-agency bias impact administrative effort incentives. The ability of oversight to induce desirable
-effort effects depends crucially on agency policy biases. Additionally, the impact of well-known
-characteristics of agency design and the policy environment on administrative effort are explored
-in light of potential limitations of oversight as an incentive mechanism. The ability of a political
-principal to properly motivate administrative effort by attempting to alter agency characteristics,
-like "sense of mission" or how averse an agency is to being reprimanded by an overseer, depends
-crucially on an agency’s policy biases and the nature of ex post oversight. These results have
-implications for agency design and delegation, managerial strategies for effort motivation, and
-empirical studies of bureaucratic policymaking.
+<div class="mid" id="AbsHierarchies" style="DISPLAY: none" >
+Formal theories of accountability and bureaucratic politics typically consider the voter-politician interaction in isolation from the politician-bureaucrat interaction. In this paper, we study a model of electoral accountability and policymaking in a voter-politician-bureaucrat hierarchy. Policy outcomes are the joint product of both politician and bureaucrat choices. The voter faces uncertainty about the types of both the politician and the bureaucrat. The voter screens the politician for congruence via elections. The politician decides whether to retain or replace the bureaucrat. Politicians may choose policies to maximize reelection prospects while simultaneously punishing 'good' bureaucrats due to electoral concerns. Similarly, 'good' bureaucrats may shirk in order to harm the prospect of 'bad' politicians being reelected. We contrast the results with canonical results of political agency models in which only one 'link' of the overall delegation chain is analyzed.
 </div>
-</span>
-<!--
-&nbsp &nbsp <a onclick ="javascript:ShowHide('bibDesigned2work')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
+</span>  
+<!-- 
+&nbsp &nbsp <a onclick ="javascript:ShowHide('bibHierarchies')" href="javascript:;" >BibTeX Citation</a> &nbsp &nbsp
 <span style="font-size: 12pt;">
-<div class="mid" id="bibDesigned2work" style="DISPLAY: none" >
+<div class="mid" id="bibHierarchies" style="DISPLAY: none" >
 <pre>
-@article{turner2018designed2work,
-  title={Designed to Work? An Inter-institutional Theory of Bureaucratic Motivation},
-  author={Turner, Ian R},
+@article{LiSassoTurnerHierarchies,
+  title={Accountability in Governing Hierarchies},
+  author={Li, Christopher and Greg Sasso and Ian R. Turner},
   journal={Unpublished Manuscript, Yale University},
-  year={2018}
+  year={2019}
 }
 </pre>
 </div>
-</span>  -->
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-<br>
-
-<!--
-<br>
-
-<table align="center" width="80%">
-	<tbody><tr>
-		<td align="left" valign="center" width="75%">
-			<font face="Helvetica" size="4"><b>Selected Work in Progress</b></font>
-		</td>
-	</tr>
-</tbody></table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"Designed to Work? The Impact of Oversight and Agency Characteristics on Administrative Effort Incentives.''
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsDesignToWork')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsDesignToWork" style="DISPLAY: none" >
-A central concern for organizational management is how to properly motivate workers. This
-is especially true in public bureaucracies where monetary incentives (e.g., wage contracts) are
-difficult to tie to performance. In this paper I present results that highlight how oversight and
-agency bias impact administrative effort incentives. The ability of oversight to induce desirable
-effort effects depends crucially on agency policy biases. Additionally, the impact of well-known
-characteristics of agency design and the policy environment on administrative effort are explored
-in light of potential limitations of oversight as an incentive mechanism. The ability of a political
-principal to properly motivate administrative effort by attempting to alter agency characteristics,
-like "sense of mission" or how averse an agency is to being reprimanded by an overseer, depends
-crucially on an agency’s policy biases and the nature of ex post oversight. These results have
-implications for agency design and delegation, managerial strategies for effort motivation, and
-empirical studies of bureaucratic policymaking.
-</div>
-</span>
-
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"Lobbying for Inside Information," (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a>). 
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsInsideInfo')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsInsideInfo" style="DISPLAY: none" >
-<i> Abstract coming soon! </i>
-</div>
 </span>  
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br> 
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"Undisclosed Contributions in Electoral Campaigns," (with <a href="http://keith-schnakenberg.com/">Keith Schnakenberg</a>). 
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsDarkMoney')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsDarkMoney" style="DISPLAY: none" >
-We provide a game-theoretic model for evaluating the impacts of campaign finance disclosure rules. In the model, donations have two effects: they can directly affect the outcome of the election or they can provide information to politicians about which policy is best. Rules allowing undisclosed contributions increase the difficulty of transmitting policy information through contributions by creating the potential for interest groups with bad policy claims to publicly imitate good groups and then offset their electoral costs using secret donations. Because of this potential, good interest groups must respond to the possibility of undisclosed contributions by making increasingly costly public contributions to avoid imitation by other interest groups. As a result, we find that interest groups may prefer policies that require them to disclose contributions while voters opposed to the interest group may benefit from allowing undisclosed contributions.
-</div>
-</span>  
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"Who's the Principal's Principal? Oversight and Educational Performance in Centralized Systems," (with <a href="http://miyeonsong.weebly.com/">Miyeon Song</a>). 
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsPrincipalsPrincipal')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsPrincipalsPrincipal" style="DISPLAY: none" >
-<i>Abstract coming soon!</i>
-</div>
-</span>  
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"Fear of Failure: Career Concerns and Policy Experimentation in the Lab." (with <a href="http://www.ianpcook.com/"> Ian P. Cook </a> and <a href="http://www.pitt.edu/~woon/"> Jon Woon</a>).
-<br>
-
-&nbsp &nbsp <a onclick ="javascript:ShowHide('AbsFearFail')" href="javascript:;" >Abstract</a> &nbsp &nbsp
-<span style="font-size: 12pt;">
-<div class="mid" id="AbsFearFail" style="DISPLAY: none" >
-When political agents worry about losing their jobs, they may prioritize job protection over job performance. Experimenting with new, possibly beneficial, policy choices can be squelched because keeping the status quo is proof against firing. Or it can be pursued despite knowing the policy will fail, as low quality agents mimic high quality ones in the hopes that managers will not discern the difference. We conduct a test of policy-making with career concerns, evaluating the predictions of a formal model in a laboratory setting. Our results indicate that, while subjects do perform as the theory suggests and respond to information about the correct policy choice, career concerns distort these choices in less expected ways. Subjects appear to be motivated by avoiding policy failure, even when their strategic incentive would indicate ignoring it.
-</div>
-</span>  
-</p>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
-	<tbody><tr>
-		<td align="left" valign="center" width="75%">
-			<font face="Helvetica" size="4"><b>Book Chapters</b></font>
-		</td>
-	</tr>
-</tbody></table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"The Role of Courts in the Policymaking Process." In <a href="http://www.routledge.com/books/details/9781138021921/"><i>Making Law and Courts Research Relevant: Normative Implications of Empirical Research</i></a>. Brandon Bartels and Chris W. Bonneau (eds) Routledge Press (2014). 
-<br>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-
-<table align="center" width="80%">
-	<tr>
-		<td align="left" valign="center" width="75%">
-			<ul>
-			<li><font face="Helvetica" size="3">"Does the "One Person One Vote" Principle Apply in the U.S. Electoral College Vote?" (with <a href="https://polisci.wustl.edu/norman_schofield"> Norman Schofield </a> and Maria Gallego). In <a href="http://onlinelibrary.wiley.com/book/10.1002/9781118900772"><i>Emerging Trends in the Social and Behavioral Sciences</i></a>. Robert A. Scott and Stephen M. Kosslyn (eds) Wiley (2015). 
-<br>
-			</font>
-		</li></ul></td>
-	</tr>
-</table>
-
-<br>
-<br>
 -->
+</p>
+			</font>
+		</li></ul></td>
+	</tr>
+</table>
+
+<br>
 
 <table align="center" width="85%">
 	<tbody><tr>
@@ -687,7 +517,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 <table align="center" width="80%">
 	<tbody><tr>
 		<td align="left" valign="center" width="75%">
-			<font face="Helvetica" size="4"><b>Yale University</b></font>
+			<font face="Helvetica" size="3"><b>Yale University</b></font>
 		</td>
 	</tr>
 </tbody></table>
@@ -725,7 +555,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 </table>
 
 <br>
-
+<!--
 <table align="center" width="80%">
 	<tr>
 		<td align="left" valign="center" width="75%">
@@ -741,7 +571,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 </table>
 
 <br>
-
+-->
 <table align="center" width="80%">
 	<tr>
 		<td align="left" valign="center" width="75%">
@@ -777,7 +607,7 @@ When political agents worry about losing their jobs, they may prioritize job pro
 <table align="center" width="80%">
 	<tbody><tr>
 		<td align="left" valign="center" width="75%">
-			<font face="Helvetica" size="4"><b>Texas A&M University</b></font>
+			<font face="Helvetica" size="3"><b>Texas A&M University</b></font>
 		</td>
 	</tr>
 </tbody></table>
