@@ -12,8 +12,9 @@ output:
   postcards::trestles
 ---
 
-Ian Turner is an Assistant Professor of <a href="http://politicalscience.yale.edu/">Political Science at Yale University</a>, where he is also a Resident Fellow in the <a href="http://isps.yale.edu/">Institution of Social and Policy Studies</a> and the <a href="http://csap.yale.edu/">Center for the Study of American Politics</a>, and a Faculty Affiliate of the <a href="http://leitner.yale.edu/">Leitner Program in International and Comparative Political Economy</a>. He has broad research interests in American political institutions, executive branch politics, special interest politics, political economy, and applied game theory and formal modeling. Professor Turner's research has been published or is forthcoming in top academic journals such as the *American Political Science Review*, the *American Journal of Political Science*, the *Journal of Politics*, and the *Journal of Law, Economics, & Organization*, among others. Current projects include research using applied formal modeling to study various topics in bureaucratic politics, special interest politics, and democratic elections. Professor Turner teaches courses on American political institutions, bureaucratic politics, game theory, and applied formal modeling.
+Ian Turner is an Assistant Professor of [Political Science at Yale University](http://politicalscience.yale.edu/ "Yale Political Science"), where he is also a Resident Fellow in the [Institution of Social and Policy Studies](http://isps.yale.edu/ "Yale ISPS") and the [Center for the Study of American Politics](http://csap.yale.edu/ "Yale CSAP"), and a Faculty Affiliate of the [Leitner Program in International and Comparative Political Economy](http://leitner.yale.edu/ "Leitner Program in Political Economy"). He has broad research interests in American political institutions, executive branch politics, special interest politics, political economy, and applied game theory and formal modeling. Professor Turner's research has been published or is forthcoming in top academic journals such as the *American Political Science Review*, the *American Journal of Political Science*, the *Journal of Politics*, and the *Journal of Law, Economics, & Organization*, among others. Current projects include research using applied formal modeling to study various topics in bureaucratic politics, special interest politics, and democratic elections. Professor Turner teaches courses on American political institutions, bureaucratic politics, game theory, and applied formal modeling.
 
+<!--
 ### Education
 
 &nbsp; **Washington University in St. Louis**\
@@ -23,6 +24,7 @@ Ian Turner is an Assistant Professor of <a href="http://politicalscience.yale.ed
 &nbsp; **University of Pittsburgh** \
 &nbsp; &nbsp; B.A. in Philosophy | 2010\
 &nbsp; &nbsp; B.A. in Political Science | 2010
+-->
 
 ### Research
 
