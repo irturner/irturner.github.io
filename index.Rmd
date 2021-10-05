@@ -1,6 +1,6 @@
 ---
 title: "Ian R. Turner"
-image: "pic-pond1-crop.jpg"
+image: "ian.jpg"
 links:
   - label: CV
     url: "https://www.dropbox.com/s/yajb28ykcozbr0e/turnerCV.pdf?raw=1"
@@ -16,46 +16,34 @@ output:
   <img width="200" src="yale4.png">
 </p>
 
-Ian Turner is an Assistant Professor of [Political Science at Yale University](http://politicalscience.yale.edu/ "Yale Political Science"){target="_blank"}, where he is also a Resident Fellow in the [Institution of Social and Policy Studies](http://isps.yale.edu/ "Yale ISPS"){target="_blank"} and the [Center for the Study of American Politics](http://csap.yale.edu/ "Yale CSAP"){target="_blank"}, and a Faculty Affiliate of the [Leitner Program in International and Comparative Political Economy](http://leitner.yale.edu/ "Leitner Program in Political Economy"){target="_blank"}. He has broad research interests in American political institutions, executive branch politics, special interest politics, political economy, and applied game theory and formal modeling. Professor Turner's research has been published or is forthcoming in top academic journals such as the *American Political Science Review*, the *American Journal of Political Science*, the *Journal of Politics*, and the *Journal of Law, Economics, & Organization*, among others. Current projects include research using applied formal modeling to study various topics in bureaucratic politics, special interest politics, and democratic elections. Professor Turner teaches courses on American political institutions, bureaucratic politics, game theory, and applied formal modeling.
-
-<!--
-### Education
-
-&nbsp; **Washington University in St. Louis**\
-&nbsp; &nbsp; Ph.D. in Political Science | 2015\
-&nbsp; &nbsp; A.M. in Political Science | 2012
-
-&nbsp; **University of Pittsburgh** \
-&nbsp; &nbsp; B.A. in Philosophy | 2010\
-&nbsp; &nbsp; B.A. in Political Science | 2010
--->
+Ian Turner is an Assistant Professor of [Political Science at Yale University](http://politicalscience.yale.edu/ "Yale Political Science"){target="_blank"}, where he is also a Resident Fellow in the [Institution of Social and Policy Studies](http://isps.yale.edu/ "Yale ISPS"){target="_blank"} and the [Center for the Study of American Politics](http://csap.yale.edu/ "Yale CSAP"){target="_blank"}, and a Faculty Affiliate of the [Leitner Program in International and Comparative Political Economy](http://leitner.yale.edu/ "Leitner Program in Political Economy"){target="_blank"}. He has broad research interests in American political institutions, executive branch and bureaucratic politics, special interest politics, political economy, and applied game theory and formal modeling. Professor Turner's research has been published or is forthcoming in top academic journals such as the *American Political Science Review*, the *American Journal of Political Science*, the *Journal of Politics*, and the *Journal of Law, Economics, & Organization*, among others. He teaches courses on American political institutions, bureaucratic politics, game theory, and applied formal modeling.
 
 ### Research
 
 &nbsp; **Published & forthcoming**
 
-* "<a href="https://osf.io/preprints/socarxiv/esfy6/" target="_blank">Motivated Reasoning and Democratic Accountability</a>" (with <a href="http://www.andrewtlittle.com/" target="_blank">Andrew T. Little</a> and <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a>).   <br> Forthcoming. *American Political Science Review*. [[Ungated]](https://osf.io/preprints/socarxiv/esfy6/){target="_blank"}
+* "[Motivated Reasoning and Democratic Accountability](https://osf.io/preprints/socarxiv/esfy6/ "Motivated Reasoning and Democratic Accountability"){target="_blank"}" (with [Andrew T. Little](http://www.andrewtlittle.com/ "Andrew Little"){target="_blank"} and [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}). <br> Forthcoming. *American Political Science Review*. [[Ungated]](https://osf.io/preprints/socarxiv/esfy6/ "Motivated Reasoning and Democratic Accountability"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 Does motivated reasoning harm democratic accountability? Substantial evidence from political behavior research indicates that voters have "directional motives" beyond accuracy, which is often taken as evidence that they are ill-equipped to hold politicians accountable. We develop a model of electoral accountability with voters as motivated reasoners. Directional motives have two effects: (1) *divergence* -- voters with different preferences hold different beliefs, and (2) *desensitization* -- the relationship between incumbent performance and voter beliefs is weakened. While motivated reasoning does harm accountability, this is generally driven by desensitized voters rather than polarized partisans with politically motivated divergent beliefs. We also analyze the relationship between government performance and vote shares, showing that while motivated reasoning always weakens this relationship we cannot infer that accountability is also harmed. Finally, we show that our model can be mapped to standard models in which voters are fully Bayesian but have different preferences or information.
 
 </details> 
 
-* "<a href="https://osf.io/preprints/socarxiv/v6kzw/" target="_blank">Reviewing Procedure vs. Judging Substance: How Increasing Bureaucratic Oversight Can Reduce Bureaucratic Accountability</a>." <br> 2021. <i>Journal of Political Institutions and Political Economy</i> 2(4). [[Ungated]](https://osf.io/preprints/socarxiv/v6kzw/){target="_blank"}
+* "[Reviewing Procedure vs. Judging Substance: How Increasing Bureaucratic Oversight Can Reduce Bureaucratic Accountability](https://osf.io/preprints/socarxiv/v6kzw/ "Reviewing Procedure vs. Judging Substance"){target="_blank"}." <br> 2021. *Journal of Political Institutions and Political Economy* 2(4). [[Ungated]](https://osf.io/preprints/socarxiv/v6kzw/ "Reviewing Procedure vs. Judging Substance"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 How does the scope of review affect bureaucratic policymaking? To explore this question, I consider a policymaking environment in which an expert agency develops policy that is upheld or overturned by an overseer who may have different policy goals. The agency can affect the quality of implementation through effort investments in addition to choosing the substantive content of policy. Under procedural review the overseer only reviews the agency’s effort, which allows the agency to fully utilize its expertise. Substantive review also tasks the overseer with judging agencies’ substantive policy choices, which can lead the agency to disregard its superior information and obfuscate to avoid reversal. Depending on the policy environment, this dynamic can either benefit or harm the overseer. In some cases the overseer can be made better off by having less transparent review institutions; that is, institutions that direct the overseer to only review procedure and preclude judging substance.
 
 </details>
 
-* "<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12534" target="_blank">Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions</a>" (with <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a>). <br> 2021. <i>American Journal of Political Science</i> 65(1): 88-100. [[Ungated]](https://osf.io/preprints/socarxiv/nphgu/){target="_blank"}
+* "[Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12534 "Helping Friends or Influencing Foes"){target="_blank"}" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}). <br> 2021. *American Journal of Political Science* 65(1): 88-100. [[Ungated]](https://osf.io/preprints/socarxiv/nphgu/ "Helping Friends or Influencing Foes"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 Campaign finance contributions may influence policy by affecting elections or influencing the choices of politicians once in office. To study the trade-offs between these two paths to influence, we use a game in which contributions may affect electoral outcomes and signal policy-relevant information to politicians. In the model, an interest group and two politicians each possess private information correlated with a policy-relevant state of the world. The interest group may allocate its budget to either a candidate who shares its preferences or a moderate candidate whose preferences may diverge from the group's preferred policy. Contributions that increase the likelihood of the moderate being elected can signal good news about the interest group's preferred policy and influence the moderate's policy choice. However, when the electoral effect of contributions is too small to demand sufficiently high costs to deter imitation by groups with negative information, this informational effect breaks down.
 
 </details>
 
-* "<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/708913" target="_blank">Ex Post Review and Expert Policymaking: When Does Oversight Reduce Accountability?</a>" (with <a href="http://www.johnwpatty.net/" target="_blank">John W. Patty</a>). <br> 2021. <i>Journal of Politics</i> 83(1): 23-39. [[Ungated]](https://osf.io/preprints/socarxiv/ugsqc/){target="_blank"}
+* "[Ex Post Review and Expert Policymaking: When Does Oversight Reduce Accountability?](https://www.journals.uchicago.edu/doi/abs/10.1086/708913 "Ex Post Review and Expert Policymaking"){target="_blank"}" (with [John W. Patty](http://www.johnwpatty.net/ "John Patty"){target="_blank"}). <br> 2021. *Journal of Politics* 83(1): 23-39. [[Ungated]](https://osf.io/preprints/socarxiv/ugsqc/ "Ex Post Review and Expert Policymaking"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 Ex post review is a common feature of policymaking institutions. We consider a simple environment
@@ -72,28 +60,28 @@ entirely.
 
 </details>
 
-* "<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/psq.12633" target="_blank">Policy Durability, Agency Capacity, and Executive Unilateralism</a>." <br> 2020. <i>Presidential Studies Quarterly</i> 50(1): 40-62. [[Ungated]](https://osf.io/preprints/socarxiv/stnzf/){target="_blank"}
+* "[Policy Durability, Agency Capacity, and Executive Unilateralism](https://onlinelibrary.wiley.com/doi/full/10.1111/psq.12633 "Durability, Capacity, Unilateralism"){target="_blank"}." <br> 2020. *Presidential Studies Quarterly* 50(1): 40-62. [[Ungated]](https://osf.io/preprints/socarxiv/stnzf/ "Durability, Capacity, Unilateralism"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 In this essay I argue that the need to motivate bureaucrats to invest in high quality policy implementation alters the appeal of executive unilateralism. If executive orders are less durable than legislation, then the bureaucracy will have weaker incentives to invest in policymaking. This affects presidents' willingness to compromise and work with Congress to pass legislation, rather than pursue unilateral action. Unilateralism becomes less attractive as bureaucratic capacity increases and as the relative durability of executive orders decreases. I formalize this logic in a simple formal model and discuss fruitful extensions for future work.
 
 </details>
 
-* "<a href="https://www.cambridge.org/core/journals/american-political-science-review/article/signaling-with-reform-how-the-threat-of-corruption-prevents-informed-policymaking/DF50871EC917E7D2FE89EDCA3DFEF861" target="_blank">Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking</a>" (with <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a>). <br> 2019. <i>American Political Science Review</i> 113(3): 762-777. [[Ungated]](https://osf.io/preprints/socarxiv/jkvz6/){target="_blank"}
+* "[Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking](https://www.cambridge.org/core/journals/american-political-science-review/article/signaling-with-reform-how-the-threat-of-corruption-prevents-informed-policymaking/DF50871EC917E7D2FE89EDCA3DFEF861 "Signaling with Reform"){target="_blank"}" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}). <br> 2019. *American Political Science Review* 113(3): 762-777. [[Ungated]](https://osf.io/preprints/socarxiv/jkvz6/ "Signaling with Reform"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 Lobbying is a potential source of corruption but is also a valuable source of information for policymakers. We analyze a game-theoretic model that shows how the threat of corruption affects the incentives of non-corrupt politicians to enlist the help of lobbyists to make more informed decisions. Politicians face a dilemma because voters cannot always tell whether a politician allows access to lobbyists in order to solicit corruption or to seek information. Thus, a non-corrupt politician may deny access to lobbyists to signal that she is non-corrupt even though doing so impedes her ability to make good policy. This signaling may decrease the welfare of the voters depending on the value of the lost policy information relative to the value of screening out corrupt politicians.
 
 </details>
 
-* "<a a href="https://academic.oup.com/jleo/advance-article/doi/10.1093/jleo/ewz011/5530862?guestAccessKey=fa2f5fb7-1c21-4493-9d56-c7f599608b33" target="_blank">Political Agency, Oversight, and Bias: The Instrumental Value of Politicized Policymaking</a>." <br> 2019. <i>Journal of Law, Economics, & Organization</i> 35(3): 544-578. [[Ungated]](https://osf.io/preprints/socarxiv/ebp5m/){target="_blank"}
+* "[Political Agency, Oversight, and Bias: The Instrumental Value of Politicized Policymaking](https://academic.oup.com/jleo/advance-article/doi/10.1093/jleo/ewz011/5530862?guestAccessKey=fa2f5fb7-1c21-4493-9d56-c7f599608b33 "Political Agency, Oversight, and Bias"){target="_blank"}." <br> 2019. *Journal of Law, Economics, & Organization* 35(3): 544-578. [[Ungated]](https://osf.io/preprints/socarxiv/ebp5m/ "Political Agency, Oversight, and Bias"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 We develop a theory of policymaking between an agent and an overseer, with a principal whose welfare is affected by agent-overseer interactions. The agent can increase the quality of policy outcomes through costly capacity investments. Oversight and agent bias jointly determine optimal agent capacity investments. We show that when oversight improves agent investment incentives the principal always benefits from an agent with biases opposite the overseer. Competing agent-overseer biases translate into higher quality policy outcomes than the principal could induce were she monitoring the agent. Effective oversight is necessary for these incentive effects. The results imply that political principals ought to consider the nature of the broader policymaking environment when appointing agents to make policy on their behalf and when designing managerial strategies aimed at motivating agents.
 
 </details>
 
-* "<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12368" target="_blank">Legislative Capacity and Credit Risk</a>" (with <a href="http://davidfortunato.com/" target="_blank">David Fortunato</a>). <br> 2018. <i>American Journal of Political Science</i> 62(3): 623-636. [[Ungated]](https://osf.io/preprints/socarxiv/4cdu8/){target="_blank"}\
+* "[Legislative Capacity and Credit Risk](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12368 "Legislative Capacity and Credit Risk"){target="_blank"}" (with [David Fortunato](http://davidfortunato.com/ "David Fortunato"){target="_blank"}). <br> 2018. *American Journal of Political Science* 62(3): 623-636. [[Ungated]](https://osf.io/preprints/socarxiv/4cdu8/ "Legislative Capacity and Credit Risk"){target="_blank"}\
 [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WYA1S2){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
@@ -101,14 +89,14 @@ Legislatures differ in their institutional capacity to draft and enact policy. W
 
 </details>
 
-* "<a href="http://onlinelibrary.wiley.com/doi/10.1111/ecpo.12089/full" target="_blank">Allies or Commitment Devices? A Model of Appointments to the Federal Reserve</a>" (with <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a> and <a href="http://aliciauribemcguire.com/" target="_blank">Alicia Uribe-McGuire</a>). <br> 2017. <i>Economics & Politics</i> 29(2): 118-132. [[Ungated]](https://osf.io/preprints/socarxiv/b5zts){target="_blank"}
+* "[Allies or Commitment Devices? A Model of Appointments to the Federal Reserve](http://onlinelibrary.wiley.com/doi/10.1111/ecpo.12089/full "Allies or Commitment Devices"){target="_blank"}" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"} and [Alicia Uribe-McGuire](http://aliciauribemcguire.com/ "Alicia Uribe-McGuire"){target="_blank"}). <br> 2017. *Economics & Politics* 29(2): 118-132. [[Ungated]](https://osf.io/preprints/socarxiv/b5zts "Allies or Commitment Devices"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 We present a model of executive-legislative bargaining over appointments to independent central banks in the face of an uncertain economy with strategic economic actors. The model highlights the contrast between two idealized views of Federal Reserve appointments. In one view, all politicians prefer to appoint conservatively biased central bankers to overcome credible commitment problems that arise in monetary policy. In the other, politicians prefer to appoint allies, and appointments are well described by the spatial model used to describe appointments to other agencies. Both ideals are limiting cases of our model, which depend on the level of economic uncertainty. When economic uncertainty is extremely low, politicians prefer very conservative appointments. When economic uncertainty increases, politicians' prefer central bank appointees closer to their own ideal points. In the typical case, the results are somewhere in between: equilibrium appointments move in the direction of politician's preferences but with a moderate conservative bias.
 
 </details>
 
-* "<a href="http://journals.sagepub.com/doi/full/10.1177/0951629816630430" target="_blank">Working Smart <i>and</i> Hard? Agency Effort, Judicial Review, and Policy Precision</a>." <br> 2017. <i>Journal of Theoretical Politics</i> 29(1): 69-96. [[Ungated]](https://www.dropbox.com/s/91m86f0qr4s4sb7/turner-jtp-smart-and-hard.pdf?raw=1){target="_blank"}
+* "[Working Smart *and* Hard? Agency Effort, Judicial Review, and Policy Precision](http://journals.sagepub.com/doi/full/10.1177/0951629816630430 "Working Smart and Hard"){target="_blank"}." <br> 2017. *Journal of Theoretical Politics* 29(1): 69-96. [[Ungated]](https://www.dropbox.com/s/91m86f0qr4s4sb7/turner-jtp-smart-and-hard.pdf?raw=1 "Working Smart and Hard"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 The lion's share of policy in the United States is made by administrative agencies. Agencies not only make policy *choices*, they must also *implement* policy effectively. Oversight institutions play an integral role in the policymaking process by monitoring, through review of agency policy actions, both policymaking tasks. Through analysis of a formal model I develop a theory of policymaking between agencies and courts and show that review can impact agency effort choices even when bureaucratic subversion is not a concern. At times the court has no impact on this effort and the agency is unconstrained. However, when the agency's effort dictates whether or not the court defers to the agency's actions judicial review does affect effort decisions. In this setting, review can either strengthen or, counter-intuitively, weaken agency effort incentives. Implications for executive and congressional oversight are discussed in light of these results.
@@ -117,7 +105,7 @@ The lion's share of policy in the United States is made by administrative agenci
 
 &nbsp; **Selected working papers**
 
-* "<a href="https://osf.io/preprints/socarxiv/5gt8y/" target="_blank">Accountability in Governing Hierarchies</a>" (with <a href="https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1" target="_blank">Christopher M. Li</a> and <a href="https://gregsasso.me/" target="_blank">Greg Sasso</a>).\
+* "[Accountability in Governing Hierarchies](https://osf.io/preprints/socarxiv/5gt8y/ "Governing Hierarchies"){target="_blank"}" (with [Christopher M. Li](https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1 "Chris Li"){target="_blank"} and [Greg Sasso](https://gregsasso.me/ "Greg Sasso"){target="_blank"}).\
 <details>
 <summary>*Abstract*</summary>
 Formal theories of accountability and bureaucratic politics often consider voter-politician interactions in isolation from politician-bureaucrat interactions. In this paper, we study a model of electoral accountability and policymaking with a hierarchy consisting of a voter, a politician, and a bureaucrat. The politician and bureaucrat both produce government output valued by the voter. The voter can then choose to reelect the politician, while the politician can expropriate some of the bureaucrat's output for his own ends. We show that when times are conducive to high quality governance -- budgets are large and players are farsighted -- incorporating the bureaucratic layer of the hierarchy makes for weaker accountability standards. However, when times are tough and budgets are small or players are myopic it is possible that voters may benefit from increasing their demands on elected officials. These accountability standards change even when reelection does not depend at all on the bureaucrat's output directly.
@@ -131,14 +119,14 @@ Formal theories of accountability and bureaucratic politics often consider voter
 
 </details>
 
-* "Dark Money and Voter Learning" (with <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a> and <a href="https://politicalscience.yale.edu/people/collin-schumock" target="_blank">Collin Schumock</a>).\
+* "Dark Money and Voter Learning" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"} and [Collin Schumock](https://politicalscience.yale.edu/people/collin-schumock "Collin Schumock"){target="_blank"}).\
 <details>
 <summary>*Abstract*</summary>
 We provide a model of dark money in elections. A donor with extreme preferences relative to the voter is privately informed about the policy preferences and valence of a candidate for office. Advertisements reveal hard information about valence and the voter can learn this information either through donor-funded advertisements or from neutral sources. Under mandatory transparency the voter is always informed of the source of a message. When the message is known to come from the donor the voter reflects on the donor's preferences and concludes that the candidate is more likely to be extreme since the donor contributed money to that candidate. In contrast, dark money allows the donor to transmit messages to the voter without revealing the source, leaving the voter uncertain about whether the signal came from the donor or from the neutral source. Thus, the reason for using dark money is to attempt to persuade the voter to support a candidate without causing the voter to believe that the candidate is likely to have extreme preferences. However, this effect can also be detrimental to the donor since the voter is also uncertain about the source of neutral signals and is therefore less likely to be persuaded by them.
 
 </details>
 
-* "Formal Models of Money in Politics" (with <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a>).\
+* "Formal Models of Money in Politics" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}).\
 In preparation for *Annual Review of Political Science*, Vol. 26 (2023).\
 <details>
 <summary>*Abstract*</summary>
@@ -172,7 +160,7 @@ In preparation for *Annual Review of Political Science*, Vol. 26 (2023).\
 &nbsp; Department of Political Science\
 &nbsp; P.O. Box 208301\
 &nbsp; New Haven, CT 06520-8301\
-&nbsp; [ian.turner@yale.edu](mailto:ian.turner@yale.edu)
+&nbsp; [ian.turner@yale.edu](mailto:ian.turner@yale.edu "Ian Turner Email")
 
 
 
