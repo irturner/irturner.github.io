@@ -34,7 +34,7 @@ Ian Turner is an Assistant Professor of [Political Science at Yale University](h
 
 &nbsp; **Published & forthcoming**
 
-* "<a href="https://osf.io/preprints/socarxiv/esfy6/" target="_blank">Motivated Reasoning and Democratic Accountability</a>" (with <a href="http://www.andrewtlittle.com/">Andrew T. Little</a> and <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a>).   <br> Forthcoming. *American Political Science Review*. [[Ungated]](https://osf.io/preprints/socarxiv/esfy6/){target="_blank"}
+* "<a href="https://osf.io/preprints/socarxiv/esfy6/" target="_blank">Motivated Reasoning and Democratic Accountability</a>" (with <a href="http://www.andrewtlittle.com/" target="_blank">Andrew T. Little</a> and <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a>).   <br> Forthcoming. *American Political Science Review*. [[Ungated]](https://osf.io/preprints/socarxiv/esfy6/){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 Does motivated reasoning harm democratic accountability? Substantial evidence from political behavior research indicates that voters have "directional motives" beyond accuracy, which is often taken as evidence that they are ill-equipped to hold politicians accountable. We develop a model of electoral accountability with voters as motivated reasoners. Directional motives have two effects: (1) *divergence* -- voters with different preferences hold different beliefs, and (2) *desensitization* -- the relationship between incumbent performance and voter beliefs is weakened. While motivated reasoning does harm accountability, this is generally driven by desensitized voters rather than polarized partisans with politically motivated divergent beliefs. We also analyze the relationship between government performance and vote shares, showing that while motivated reasoning always weakens this relationship we cannot infer that accountability is also harmed. Finally, we show that our model can be mapped to standard models in which voters are fully Bayesian but have different preferences or information.
@@ -48,14 +48,14 @@ How does the scope of review affect bureaucratic policymaking? To explore this q
 
 </details>
 
-* "<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12534" target="_blank">Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions</a>" (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a>). <br> 2021. <i>American Journal of Political Science</i> 65(1): 88-100. [[Ungated]](https://osf.io/preprints/socarxiv/nphgu/){target="_blank"}
+* "<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12534" target="_blank">Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions</a>" (with <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a>). <br> 2021. <i>American Journal of Political Science</i> 65(1): 88-100. [[Ungated]](https://osf.io/preprints/socarxiv/nphgu/){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 Campaign finance contributions may influence policy by affecting elections or influencing the choices of politicians once in office. To study the trade-offs between these two paths to influence, we use a game in which contributions may affect electoral outcomes and signal policy-relevant information to politicians. In the model, an interest group and two politicians each possess private information correlated with a policy-relevant state of the world. The interest group may allocate its budget to either a candidate who shares its preferences or a moderate candidate whose preferences may diverge from the group's preferred policy. Contributions that increase the likelihood of the moderate being elected can signal good news about the interest group's preferred policy and influence the moderate's policy choice. However, when the electoral effect of contributions is too small to demand sufficiently high costs to deter imitation by groups with negative information, this informational effect breaks down.
 
 </details>
 
-* "<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/708913" target="_blank">Ex Post Review and Expert Policymaking: When Does Oversight Reduce Accountability?</a>" (with <a href="http://www.johnwpatty.net/">John W. Patty</a>). <br> 2021. <i>Journal of Politics</i> 83(1): 23-39. [[Ungated]](https://osf.io/preprints/socarxiv/ugsqc/){target="_blank"}
+* "<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/708913" target="_blank">Ex Post Review and Expert Policymaking: When Does Oversight Reduce Accountability?</a>" (with <a href="http://www.johnwpatty.net/" target="_blank">John W. Patty</a>). <br> 2021. <i>Journal of Politics</i> 83(1): 23-39. [[Ungated]](https://osf.io/preprints/socarxiv/ugsqc/){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 Ex post review is a common feature of policymaking institutions. We consider a simple environment
@@ -79,7 +79,7 @@ In this essay I argue that the need to motivate bureaucrats to invest in high qu
 
 </details>
 
-* "<a href="https://www.cambridge.org/core/journals/american-political-science-review/article/signaling-with-reform-how-the-threat-of-corruption-prevents-informed-policymaking/DF50871EC917E7D2FE89EDCA3DFEF861" target="_blank">Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking</a>" (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a>). <br> 2019. <i>American Political Science Review</i> 113(3): 762-777. [[Ungated]](https://osf.io/preprints/socarxiv/jkvz6/){target="_blank"}
+* "<a href="https://www.cambridge.org/core/journals/american-political-science-review/article/signaling-with-reform-how-the-threat-of-corruption-prevents-informed-policymaking/DF50871EC917E7D2FE89EDCA3DFEF861" target="_blank">Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking</a>" (with <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a>). <br> 2019. <i>American Political Science Review</i> 113(3): 762-777. [[Ungated]](https://osf.io/preprints/socarxiv/jkvz6/){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 Lobbying is a potential source of corruption but is also a valuable source of information for policymakers. We analyze a game-theoretic model that shows how the threat of corruption affects the incentives of non-corrupt politicians to enlist the help of lobbyists to make more informed decisions. Politicians face a dilemma because voters cannot always tell whether a politician allows access to lobbyists in order to solicit corruption or to seek information. Thus, a non-corrupt politician may deny access to lobbyists to signal that she is non-corrupt even though doing so impedes her ability to make good policy. This signaling may decrease the welfare of the voters depending on the value of the lost policy information relative to the value of screening out corrupt politicians.
@@ -93,7 +93,7 @@ We develop a theory of policymaking between an agent and an overseer, with a pri
 
 </details>
 
-* "<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12368" target="_blank">Legislative Capacity and Credit Risk</a>" (with <a href="http://davidfortunato.com/">David Fortunato</a>). <br> 2018. <i>American Journal of Political Science</i> 62(3): 623-636. [[Ungated]](https://osf.io/preprints/socarxiv/4cdu8/){target="_blank"}\
+* "<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12368" target="_blank">Legislative Capacity and Credit Risk</a>" (with <a href="http://davidfortunato.com/" target="_blank">David Fortunato</a>). <br> 2018. <i>American Journal of Political Science</i> 62(3): 623-636. [[Ungated]](https://osf.io/preprints/socarxiv/4cdu8/){target="_blank"}\
 [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WYA1S2){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
@@ -101,7 +101,7 @@ Legislatures differ in their institutional capacity to draft and enact policy. W
 
 </details>
 
-* "<a href="http://onlinelibrary.wiley.com/doi/10.1111/ecpo.12089/full" target="_blank">Allies or Commitment Devices? A Model of Appointments to the Federal Reserve</a>" (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a> and <a href="http://aliciauribemcguire.com/">Alicia Uribe-McGuire</a>). <br> 2017. <i>Economics & Politics</i> 29(2): 118-132. [[Ungated]](https://osf.io/preprints/socarxiv/b5zts){target="_blank"}
+* "<a href="http://onlinelibrary.wiley.com/doi/10.1111/ecpo.12089/full" target="_blank">Allies or Commitment Devices? A Model of Appointments to the Federal Reserve</a>" (with <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a> and <a href="http://aliciauribemcguire.com/" target="_blank">Alicia Uribe-McGuire</a>). <br> 2017. <i>Economics & Politics</i> 29(2): 118-132. [[Ungated]](https://osf.io/preprints/socarxiv/b5zts){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 We present a model of executive-legislative bargaining over appointments to independent central banks in the face of an uncertain economy with strategic economic actors. The model highlights the contrast between two idealized views of Federal Reserve appointments. In one view, all politicians prefer to appoint conservatively biased central bankers to overcome credible commitment problems that arise in monetary policy. In the other, politicians prefer to appoint allies, and appointments are well described by the spatial model used to describe appointments to other agencies. Both ideals are limiting cases of our model, which depend on the level of economic uncertainty. When economic uncertainty is extremely low, politicians prefer very conservative appointments. When economic uncertainty increases, politicians' prefer central bank appointees closer to their own ideal points. In the typical case, the results are somewhere in between: equilibrium appointments move in the direction of politician's preferences but with a moderate conservative bias.
@@ -117,28 +117,28 @@ The lion's share of policy in the United States is made by administrative agenci
 
 &nbsp; **Selected working papers**
 
-* "<a href="https://osf.io/preprints/socarxiv/5gt8y/" target="_blank">Accountability in Governing Hierarchies</a>" (with <a href="https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1">Christopher M. Li</a> and <a href="https://gregsasso.me/">Greg Sasso</a>).\
+* "<a href="https://osf.io/preprints/socarxiv/5gt8y/" target="_blank">Accountability in Governing Hierarchies</a>" (with <a href="https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1" target="_blank">Christopher M. Li</a> and <a href="https://gregsasso.me/" target="_blank">Greg Sasso</a>).\
 <details>
 <summary>*Abstract*</summary>
 Formal theories of accountability and bureaucratic politics often consider voter-politician interactions in isolation from politician-bureaucrat interactions. In this paper, we study a model of electoral accountability and policymaking with a hierarchy consisting of a voter, a politician, and a bureaucrat. The politician and bureaucrat both produce government output valued by the voter. The voter can then choose to reelect the politician, while the politician can expropriate some of the bureaucrat's output for his own ends. We show that when times are conducive to high quality governance -- budgets are large and players are farsighted -- incorporating the bureaucratic layer of the hierarchy makes for weaker accountability standards. However, when times are tough and budgets are small or players are myopic it is possible that voters may benefit from increasing their demands on elected officials. These accountability standards change even when reelection does not depend at all on the bureaucrat's output directly.
 
 </details>
 
-* "Dark Money and Donor Influence of Politicians" (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a>).\
+* "Dark Money and Donor Influence of Politicians" (with <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a>).\
 <details>
 <summary>*Abstract*</summary>
 *Abstract coming soon.*
 
 </details>
 
-* "Dark Money and Voter Learning" (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a> and <a href="https://politicalscience.yale.edu/people/collin-schumock">Collin Schumock</a>).\
+* "Dark Money and Voter Learning" (with <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a> and <a href="https://politicalscience.yale.edu/people/collin-schumock" target="_blank">Collin Schumock</a>).\
 <details>
 <summary>*Abstract*</summary>
 We provide a model of dark money in elections. A donor with extreme preferences relative to the voter is privately informed about the policy preferences and valence of a candidate for office. Advertisements reveal hard information about valence and the voter can learn this information either through donor-funded advertisements or from neutral sources. Under mandatory transparency the voter is always informed of the source of a message. When the message is known to come from the donor the voter reflects on the donor's preferences and concludes that the candidate is more likely to be extreme since the donor contributed money to that candidate. In contrast, dark money allows the donor to transmit messages to the voter without revealing the source, leaving the voter uncertain about whether the signal came from the donor or from the neutral source. Thus, the reason for using dark money is to attempt to persuade the voter to support a candidate without causing the voter to believe that the candidate is likely to have extreme preferences. However, this effect can also be detrimental to the donor since the voter is also uncertain about the source of neutral signals and is therefore less likely to be persuaded by them.
 
 </details>
 
-* "Formal Models of Money in Politics" (with <a href="http://keith-schnakenberg.com/">Keith E. Schnakenberg</a>).\
+* "Formal Models of Money in Politics" (with <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a>).\
 In preparation for *Annual Review of Political Science*, Vol. 26 (2023).\
 <details>
 <summary>*Abstract*</summary>
