@@ -103,7 +103,7 @@ The lion's share of policy in the United States is made by administrative agenci
 
 </details>
 
-&nbsp; **Selected working papers**
+&nbsp; **Selected work in progress**
 
 * "[Accountability in Governing Hierarchies](https://osf.io/preprints/socarxiv/5gt8y/ "Governing Hierarchies"){target="_blank"}" (with [Christopher M. Li](https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1 "Chris Li"){target="_blank"} and [Greg Sasso](https://gregsasso.me/ "Greg Sasso"){target="_blank"}).\
 <details>
@@ -112,12 +112,20 @@ Formal theories of accountability and bureaucratic politics often consider voter
 
 </details>
 
-* "Dark Money and Donor Influence of Politicians" (with <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a>).\
+* "Bargaining in the Shadow of Bureaucracy: How Bureaucratic Implementation Shapes Executive-Legislative Policymaking."\
 <details>
 <summary>*Abstract*</summary>
 *Abstract coming soon.*
 
 </details>
+
+* "Dark Money and Politician Learning" (with <a href="http://keith-schnakenberg.com/" target="_blank">Keith E. Schnakenberg</a>).\
+<details>
+<summary>*Abstract*</summary>
+*Abstract coming soon.*
+
+</details>
+
 
 * "Dark Money and Voter Learning" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"} and [Collin Schumock](https://politicalscience.yale.edu/people/collin-schumock "Collin Schumock"){target="_blank"}).\
 <details>
@@ -138,6 +146,13 @@ In preparation for *Annual Review of Political Science*, Vol. 26 (2023).\
 <details>
 <summary>*Abstract*</summary>
 We study how legislative oversight shapes intraexecutive politics. We develop a theory in which the president can shape information available to lower-level bureaucrats via both overt, legitimate actions (e.g., through appointments or policy directives) but also via covert, illegitimate interventions (i.e., interference, which can be uncovered by oversight). We show that the president's ability to persuade bureaucrats to act in line with his policy goals requires (i) some degree of bureaucratic insulation and (ii) sufficiently aggressive legislative oversight. Both factors contribute to the overall credibility of presidential directives. When legislative oversight is not sufficiently aggressive, the president might actually lack any ability to influence the bureaucrat and his best course of action is to provide unbiased information.
+
+</details>
+
+* "Legislative Particularism and Bureaucratic Policymaking" (with [John W. Patty](http://www.johnwpatty.net/ "John Patty"){target="_blank"}).\
+<details>
+<summary>*Abstract*</summary>
+Legislators can benefit from delegation to executive agencies, but they have limited tools to hold these agencies accountable. One of the most important tools is the agency's appropriations. We present a theory that incorporates (1) heterogeneous legislator preferences over bureaucratic activity, (2) legislative budgetary control, and (3) endogenous bureaucratic policy discretion to understand legislative incentives when appropriating funds to bureaucratic agencies. Our theory provides several insights: first, legislators' induced preferences over budgets are partially determined by their policy preferences; second, in some cases legislators who are "opposed" to the direction that the agency will take policy nevertheless support increased funding for that agency; finally, ``strange bedfellows" coalitions emerge in which legislators with competing policy preferences may nonetheless agree on their most-desired budget level for the agency.
 
 </details>
 
