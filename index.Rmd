@@ -142,7 +142,7 @@ We provide a model of dark money in elections. A donor with extreme preferences 
 </details>
 
 * "Formal Models of Money in Politics" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}).\
-In preparation for *Annual Review of Political Science*, Vol. 26 (2023).\
+In preparation for *Annual Review of Political Science*.\
 <details>
 <summary>*Abstract*</summary>
 *Abstract coming soon.*
