@@ -145,7 +145,17 @@ We provide a model of dark money in elections. A donor with extreme preferences 
 In preparation for *Annual Review of Political Science*.\
 <details>
 <summary>*Abstract*</summary>
-*Abstract coming soon.*
+The impact of money on politics – whether through campaign finance, lobbying, or independent
+expenditure – raises key normative questions about democratic representation and accountability.
+In recent years there has been a deluge of new data allowing researchers to study money in
+politics from new and exciting perspectives. As a complement to this trend there has also been a
+resurgence of interest in developing formal models to provide new theoretical insights that can
+help us understand how, why, and when money affects politics and policy. We review several
+major themes in this literature, focusing specifically on exchange-based models, informational
+models, and subsidy-based models. We compare and contrast the key contributions, and limitations,
+of each approach for understanding the role of lobbying and campaign finance in politics.
+We also discuss future avenues for research that incorporate aspects of each approach, which, we
+believe, will introduce new theoretical insights for understanding the role of money in politics.
 
 </details>
 
