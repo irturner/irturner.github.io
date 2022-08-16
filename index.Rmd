@@ -159,7 +159,7 @@ believe, will introduce new theoretical insights for understanding the role of m
 
 </details>
 
-* "Legislative Particularism and Bureaucratic Policymaking" (with [John W. Patty](http://www.johnwpatty.net/ "John Patty"){target="_blank"}).\
+* "Regulatory Exposure, Appropriations, and Bureaucratic Policymaking" (with [John W. Patty](http://www.johnwpatty.net/ "John Patty"){target="_blank"}).\
 <details>
 <summary>*Abstract*</summary>
 Legislators can benefit from delegation to executive agencies, but they have limited tools to hold these agencies accountable. One of the most important tools is the agency’s appropriations. We present a theory that incorporates (1) heterogeneous legislator preferences over bureaucratic activity, (2) legislative budgetary control, and (3) endogenous bureaucratic policy discretion to understand legislative incentives when appropriating funds to bureaucratic agencies. Our theory provides several insights: first, legislators’ induced preferences over budgets are partially determined by their policy preferences; second, in some cases legislators who are “opposed” to the direction that the agency will take policy nevertheless support increased funding for that agency; finally, ``strange bedfellows” coalitions emerge in which legislators with competing policy preferences may nonetheless agree on their most-desired budget level for the agency.
