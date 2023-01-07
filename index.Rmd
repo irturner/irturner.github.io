@@ -106,7 +106,7 @@ The lion's share of policy in the United States is made by administrative agenci
 &nbsp; **Selected work in progress**
 
 * "[Institutional Foundations of the Power to Persuade](
-https://osf.io/preprints/socarxiv/4w9af/ "Power to Persuade"){target="_blank"}" (with [Carlo Prato](https://sites.google.com/site/carloprato1982/carlo-prato "Carlo Prato"){target="_blank"}).\
+https://osf.io/preprints/socarxiv/4w9af/ "Power to Persuade"){target="_blank"}" (with [Carlo Prato](https://sites.google.com/site/carloprato1982/carlo-prato "Carlo Prato"){target="_blank"}). <i><b>Under review.</b></i>\
 <details>
 <summary>*Abstract*</summary>
 We study how legislative oversight shapes intra-executive politics. We develop a theory in which the president can shape information available to lower-level bureaucrats via both overt, legitimate actions (e.g., through appointments or policy directives) but also via covert, illegitimate interventions (i.e., interference, which can be uncovered by oversight). We show that the president's ability to persuade bureaucrats to act in line with her policy goals requires (i) some degree of bureaucratic insulation and (ii) sufficiently aggressive legislative oversight. Both factors contribute to the overall credibility of presidential directives.  When legislative oversight is not sufficiently aggressive (e.g., under unified government), the president might actually lack the necessary credibility influence the bureaucrat and her best course of action is to provide unbiased information.
@@ -127,17 +127,17 @@ Formal theories of accountability and bureaucratic politics often consider voter
 
 </details>
 
-* "Dark Money and Politician Learning" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}).\
+* "[Dark Money and Politician Learning](https://osf.io/preprints/socarxiv/3bzex/ "Dark Money and Politician Learning"){target="_blank"}" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}). <i><b>Under review.</b></i>\
 <details>
 <summary>*Abstract*</summary>
-We study the consequences of campaign finance disclosure laws in a model of informative campaign finance. Campaign spending can affect electoral outcomes and also signal policy information to politicians. Under mandatory disclosure, donors may engage in spending that runs counter to their electoral interests in order to signal good news regarding their preferred policy. When donors can use dark money, the electoral price to influence policy increases to account for the possibility that donors use public contributions to signal but secretly offset the electoral costs with dark money. Our results suggest that <i>observable</i> spending will tend to increase for moderate candidates and decrease for extreme candidates when dark money is allowed. We also illustrate how different social pressures affect patterns of campaign spending.
+We study the consequences of campaign finance disclosure laws in a model of informative campaign finance. Campaign spending can affect electoral outcomes and also signal policy information to politicians. Under mandatory disclosure donors may engage in spending that runs counter to their electoral interests in order to signal good news regarding their preferred policy. When donors can use dark money the electoral price to influence policy increases to account for the possibility that donors use public spending to signal, but secretly offset the electoral costs with dark money. Our results suggest that \textit{observable} spending will tend to increase for moderate candidates and decrease for extreme candidates when dark money is allowed. We also illustrate how different social pressures affect patterns of campaign spending.
 
 </details>
 
-* "Dark Money and Voter Learning" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"} and [Collin Schumock](https://politicalscience.yale.edu/people/collin-schumock "Collin Schumock"){target="_blank"}).\
+* "[Dark Money and Voter Learning](https://osf.io/preprints/socarxiv/r562d/ "Dark Money and Voter Learning"){target="_blank"}" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"} and [Collin Schumock](https://politicalscience.yale.edu/people/collin-schumock "Collin Schumock"){target="_blank"}). <i><b>Under review.</b></i>\
 <details>
 <summary>*Abstract*</summary>
-We provide a model of dark money in elections. A donor with extreme preferences relative to the voter is privately informed about the policy preferences and valence of a candidate for office. Advertisements reveal hard information about valence and the voter can learn this information either through donor-funded advertisements or from neutral sources. Under mandatory transparency the voter is always informed of the source of a message. When the message is known to come from the donor the voter reflects on the donor's preferences and concludes that the candidate is more likely to be extreme since the donor contributed money to that candidate. In contrast, dark money allows the donor to transmit messages to the voter without revealing the source, leaving the voter uncertain about whether the signal came from the donor or from the neutral source. Thus, the reason for using dark money is to attempt to persuade the voter to support a candidate without causing the voter to believe that the candidate is likely to have extreme preferences. However, this effect can also be detrimental to the donor since the voter is also uncertain about the source of neutral signals and is therefore less likely to be persuaded by them.
+We provide a model of dark money in elections. An ideologically extreme donor with private information about candidate ideology and quality can advertise on behalf of a candidate. Advertising reveals information about candidate quality to voters, who can learn from either donor-funded or neutral advertising. Voters update negatively about candidate ideology when ads are known to be donor-funded. Dark money suppresses source information and allows donors to advertise candidate quality while simultaneously concealing the ideological motivations behind ad funding. However, dark money leads voters to become skeptical of all advertising, which can disadvantage donors. 
 
 </details>
 
@@ -159,7 +159,7 @@ believe, will introduce new theoretical insights for understanding the role of m
 
 </details>
 
-* "Regulatory Exposure, Appropriations, and Bureaucratic Policymaking" (with [John W. Patty](http://www.johnwpatty.net/ "John Patty"){target="_blank"}).\
+* "Strange Bedfellows: How the Need for Good Governance Shapes Budgetary Control of Bureaucracy" (with [John W. Patty](http://www.johnwpatty.net/ "John Patty"){target="_blank"}).\
 <details>
 <summary>*Abstract*</summary>
 Legislators can benefit from delegation to executive agencies, but they have limited tools to hold these agencies accountable. One of the most important tools is the agency’s appropriations. We present a theory that incorporates (1) heterogeneous legislator preferences over bureaucratic activity, (2) legislative budgetary control, and (3) endogenous bureaucratic policy discretion to understand legislative incentives when appropriating funds to bureaucratic agencies. Our theory provides several insights: first, legislators’ induced preferences over budgets are partially determined by their policy preferences; second, in some cases legislators who are “opposed” to the direction that the agency will take policy nevertheless support increased funding for that agency; finally, ``strange bedfellows” coalitions emerge in which legislators with competing policy preferences may nonetheless agree on their most-desired budget level for the agency.
