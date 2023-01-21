@@ -113,17 +113,10 @@ We study how legislative oversight shapes intra-executive politics. We develop a
 
 </details>
 
-* "[Accountability in Governing Hierarchies](https://osf.io/preprints/socarxiv/5gt8y/ "Governing Hierarchies"){target="_blank"}" (with [Christopher M. Li](https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1 "Chris Li"){target="_blank"} and [Greg Sasso](https://gregsasso.me/ "Greg Sasso"){target="_blank"}).\
+* "[Hierarchical Control](https://osf.io/preprints/socarxiv/5gt8y/ "Hierarchical Control"){target="_blank"}" (with [Christopher M. Li](https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1 "Chris Li"){target="_blank"} and [Greg Sasso](https://gregsasso.me/ "Greg Sasso"){target="_blank"}).\
 <details>
 <summary>*Abstract*</summary>
-Formal theories of accountability and bureaucratic politics often consider voter-politician interactions in isolation from politician-bureaucrat interactions. In this paper, we study a model of electoral accountability and policymaking with a hierarchy consisting of a voter, a politician, and a bureaucrat. The politician and bureaucrat both produce government output valued by the voter. The voter can then choose to reelect the politician, while the politician can expropriate some of the bureaucrat's output for his own ends. We show that when times are conducive to high quality governance -- budgets are large and players are farsighted -- incorporating the bureaucratic layer of the hierarchy makes for weaker accountability standards. However, when times are tough and budgets are small or players are myopic it is possible that voters may benefit from increasing their demands on elected officials. These accountability standards change even when reelection does not depend at all on the bureaucrat's output directly.
-
-</details>
-
-* "Bargaining in the Shadow of Bureaucracy: How Bureaucratic Implementation Shapes Executive-Legislative Policymaking."\
-<details>
-<summary>*Abstract*</summary>
-*Abstract coming soon.*
+The problem of enforcing democratic accountability typically focuses on the control of elected politicians. While a key contributor to government performance, the bureaucracy is largely insulated from direct electoral pressure but still subject to indirect control by politicians. Could elections be used to motivate both politicians directly and, indirectly, bureaucrats? We explore the nature of hierarchical control in a model with a representative voter, elected politicians, and unelected bureaucrats. The politician and bureaucrat exert effort to jointly produce government output valued by the voter. The voter controls the politician's tenure in office through elections, and the politician manages the bureaucrat through relational incentives. We illustrate how voter welfare and the overall quality of governance responds to changes in the policy environment, e.g., office rents, effort costs, and players' discount factors. In doing so, we provide a flexible framework to calibrate expectations for government performance, electoral accountability, and voter welfare across political-economic contexts.
 
 </details>
 
@@ -156,6 +149,13 @@ models, and subsidy-based models. We compare and contrast the key contributions,
 of each approach for understanding the role of lobbying and campaign finance in politics.
 We also discuss future avenues for research that incorporate aspects of each approach, which, we
 believe, will introduce new theoretical insights for understanding the role of money in politics.
+
+</details>
+
+* "Bargaining in the Shadow of Bureaucracy: How Bureaucratic Implementation Shapes Executive-Legislative Policymaking."\
+<details>
+<summary>*Abstract*</summary>
+*Abstract coming soon.*
 
 </details>
 
