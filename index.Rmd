@@ -166,7 +166,7 @@ Legislators can benefit from delegation to executive agencies, but they have lim
 
 </details>
 
-* "Presidential Leadership and Strategic Legislative Polarization" (with [Benjamin S. Nobel](https://benjaminnoble.org/ "Ben Noble"){target="_blank"}).\
+* "Presidential Leadership and Strategic Legislative Polarization" (with [Benjamin S. Noble](https://benjaminnoble.org/ "Ben Noble"){target="_blank"}).\
 <details>
 <summary>*Abstract*</summary>
 When do presidents "go public" and how does that choice affect their prospects for legislative and electoral success? To answer these questions, we develop a two-period model of dynamic inter-branch policymaking in which two pivotal legislators must agree to change policy. Before lawmakers vote, the president has an opportunity to make an appeal in favor of his preferred policy, linking his approval rating and future electoral success to the legislative outcome. Doing so activates the parties’ electoral bases, creating additional strategic polarization beyond sincere preference disagreement between the two parties. Ultimately, we find that presidential appeals can create strategic polarization even in the absence of sincere preference polarization. We also uncover a new logic of defensive presidential appeals in which the president goes public to prevent policy defection from within his own party. This model helps disentangle the influence of party and preference polarization on legislative outcomes while generating new insights about when and why presidents go public.
