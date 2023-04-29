@@ -1,6 +1,6 @@
 ---
 title: "Ian R. Turner"
-image: "Yale-headshot-3.jpg"
+image: "Yale-headshot-2023-2.jpg"
 links:
   - label: CV
     url: "https://www.dropbox.com/s/yajb28ykcozbr0e/turnerCV.pdf?raw=1"
