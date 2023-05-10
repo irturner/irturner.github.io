@@ -1,5 +1,3 @@
-
-
 ---
 title: "Ian R. Turner"
 image: "Yale-headshot-2023-2.jpg"
