@@ -1,3 +1,4 @@
+
 ---
 title: "Ian R. Turner"
 image: "Yale-headshot-2023-2.jpg"
@@ -220,4 +221,3 @@ When do presidents "go public" and how does that choice affect their prospects f
 &nbsp; Department of Political Science\
 &nbsp; P.O. Box 208301\
 &nbsp; New Haven, CT 06520-8301\
-&nbsp; [ian.turner@yale.edu](mailto:ian.turner@yale.edu "Ian Turner Email")
