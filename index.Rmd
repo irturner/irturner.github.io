@@ -23,6 +23,24 @@ I am an Assistant Professor of [Political Science at Yale University](http://pol
 
 &nbsp; **Published & forthcoming**
 
+* "[Formal Theories of Special Interest Influence](https://osf.io/preprints/socarxiv/47e26/ "Formal Theories of Special Interest Influence"){target="_blank"}" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}).\
+*Annual Review of Political Science*, Volume 27.\
+<details>
+<summary>*Abstract*</summary>
+The impact of money on politics – whether through campaign finance, lobbying, or independent
+expenditure – raises key normative questions about democratic representation and accountability.
+In recent years there has been a deluge of new data allowing researchers to study money in
+politics from new and exciting perspectives. As a complement to this trend there has also been a
+resurgence of interest in developing formal models to provide new theoretical insights that can
+help us understand how, why, and when money affects politics and policy. We review several
+major themes in this literature, focusing specifically on exchange-based models, informational
+models, and subsidy-based models. We compare and contrast the key contributions, and limitations,
+of each approach for understanding the role of lobbying and campaign finance in politics.
+We also discuss future avenues for research that incorporate aspects of each approach, which, we
+believe, will introduce new theoretical insights for understanding the role of money in politics.
+
+</details>
+
 * "[Motivated Reasoning and Democratic Accountability](https://www.cambridge.org/core/journals/american-political-science-review/article/motivated-reasoning-and-democratic-accountability/A5FDC6F7175255BDE8AA6AC054CD9176 "Motivated Reasoning and Democratic Accountability"){target="_blank"}" (with [Andrew T. Little](http://www.andrewtlittle.com/ "Andrew Little"){target="_blank"} and [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}). <br> 2022. *American Political Science Review* 116(2): 751-767. [[Ungated]](https://osf.io/preprints/socarxiv/esfy6/ "Motivated Reasoning and Democratic Accountability"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
@@ -140,24 +158,6 @@ We study the consequences of campaign finance disclosure laws in a model of info
 <details>
 <summary>*Abstract*</summary>
 We provide a model of dark money in elections. An ideologically extreme donor with private information about candidate ideology and quality can advertise on behalf of a candidate. Advertising reveals information about candidate quality to voters, who can learn from either donor-funded or neutral advertising. Voters update negatively about candidate ideology when ads are known to be donor-funded. Dark money suppresses source information and allows donors to advertise candidate quality while simultaneously concealing the ideological motivations behind ad funding. However, dark money leads voters to become skeptical of all advertising, which can disadvantage donors. 
-
-</details>
-
-* "[Formal Theories of Special Interest Influence](https://osf.io/preprints/socarxiv/47e26/ "Formal Theories of Special Interest Influence"){target="_blank"}" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}).\
-Prepared for *Annual Review of Political Science*, Volume 27. <i><b>Under review.</b></i>\
-<details>
-<summary>*Abstract*</summary>
-The impact of money on politics – whether through campaign finance, lobbying, or independent
-expenditure – raises key normative questions about democratic representation and accountability.
-In recent years there has been a deluge of new data allowing researchers to study money in
-politics from new and exciting perspectives. As a complement to this trend there has also been a
-resurgence of interest in developing formal models to provide new theoretical insights that can
-help us understand how, why, and when money affects politics and policy. We review several
-major themes in this literature, focusing specifically on exchange-based models, informational
-models, and subsidy-based models. We compare and contrast the key contributions, and limitations,
-of each approach for understanding the role of lobbying and campaign finance in politics.
-We also discuss future avenues for research that incorporate aspects of each approach, which, we
-believe, will introduce new theoretical insights for understanding the role of money in politics.
 
 </details>
 
