@@ -161,21 +161,19 @@ We provide a model of dark money in elections. An ideologically extreme donor wi
 
 </details>
 
+* "Bargaining in the Shadow of Bureaucracy"\
+<details>
+<summary>*Abstract*</summary>
+*Abstract coming soon.*
+
+</details>
+
 * "On Bureaucratic Embeddedness"
 <details>
 <summary>*Abstract*</summary>
 Across the world, the most common contact citizens have with the state is through their interactions with bureaucrats. Yet, compared to the study of relationships between bureaucrats and other elite political actors (e.g., legislators, executives, etc.), the crucial relationship between street-level or frontline bureaucrats and citizens remains understudied and our knowledge falls short of reflecting its importance. A burgeoning literature on <i>bureaucratic embeddedness</i>, adapting the concept of social embeddedness from sociology to political settings, has begun to fill this important gap in knowledge. In this article, I develop a conceptual framework that incorporates myriad ways bureaucratic embeddedness has been used to study how the different constellations of political-economic environments, goals of central state authority, bureaucrats, and citizens, and the mechanisms of embeddedness interact to determine the quality of state governance. I highlight how the overall context of citizen-state interactions dictate the quality of those interactions, and how bureaucratic embeddedness, in particular, can be either positive or negative from the perspective of how agents of the state intervene in the everyday lives of citizens. Ultimately, the analysis provides an array of substantive implications that vary across empirical contexts and organizes existing empirical insights regarding how the state uses management of its agents to provide for and control local populations while providing comparative predictions to guide future empirical research.
 
 </details>
-
-<!--
-* "Bargaining in the Shadow of Bureaucracy: How Bureaucratic Implementation Shapes Executive-Legislative Policymaking."\
-<details>
-<summary>*Abstract*</summary>
-*Abstract coming soon.*
-
-</details>
--->
 
 * "Strange Bedfellows: How the Need for Good Governance Shapes Budgetary Control of Bureaucracy" (with [John W. Patty](http://www.johnwpatty.net/ "John Patty"){target="_blank"}).\
 <details>
