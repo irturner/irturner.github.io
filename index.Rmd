@@ -23,7 +23,7 @@ I am an Assistant Professor of [Political Science at Yale University](http://pol
 
 &nbsp; **Published & forthcoming**
 
-* "[Formal Theories of Special Interest Influence](https://osf.io/preprints/socarxiv/47e26/ "Formal Theories of Special Interest Influence"){target="_blank"}" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}).\
+* "[Formal Theories of Special Interest Influence](https://osf.io/preprints/socarxiv/47e26/ "Formal Theories of Special Interest Influence"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}).\
 Forthcoming. *Annual Review of Political Science*, Volume 27.\
 <details>
 <summary>*Abstract*</summary>
@@ -41,7 +41,7 @@ believe, will introduce new theoretical insights for understanding the role of m
 
 </details>
 
-* "[Motivated Reasoning and Democratic Accountability](https://www.cambridge.org/core/journals/american-political-science-review/article/motivated-reasoning-and-democratic-accountability/A5FDC6F7175255BDE8AA6AC054CD9176 "Motivated Reasoning and Democratic Accountability"){target="_blank"}" (with [Andrew T. Little](http://www.andrewtlittle.com/ "Andrew Little"){target="_blank"} and [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}). <br> 2022. *American Political Science Review* 116(2): 751-767. [[Ungated]](https://osf.io/preprints/socarxiv/esfy6/ "Motivated Reasoning and Democratic Accountability"){target="_blank"}
+* "[Motivated Reasoning and Democratic Accountability](https://www.cambridge.org/core/journals/american-political-science-review/article/motivated-reasoning-and-democratic-accountability/A5FDC6F7175255BDE8AA6AC054CD9176 "Motivated Reasoning and Democratic Accountability"){target="_blank"}" (with [Andrew T. Little](http://www.andrewtlittle.com/ "Andrew Little"){target="_blank"} and [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). <br> 2022. *American Political Science Review* 116(2): 751-767. [[Ungated]](https://osf.io/preprints/socarxiv/esfy6/ "Motivated Reasoning and Democratic Accountability"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 Does motivated reasoning harm democratic accountability? Substantial evidence from political behavior research indicates that voters have "directional motives" beyond accuracy, which is often taken as evidence that they are ill-equipped to hold politicians accountable. We develop a model of electoral accountability with voters as motivated reasoners. Directional motives have two effects: (1) *divergence* -- voters with different preferences hold different beliefs, and (2) *desensitization* -- the relationship between incumbent performance and voter beliefs is weakened. While motivated reasoning does harm accountability, this is generally driven by desensitized voters rather than polarized partisans with politically motivated divergent beliefs. We also analyze the relationship between government performance and vote shares, showing that while motivated reasoning always weakens this relationship we cannot infer that accountability is also harmed. Finally, we show that our model can be mapped to standard models in which voters are fully Bayesian but have different preferences or information.
@@ -55,7 +55,7 @@ How does the scope of review affect bureaucratic policymaking? To explore this q
 
 </details>
 
-* "[Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12534 "Helping Friends or Influencing Foes"){target="_blank"}" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}). <br> 2021. *American Journal of Political Science* 65(1): 88-100. [[Ungated]](https://osf.io/preprints/socarxiv/nphgu/ "Helping Friends or Influencing Foes"){target="_blank"}
+* "[Helping Friends or Influencing Foes: Electoral and Policy Effects of Campaign Finance Contributions](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12534 "Helping Friends or Influencing Foes"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). <br> 2021. *American Journal of Political Science* 65(1): 88-100. [[Ungated]](https://osf.io/preprints/socarxiv/nphgu/ "Helping Friends or Influencing Foes"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 Campaign finance contributions may influence policy by affecting elections or influencing the choices of politicians once in office. To study the trade-offs between these two paths to influence, we use a game in which contributions may affect electoral outcomes and signal policy-relevant information to politicians. In the model, an interest group and two politicians each possess private information correlated with a policy-relevant state of the world. The interest group may allocate its budget to either a candidate who shares its preferences or a moderate candidate whose preferences may diverge from the group's preferred policy. Contributions that increase the likelihood of the moderate being elected can signal good news about the interest group's preferred policy and influence the moderate's policy choice. However, when the electoral effect of contributions is too small to demand sufficiently high costs to deter imitation by groups with negative information, this informational effect breaks down.
@@ -86,7 +86,7 @@ In this essay I argue that the need to motivate bureaucrats to invest in high qu
 
 </details>
 
-* "[Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking](https://www.cambridge.org/core/journals/american-political-science-review/article/signaling-with-reform-how-the-threat-of-corruption-prevents-informed-policymaking/DF50871EC917E7D2FE89EDCA3DFEF861 "Signaling with Reform"){target="_blank"}" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}). <br> 2019. *American Political Science Review* 113(3): 762-777. [[Ungated]](https://osf.io/preprints/socarxiv/jkvz6/ "Signaling with Reform"){target="_blank"}
+* "[Signaling with Reform: How the Threat of Corruption Prevents Informed Policymaking](https://www.cambridge.org/core/journals/american-political-science-review/article/signaling-with-reform-how-the-threat-of-corruption-prevents-informed-policymaking/DF50871EC917E7D2FE89EDCA3DFEF861 "Signaling with Reform"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). <br> 2019. *American Political Science Review* 113(3): 762-777. [[Ungated]](https://osf.io/preprints/socarxiv/jkvz6/ "Signaling with Reform"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 Lobbying is a potential source of corruption but is also a valuable source of information for policymakers. We analyze a game-theoretic model that shows how the threat of corruption affects the incentives of non-corrupt politicians to enlist the help of lobbyists to make more informed decisions. Politicians face a dilemma because voters cannot always tell whether a politician allows access to lobbyists in order to solicit corruption or to seek information. Thus, a non-corrupt politician may deny access to lobbyists to signal that she is non-corrupt even though doing so impedes her ability to make good policy. This signaling may decrease the welfare of the voters depending on the value of the lost policy information relative to the value of screening out corrupt politicians.
@@ -108,7 +108,7 @@ Legislatures differ in their institutional capacity to draft and enact policy. W
 
 </details>
 
-* "[Allies or Commitment Devices? A Model of Appointments to the Federal Reserve](http://onlinelibrary.wiley.com/doi/10.1111/ecpo.12089/full "Allies or Commitment Devices"){target="_blank"}" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"} and [Alicia Uribe-McGuire](http://aliciauribemcguire.com/ "Alicia Uribe-McGuire"){target="_blank"}). <br> 2017. *Economics & Politics* 29(2): 118-132. [[Ungated]](https://osf.io/preprints/socarxiv/b5zts "Allies or Commitment Devices"){target="_blank"}
+* "[Allies or Commitment Devices? A Model of Appointments to the Federal Reserve](http://onlinelibrary.wiley.com/doi/10.1111/ecpo.12089/full "Allies or Commitment Devices"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"} and [Alicia Uribe-McGuire](http://aliciauribemcguire.com/ "Alicia Uribe-McGuire"){target="_blank"}). <br> 2017. *Economics & Politics* 29(2): 118-132. [[Ungated]](https://osf.io/preprints/socarxiv/b5zts "Allies or Commitment Devices"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 We present a model of executive-legislative bargaining over appointments to independent central banks in the face of an uncertain economy with strategic economic actors. The model highlights the contrast between two idealized views of Federal Reserve appointments. In one view, all politicians prefer to appoint conservatively biased central bankers to overcome credible commitment problems that arise in monetary policy. In the other, politicians prefer to appoint allies, and appointments are well described by the spatial model used to describe appointments to other agencies. Both ideals are limiting cases of our model, which depend on the level of economic uncertainty. When economic uncertainty is extremely low, politicians prefer very conservative appointments. When economic uncertainty increases, politicians' prefer central bank appointees closer to their own ideal points. In the typical case, the results are somewhere in between: equilibrium appointments move in the direction of politician's preferences but with a moderate conservative bias.
@@ -147,14 +147,14 @@ Theories of political accountability often consider voter-politician interaction
 
 </details>
 
-* "[Dark Money and Politician Learning](https://osf.io/preprints/socarxiv/3bzex/ "Dark Money and Politician Learning"){target="_blank"}" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"}). <i><b>Under review.</b></i>\
+* "[Dark Money and Politician Learning](https://osf.io/preprints/socarxiv/3bzex/ "Dark Money and Politician Learning"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). <i><b>Under review.</b></i>\
 <details>
 <summary>*Abstract*</summary>
 We study the consequences of campaign finance disclosure laws in a model of informative campaign finance. Campaign spending can affect electoral outcomes and also signal policy information to politicians. Under mandatory disclosure donors may engage in spending that runs counter to their electoral interests in order to signal good news regarding their preferred policy. When donors can use dark money the electoral price to influence policy increases to account for the possibility that donors use public spending to signal, but secretly offset the electoral costs with dark money. Our results suggest that \textit{observable} spending will tend to increase for moderate candidates and decrease for extreme candidates when dark money is allowed. We also illustrate how different social pressures affect patterns of campaign spending.
 
 </details>
 
-* "[Dark Money and Voter Learning](https://osf.io/preprints/socarxiv/r562d/ "Dark Money and Voter Learning"){target="_blank"}" (with [Keith E. Schnakenberg](http://keith-schnakenberg.com/ "Keith Schnakenberg"){target="_blank"} and [Collin Schumock](https://politicalscience.yale.edu/people/collin-schumock "Collin Schumock"){target="_blank"}). <i><b>Under review.</b></i>\
+* "[Dark Money and Voter Learning](https://osf.io/preprints/socarxiv/r562d/ "Dark Money and Voter Learning"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"} and [Collin Schumock](https://politicalscience.yale.edu/people/collin-schumock "Collin Schumock"){target="_blank"}). <i><b>Under review.</b></i>\
 <details>
 <summary>*Abstract*</summary>
 We provide a model of dark money in elections. An ideologically extreme donor with private information about candidate ideology and quality can advertise on behalf of a candidate. Advertising reveals information about candidate quality to voters, who can learn from either donor-funded or neutral advertising. Voters update negatively about candidate ideology when ads are known to be donor-funded. Dark money suppresses source information and allows donors to advertise candidate quality while simultaneously concealing the ideological motivations behind ad funding. However, dark money leads voters to become skeptical of all advertising, which can disadvantage donors. 
@@ -197,6 +197,7 @@ When do presidents "go public" and how does that choice affect their prospects f
 
 &nbsp; **Yale University**
 
+* Advanced Models of Political Economy | [Syllabus](https://www.dropbox.com/s/99ppibgsjbqsd0l/GameTheory2.pdf?raw=1 "PhD Game Theory II"){target="_blank"}
 * Game Theory & Political Science | [Syllabus](https://www.dropbox.com/s/xlohsydqjytp66u/ug-gt-2021.pdf?raw=1 "Game Theory"){target="_blank"}
 * Democracy & Bureaucracy | [Syllabus](https://www.dropbox.com/s/k0qseoj08v6cmf9/bureaucracy-syllabus-spring21.pdf?raw=1 "Democracy & Bureaucracy"){target="_blank"}
 * Interest Groups, Money, and Influence in American Politics | [Syllabus](https://www.dropbox.com/s/x2zi9jc5qckdzg6/money-politics-syllabus-fall2017.pdf?raw=1 "Money in Politics"){target="_blank"}
