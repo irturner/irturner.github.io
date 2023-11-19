@@ -126,7 +126,7 @@ The lion's share of policy in the United States is made by administrative agenci
 
 
 * "[Institutional Foundations of the Power to Persuade](
-https://osf.io/preprints/socarxiv/4w9af/ "Power to Persuade"){target="_blank"}" (with [Carlo Prato](https://sites.google.com/site/carloprato1982/carlo-prato "Carlo Prato"){target="_blank"}). <i><b>Under review.</b></i>\
+https://osf.io/preprints/socarxiv/4w9af/ "Power to Persuade"){target="_blank"}" (with [Carlo Prato](https://sites.google.com/site/carloprato1982/carlo-prato "Carlo Prato"){target="_blank"}). <i><b>Invited to Revise & Resubmit.</b></i>\
 <details>
 <summary>*Abstract*</summary>
 Formal presidential authority does not always translate into real power over policy. To study the institutional foundations of presidential power over policy, we develop a theory in which the president can shape information available to bureaucratic subordinates via both overt, legitimate channels and covert, illegitimate interventions. We show that the president's ability to persuade bureaucrats to align policy with her own goals requires (i) some bureaucratic independence and (ii) a measure of external oversight of the executive. Both inter-branch relations and intra-branch institutions shape the credibility of presidential directives. The incentives driving aggressive oversight, moreover, depend on the commitment of overseers to their institutional missions, their policy alignment with the president, and the independence of the agency making policy. Our theory provides insights into the dynamics of presidential policy influence, and empirical implications for patterns of oversight under unified versus divided government and the institutional design of bureaucratic agencies.
