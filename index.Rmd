@@ -140,7 +140,7 @@ The problem of enforcing democratic accountability typically focuses on the cont
 
 </details>
 
-* "[Managing Government Hierarchy: Electoral Turnover and Intra-Governmental Cooperation](https://osf.io/preprints/socarxiv/xuvjc "Managing Government Hierarchy"){target="_blank"}" (with [Christopher M. Li](https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1 "Chris Li"){target="_blank"} and [Greg Sasso](https://gregsasso.me/ "Greg Sasso"){target="_blank"}). <i><b>Under review.</b></i>\
+* "[Managing Government Hierarchy: Electoral Turnover and Intra-Governmental Cooperation](https://osf.io/preprints/socarxiv/xuvjc "Managing Government Hierarchy"){target="_blank"}" (with [Christopher M. Li](https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1 "Chris Li"){target="_blank"} and [Greg Sasso](https://gregsasso.me/ "Greg Sasso"){target="_blank"}). \
 <details>
 <summary>*Abstract*</summary>
 Theories of political accountability often consider voter-politician interactions in isolation from politician-bureaucrat interactions. We study a model of electoral accountability with a governing hierarchy: voter-politician-bureaucrat. The politician and bureaucrat both produce government output valued by the voter. The voter controls the politician via election and the politician provides incentives to bureaucrats. We show that when times are conducive to high quality governance---budgets are large and players are farsighted---incorporating the politician-bureaucrat relationship leads to weaker accountability standards. However, when times are tough and budgets are small or players are myopic voters may benefit from adopting more demanding standards.
