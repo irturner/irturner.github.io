@@ -161,6 +161,13 @@ Theories of political accountability often consider voter-politician interaction
 
 </details>
 
+* "Presidential Leadership and Strategic Legislative Polarization" (with [Benjamin S. Noble](https://benjaminnoble.org/ "Ben Noble"){target="_blank"}).\
+<details>
+<summary>*Abstract*</summary>
+When do presidents "go public" and how does that choice affect their prospects for legislative and electoral success? To answer these questions, we develop a two-period model of dynamic inter-branch policymaking in which two pivotal legislators must agree to change policy. Before lawmakers vote, the president has an opportunity to make an appeal in favor of his preferred policy, linking his approval rating and future electoral success to the legislative outcome. Doing so activates the parties’ electoral bases, creating additional strategic polarization beyond sincere preference disagreement between the two parties. Ultimately, we find that presidential appeals can create strategic polarization even in the absence of sincere preference polarization. We also uncover a new logic of defensive presidential appeals in which the president goes public to prevent policy defection from within his own party. This model helps disentangle the influence of party and preference polarization on legislative outcomes while generating new insights about when and why presidents go public.
+
+</details>
+
 * "Bargaining in the Shadow of Bureaucracy"\
 <details>
 <summary>*Abstract*</summary>
@@ -179,13 +186,6 @@ Across the world, the most common contact citizens have with the state is throug
 <details>
 <summary>*Abstract*</summary>
 Legislators can benefit from delegation to executive agencies, but they have limited tools to hold these agencies accountable. One of the most important tools is the agency’s appropriations. We present a theory that incorporates (1) heterogeneous legislator preferences over bureaucratic activity, (2) legislative budgetary control, and (3) endogenous bureaucratic policy discretion to understand legislative incentives when appropriating funds to bureaucratic agencies. Our theory provides several insights: first, legislators’ induced preferences over budgets are partially determined by their policy preferences; second, in some cases legislators who are “opposed” to the direction that the agency will take policy nevertheless support increased funding for that agency; finally, ``strange bedfellows” coalitions emerge in which legislators with competing policy preferences may nonetheless agree on their most-desired budget level for the agency.
-
-</details>
-
-* "Presidential Leadership and Strategic Legislative Polarization" (with [Benjamin S. Noble](https://benjaminnoble.org/ "Ben Noble"){target="_blank"}).\
-<details>
-<summary>*Abstract*</summary>
-When do presidents "go public" and how does that choice affect their prospects for legislative and electoral success? To answer these questions, we develop a two-period model of dynamic inter-branch policymaking in which two pivotal legislators must agree to change policy. Before lawmakers vote, the president has an opportunity to make an appeal in favor of his preferred policy, linking his approval rating and future electoral success to the legislative outcome. Doing so activates the parties’ electoral bases, creating additional strategic polarization beyond sincere preference disagreement between the two parties. Ultimately, we find that presidential appeals can create strategic polarization even in the absence of sincere preference polarization. We also uncover a new logic of defensive presidential appeals in which the president goes public to prevent policy defection from within his own party. This model helps disentangle the influence of party and preference polarization on legislative outcomes while generating new insights about when and why presidents go public.
 
 </details>
 
