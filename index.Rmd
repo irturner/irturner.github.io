@@ -133,20 +133,6 @@ Formal presidential authority does not always translate into real power over pol
 
 </details>
 
-* "[Hierarchical Control](https://osf.io/preprints/socarxiv/5gt8y/ "Hierarchical Control"){target="_blank"}" (with [Christopher M. Li](https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1 "Chris Li"){target="_blank"} and [Greg Sasso](https://gregsasso.me/ "Greg Sasso"){target="_blank"}). <i><b>Under review.</b></i>\
-<details>
-<summary>*Abstract*</summary>
-The problem of enforcing democratic accountability typically focuses on the control of elected politicians. While a key contributor to government performance, the bureaucracy is largely insulated from direct electoral pressure but still subject to indirect control by politicians. Could elections be used to motivate both politicians directly and, indirectly, bureaucrats? We explore the nature of hierarchical control in a model with a representative voter, elected politicians, and unelected bureaucrats. The politician and bureaucrat exert effort to jointly produce government output valued by the voter. The voter controls the politician's tenure in office through elections, and the politician manages the bureaucrat through relational incentives. We illustrate how voter welfare and the overall quality of governance responds to changes in the policy environment, e.g., office rents, effort costs, and players' discount factors. In doing so, we provide a flexible framework to calibrate expectations for government performance, electoral accountability, and voter welfare across political-economic contexts.
-
-</details>
-
-* "[Managing Government Hierarchy: Electoral Turnover and Intra-Governmental Cooperation](https://osf.io/preprints/socarxiv/xuvjc "Managing Government Hierarchy"){target="_blank"}" (with [Christopher M. Li](https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1 "Chris Li"){target="_blank"} and [Greg Sasso](https://gregsasso.me/ "Greg Sasso"){target="_blank"}). \
-<details>
-<summary>*Abstract*</summary>
-Theories of political accountability often consider voter-politician interactions in isolation from politician-bureaucrat interactions. We study a model of electoral accountability with a governing hierarchy: voter-politician-bureaucrat. The politician and bureaucrat both produce government output valued by the voter. The voter controls the politician via election and the politician provides incentives to bureaucrats. We show that when times are conducive to high quality governance---budgets are large and players are farsighted---incorporating the politician-bureaucrat relationship leads to weaker accountability standards. However, when times are tough and budgets are small or players are myopic voters may benefit from adopting more demanding standards.
-
-</details>
-
 * "[Dark Money and Politician Learning](https://osf.io/preprints/socarxiv/3bzex/ "Dark Money and Politician Learning"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). <i><b>Under review.</b></i>\
 <details>
 <summary>*Abstract*</summary>
@@ -158,6 +144,20 @@ We study the consequences of campaign finance disclosure laws in a model of info
 <details>
 <summary>*Abstract*</summary>
 We provide a model of dark money in elections. An ideologically extreme donor with private information about candidate ideology and quality can advertise on behalf of a candidate. Advertising reveals information about candidate quality to voters, who can learn from either donor-funded or neutral advertising. Voters update negatively about candidate ideology when ads are known to be donor-funded. Dark money suppresses source information and allows donors to advertise candidate quality while simultaneously concealing the ideological motivations behind ad funding. However, dark money leads voters to become skeptical of all advertising, which can disadvantage donors. 
+
+</details>
+
+* "[Hierarchical Control](https://osf.io/preprints/socarxiv/5gt8y/ "Hierarchical Control"){target="_blank"}" (with [Christopher M. Li](https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1 "Chris Li"){target="_blank"} and [Greg Sasso](https://gregsasso.me/ "Greg Sasso"){target="_blank"}). <i><b>Under review.</b></i>\
+<details>
+<summary>*Abstract*</summary>
+The problem of enforcing democratic accountability typically focuses on the control of elected politicians. While a key contributor to government performance, the bureaucracy is largely insulated from direct electoral pressure but still subject to indirect control by politicians. Could elections be used to motivate both politicians directly and, indirectly, bureaucrats? We explore the nature of hierarchical control in a model with a representative voter, elected politicians, and unelected bureaucrats. The politician and bureaucrat exert effort to jointly produce government output valued by the voter. The voter controls the politician's tenure in office through elections, and the politician manages the bureaucrat through relational incentives. We illustrate how voter welfare and the overall quality of governance responds to changes in the policy environment, e.g., office rents, effort costs, and players' discount factors. In doing so, we provide a flexible framework to calibrate expectations for government performance, electoral accountability, and voter welfare across political-economic contexts.
+
+</details>
+
+* "[Managing Government Hierarchy: Electoral Turnover and Intra-Governmental Cooperation](https://osf.io/preprints/socarxiv/xuvjc "Managing Government Hierarchy"){target="_blank"}" (with [Christopher M. Li](https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1 "Chris Li"){target="_blank"} and [Greg Sasso](https://gregsasso.me/ "Greg Sasso"){target="_blank"}). \
+<details>
+<summary>*Abstract*</summary>
+Theories of political accountability often consider voter-politician interactions in isolation from politician-bureaucrat interactions. We study a model of electoral accountability with a governing hierarchy: voter-politician-bureaucrat. The politician and bureaucrat both produce government output valued by the voter. The voter controls the politician via election and the politician provides incentives to bureaucrats. We show that when times are conducive to high quality governance---budgets are large and players are farsighted---incorporating the politician-bureaucrat relationship leads to weaker accountability standards. However, when times are tough and budgets are small or players are myopic voters may benefit from adopting more demanding standards.
 
 </details>
 
