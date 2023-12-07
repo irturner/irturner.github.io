@@ -41,7 +41,7 @@ believe, will introduce new theoretical insights for understanding the role of m
 
 </details>
 
-* "[Motivated Reasoning and Democratic Accountability](https://www.cambridge.org/core/journals/american-political-science-review/article/motivated-reasoning-and-democratic-accountability/A5FDC6F7175255BDE8AA6AC054CD9176 "Motivated Reasoning and Democratic Accountability"){target="_blank"}" (with [Andrew T. Little](http://www.andrewtlittle.com/ "Andrew Little"){target="_blank"} and [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). <br> 2022. *American Political Science Review* 116(2): 751-767. [[Ungated]](https://osf.io/preprints/socarxiv/esfy6/ "Motivated Reasoning and Democratic Accountability"){target="_blank"}
+* "[Motivated Reasoning and Democratic Accountability](https://www.cambridge.org/core/journals/american-political-science-review/article/motivated-reasoning-and-democratic-accountability/A5FDC6F7175255BDE8AA6AC054CD9176 "Motivated Reasoning and Democratic Accountability"){target="_blank"}" (with [Andrew T. Little](https://anthlittle.github.io/ "Andrew Little"){target="_blank"} and [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). <br> 2022. *American Political Science Review* 116(2): 751-767. [[Ungated]](https://osf.io/preprints/socarxiv/esfy6/ "Motivated Reasoning and Democratic Accountability"){target="_blank"}
 <details>
 <summary>*Abstract*</summary>
 Does motivated reasoning harm democratic accountability? Substantial evidence from political behavior research indicates that voters have "directional motives" beyond accuracy, which is often taken as evidence that they are ill-equipped to hold politicians accountable. We develop a model of electoral accountability with voters as motivated reasoners. Directional motives have two effects: (1) *divergence* -- voters with different preferences hold different beliefs, and (2) *desensitization* -- the relationship between incumbent performance and voter beliefs is weakened. While motivated reasoning does harm accountability, this is generally driven by desensitized voters rather than polarized partisans with politically motivated divergent beliefs. We also analyze the relationship between government performance and vote shares, showing that while motivated reasoning always weakens this relationship we cannot infer that accountability is also harmed. Finally, we show that our model can be mapped to standard models in which voters are fully Bayesian but have different preferences or information.
@@ -179,6 +179,13 @@ When do presidents "go public" and how does that choice affect their prospects f
 <details>
 <summary>*Abstract*</summary>
 Across the world, the most common contact citizens have with the state is through their interactions with bureaucrats. Yet, compared to the study of relationships between bureaucrats and other elite political actors (e.g., legislators, executives, etc.), the crucial relationship between street-level or frontline bureaucrats and citizens remains understudied and our knowledge falls short of reflecting its importance. A burgeoning literature on <i>bureaucratic embeddedness</i>, adapting the concept of social embeddedness from sociology to political settings, has begun to fill this important gap in knowledge. In this article, I develop a conceptual framework that incorporates myriad ways bureaucratic embeddedness has been used to study how the different constellations of political-economic environments, goals of central state authority, bureaucrats, and citizens, and the mechanisms of embeddedness interact to determine the quality of state governance. I highlight how the overall context of citizen-state interactions dictate the quality of those interactions, and how bureaucratic embeddedness, in particular, can be either positive or negative from the perspective of how agents of the state intervene in the everyday lives of citizens. Ultimately, the analysis provides an array of substantive implications that vary across empirical contexts and organizes existing empirical insights regarding how the state uses management of its agents to provide for and control local populations while providing comparative predictions to guide future empirical research.
+
+</details>
+
+* "Dynamic Bureaucratic Embeddedness"
+<details>
+<summary>*Abstract*</summary>
+*Abstract coming soon.*
 
 </details>
 
