@@ -147,6 +147,20 @@ We provide a model of dark money in elections. An ideologically extreme donor wi
 
 </details>
 
+* "[Strange Bedfellows: How the Need for Good Governance Shapes Budgetary Control of Bureaucracy](https://osf.io/preprints/osf/pnx2u "Strange Bedfellows"){target="_blank"}" (with [John W. Patty](http://www.johnwpatty.net/ "John Patty"){target="_blank"}). <i><b>Under review.</b></i>\
+<details>
+<summary>*Abstract*</summary>
+Legislators can benefit from delegation to executive agencies, but they have limited tools to hold these agencies accountable. One of the most important tools is the agency’s appropriations. We present a theory that incorporates (1) heterogeneous legislator preferences over bureaucratic activity, (2) legislative budgetary control, and (3) endogenous bureaucratic policy discretion to understand legislative incentives when appropriating funds to bureaucratic agencies. Our theory provides several insights: first, legislators’ induced preferences over budgets are partially determined by their policy preferences; second, in some cases legislators who are “opposed” to the direction that the agency will take policy nevertheless support increased funding for that agency; finally, ``strange bedfellows” coalitions emerge in which legislators with competing policy preferences may nonetheless agree on their most-desired budget level for the agency.
+
+</details>
+
+* "[Presidential Leadership and Strategic Legislative Polarization]( "Presidential Leadership and Streategic Legislative Polarization"){target="_blank"}" (with [Benjamin S. Noble](https://benjaminnoble.org/ "Ben Noble"){target="_blank"}).\
+<details>
+<summary>*Abstract*</summary>
+When do presidents "go public" and how does that choice affect their prospects for legislative and electoral success? To answer these questions, we develop a two-period model of dynamic inter-branch policymaking in which two pivotal legislators must agree to change policy. Before lawmakers vote, the president has an opportunity to make an appeal in favor of his preferred policy, linking his approval rating and future electoral success to the legislative outcome. Doing so activates the parties’ electoral bases, creating additional strategic polarization beyond sincere preference disagreement between the two parties. Ultimately, we find that presidential appeals can create strategic polarization even in the absence of sincere preference polarization. We also uncover a new logic of defensive presidential appeals in which the president goes public to prevent policy defection from within his own party. This model helps disentangle the influence of party and preference polarization on legislative outcomes while generating new insights about when and why presidents go public.
+
+</details>
+
 * "[Hierarchical Control](https://osf.io/preprints/socarxiv/5gt8y/ "Hierarchical Control"){target="_blank"}" (with [Christopher M. Li](https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1 "Chris Li"){target="_blank"} and [Greg Sasso](https://gregsasso.me/ "Greg Sasso"){target="_blank"}).\
 <details>
 <summary>*Abstract*</summary>
@@ -158,13 +172,6 @@ The problem of enforcing democratic accountability typically focuses on the cont
 <details>
 <summary>*Abstract*</summary>
 Theories of political accountability often consider voter-politician interactions in isolation from politician-bureaucrat interactions. We study a model of electoral accountability with a governing hierarchy: voter-politician-bureaucrat. The politician and bureaucrat both produce government output valued by the voter. The voter controls the politician via election and the politician provides incentives to bureaucrats. We show that when times are conducive to high quality governance---budgets are large and players are farsighted---incorporating the politician-bureaucrat relationship leads to weaker accountability standards. However, when times are tough and budgets are small or players are myopic voters may benefit from adopting more demanding standards.
-
-</details>
-
-* "Presidential Leadership and Strategic Legislative Polarization" (with [Benjamin S. Noble](https://benjaminnoble.org/ "Ben Noble"){target="_blank"}).\
-<details>
-<summary>*Abstract*</summary>
-When do presidents "go public" and how does that choice affect their prospects for legislative and electoral success? To answer these questions, we develop a two-period model of dynamic inter-branch policymaking in which two pivotal legislators must agree to change policy. Before lawmakers vote, the president has an opportunity to make an appeal in favor of his preferred policy, linking his approval rating and future electoral success to the legislative outcome. Doing so activates the parties’ electoral bases, creating additional strategic polarization beyond sincere preference disagreement between the two parties. Ultimately, we find that presidential appeals can create strategic polarization even in the absence of sincere preference polarization. We also uncover a new logic of defensive presidential appeals in which the president goes public to prevent policy defection from within his own party. This model helps disentangle the influence of party and preference polarization on legislative outcomes while generating new insights about when and why presidents go public.
 
 </details>
 
@@ -187,15 +194,6 @@ Across the world, the most common contact citizens have with the state is throug
 <summary>*Abstract*</summary>
 *Abstract coming soon.*
 
-</details>
-
-* "Strange Bedfellows: How the Need for Good Governance Shapes Budgetary Control of Bureaucracy" (with [John W. Patty](http://www.johnwpatty.net/ "John Patty"){target="_blank"}).\
-<details>
-<summary>*Abstract*</summary>
-Legislators can benefit from delegation to executive agencies, but they have limited tools to hold these agencies accountable. One of the most important tools is the agency’s appropriations. We present a theory that incorporates (1) heterogeneous legislator preferences over bureaucratic activity, (2) legislative budgetary control, and (3) endogenous bureaucratic policy discretion to understand legislative incentives when appropriating funds to bureaucratic agencies. Our theory provides several insights: first, legislators’ induced preferences over budgets are partially determined by their policy preferences; second, in some cases legislators who are “opposed” to the direction that the agency will take policy nevertheless support increased funding for that agency; finally, ``strange bedfellows” coalitions emerge in which legislators with competing policy preferences may nonetheless agree on their most-desired budget level for the agency.
-
-</details>
-
 ### Teaching
 
 &nbsp; **APSA Formal Theory Section Teaching Resources**
@@ -204,7 +202,7 @@ Legislators can benefit from delegation to executive agencies, but they have lim
 
 &nbsp; **Yale University**
 
-* Advanced Models of Political Economy | [Syllabus](https://www.dropbox.com/s/99ppibgsjbqsd0l/GameTheory2.pdf?raw=1 "PhD Game Theory II"){target="_blank"}
+* Advanced Models of Political Economy | [Syllabus](https://www.dropbox.com/scl/fi/231xt3iongso8z1rkl65u/plsc520-Spring24.pdf?rlkey=lppnpozplykyonzr980pm0p56&raw=1 "PhD Game Theory II"){target="_blank"}
 * Game Theory & Political Science | [Syllabus](https://www.dropbox.com/s/xlohsydqjytp66u/ug-gt-2021.pdf?raw=1 "Game Theory"){target="_blank"}
 * Democracy & Bureaucracy | [Syllabus](https://www.dropbox.com/s/k0qseoj08v6cmf9/bureaucracy-syllabus-spring21.pdf?raw=1 "Democracy & Bureaucracy"){target="_blank"}
 * Interest Groups, Money, and Influence in American Politics | [Syllabus](https://www.dropbox.com/s/x2zi9jc5qckdzg6/money-politics-syllabus-fall2017.pdf?raw=1 "Money in Politics"){target="_blank"}
