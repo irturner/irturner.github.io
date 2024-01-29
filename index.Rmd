@@ -8,7 +8,7 @@ links:
   - label: Email
     url: "mailto:ian.turner@yale.edu"
   - label: Office Hours
-    url: "https://calendly.com/ian-turner/office-hours"
+    url: "https://calendly.com/ian-turner/office-hours-1"
 output:
   postcards::trestles
 ---
