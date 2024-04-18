@@ -133,7 +133,7 @@ Formal presidential authority does not always translate into real power over pol
 
 </details>
 
-* "[Dark Money and Politician Learning](https://osf.io/preprints/socarxiv/3bzex/ "Dark Money and Politician Learning"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). <i><b>Under review.</b></i>\
+* "[Dark Money and Politician Learning](https://osf.io/preprints/socarxiv/3bzex/ "Dark Money and Politician Learning"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). <i><b>R&R.</b></i>\
 <details>
 <summary>*Abstract*</summary>
 We study the consequences of campaign finance disclosure laws in a model of informative campaign finance. Campaign spending can affect electoral outcomes and also signal policy information to politicians. Under mandatory disclosure donors may engage in spending that runs counter to their electoral interests in order to signal good news regarding their preferred policy. When donors can use dark money the electoral price to influence policy increases to account for the possibility that donors use public spending to signal, but secretly offset the electoral costs with dark money. Our results suggest that \textit{observable} spending will tend to increase for moderate candidates and decrease for extreme candidates when dark money is allowed. We also illustrate how different social pressures affect patterns of campaign spending.
