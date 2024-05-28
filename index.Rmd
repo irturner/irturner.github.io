@@ -203,10 +203,19 @@ Across the world, the most common contact citizens have with the state is throug
 
 </details>
 
-* "Democratic Accountability and Citizen Co-Production" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"} and [Jie Ma](https://polisci.wustl.edu/people/jie-ma "Jie Ma"){target="_blank"}).\
+* "Democratic Accountability and Citizen Co-Production" (with [Jie Ma](https://polisci.wustl.edu/people/jie-ma "Jie Ma"){target="_blank"} and [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}).\
 <details>
 <summary>*Abstract*</summary>
 *Abstract coming soon.*
+
+</details>
+
+* "Identity, Citizen Expectations, and Representative Bureaucracy: Theory and Experimental Evidence" (with [Jen Wu](https://www.jen-wu.com/ "Jen Wu"){target="_blank"}).\
+<details>
+<summary>*Abstract*</summary>
+How do the identities of bureaucratic representatives affect citizens’ perceptions of the representative and the agency they represent? Public good and service provision by bureaucratic agencies are processes in which citizens interact with the government, often in a context where the presence of government is less visible compared to settings such as campaigns and elections. While much has been written about representative bureaucracy, i.e., how sharing group identity affects the quality of service or good (Mosher 1968, Selden 1997, Meier 2019), the mechanisms undergirding the connections between shared identity and bureaucrat behavior remain vague, particularly with regards to citizens’ perspective. From the agency’s perspective, there may be reasons to send an agent that is embedded or not embedded depending on their goals, ranging from minimizing agent shirking (Hassan 2020) to optimizing the quality of service or goods provision (Grossman and Slough 2022; Xu 2021; Butler and Broockman 2011; Tsai 2007; Evans 1995). Notably, work on bureaucratic embeddedness has been limited in the American context (Pepinsky 2017; Brierley et al. 2023). Moreover, research relevant to the question of whether agencies should rely on embedded bureaucrats overlooks the citizen’s perspective in their interactions with the bureaucrat. To this end, our project aims to answer the opening question as a means to 1) examine the citizen-agency interaction in the American context and 2) identify specific mechanisms that support the generally positive relationship between shared identity and quality of provision.
+
+First, we ask whether there are benefits to the agency by having embedded bureaucrats based on citizen perceptions. Do individuals perceive an embedded bureaucrat to be more likely to behave in favor of their community or group and does that also improve attitudes towards the agency? Second, we ask whether citizen perceptions of embedded bureaucrats are driven by three particularly mechanisms that potentially explain why embedded status may be salient in agent behavior. We characterize the mechanisms into the following three categories: 1) informational (whether an agent has prior knowledge about the community based on being from the community), 2) valence (whether an agent is more likely in the community’s interests when they are or are not from the community), and 3) social pressure (whether the agent faces pressure from their community to serve their interests at the cost of the agency’s interests).
 
 </details>
 
