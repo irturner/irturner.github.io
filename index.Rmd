@@ -197,14 +197,16 @@ Across the world, the most common contact citizens have with the state is throug
 
 </details>
 
+<!--
 * "Dynamic Bureaucratic Embeddedness"
 <details>
 <summary>*Abstract*</summary>
 *Abstract coming soon.*
+-->
 
 </details>
 
-* "Lobbying as Legislative Subsidy with Private Information" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}).\
+* "Lobbying as Legislative Subsidy with Private Information" (with [Lorenzo De Rosa](https://politicalscience.yale.edu/people/lorenzo-de-rosa "Lorenzo De Rosa"){target="_blank"} and [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}).\
 <details>
 <summary>*Abstract*</summary>
 *Abstract coming soon.*
