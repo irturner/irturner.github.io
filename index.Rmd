@@ -148,7 +148,7 @@ We study the consequences of campaign finance disclosure laws in a model of info
 
 </details>
 
-* "[Dark Money and Voter Learning](https://osf.io/preprints/socarxiv/r562d/ "Dark Money and Voter Learning"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"} and [Collin Schumock](https://politicalscience.yale.edu/people/collin-schumock "Collin Schumock"){target="_blank"}). <i><b>Under review.</b></i>\
+* "[Dark Money and Voter Learning](https://osf.io/preprints/socarxiv/r562d/ "Dark Money and Voter Learning"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"} and [Collin Schumock](https://politicalscience.yale.edu/people/collin-schumock "Collin Schumock"){target="_blank"}). <i><b>R&R.</b></i>\
 <details>
 <summary>*Abstract*</summary>
 We provide a model of dark money in elections. An ideologically extreme donor with private information about candidate ideology and quality can advertise on behalf of a candidate. Advertising reveals information about candidate quality to voters, who can learn from either donor-funded or neutral advertising. Voters update negatively about candidate ideology when ads are known to be donor-funded. Dark money suppresses source information and allows donors to advertise candidate quality while simultaneously concealing the ideological motivations behind ad funding. However, dark money leads voters to become skeptical of all advertising, which can disadvantage donors. 
