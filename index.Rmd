@@ -23,11 +23,11 @@ I am an Assistant Professor of [Political Science at Yale University](http://pol
 
 &nbsp; **Published & forthcoming**
 
-* "[Institutional Foundations of the Power to Persuade](
+* "[The Institutional Foundations of the Power to Persuade](
 https://osf.io/preprints/socarxiv/4w9af/ "Power to Persuade"){target="_blank"}" (with [Carlo Prato](https://sites.google.com/site/carloprato1982/carlo-prato "Carlo Prato"){target="_blank"}). Forthcoming. *American Journal of Political Science*.\
 <details>
 <summary>*Abstract*</summary>
-Formal presidential authority does not always translate into real power over policy. To study the institutional foundations of presidential power over policy, we develop a theory in which the president can shape information available to bureaucratic subordinates via both overt, legitimate channels and covert, illegitimate interventions. We show that the president's ability to persuade bureaucrats to align policy with her own goals requires (i) some bureaucratic independence and (ii) a measure of external oversight of the executive. Both inter-branch relations and intra-branch institutions shape the credibility of presidential directives. The incentives driving aggressive oversight, moreover, depend on the commitment of overseers to their institutional missions, their policy alignment with the president, and the independence of the agency making policy. Our theory provides insights into the dynamics of presidential policy influence, and empirical implications for patterns of oversight under unified versus divided government and the institutional design of bureaucratic agencies.
+Formal Presidential authority does not always translate into real influence over policy outcomes: The bureaucratic actors that are responsible for policy implementation have considerable discretion. Presidents, however, have tools to influence their behavior. In this paper, we focus on Presidential control of intra-executive *information flows*. We show how the President's power to persuade depends on inter-branch relations and intra-branch institutions. We develop a theory in which the President can shape information available to bureaucratic subordinates via both overt, legitimate channels as well as covert, illegitimate interventions. We find that the President’s ability to persuade bureaucrats to pursue her preferred goals can be reinforced by higher bureaucratic independence or more aggressive external oversight. We also show how bureaucratic independence mediates how overseer motivations translate into oversight intensity. Our theory predicts that Congress’ investigative resources should target more independent agencies under divided government and less independent agencies under unified government.
 
 </details>
 
