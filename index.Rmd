@@ -23,6 +23,14 @@ I am an Assistant Professor of [Political Science at Yale University](http://pol
 
 &nbsp; **Published & forthcoming**
 
+* "[Dark Money and Politician Learning](https://osf.io/preprints/socarxiv/3bzex/ "Dark Money and Politician Learning"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). Forthcoming. *Journal of Politics*.
+[[Ungated]](https://osf.io/preprints/socarxiv/3bzex/ "Dark Money and Politician Learning"){target="_blank"}
+<details>
+<summary>*Abstract*</summary>
+We study the consequences of campaign finance disclosure laws in a model of informative campaign finance. Campaign spending can affect electoral outcomes and also signal policy information to politicians. Under mandatory disclosure donors may engage in spending that runs counter to their electoral interests in order to signal good news regarding their preferred policy. When donors can use dark money the electoral price to influence policy increases to account for the possibility that donors use public spending to signal, but secretly offset the electoral costs with dark money. Our results suggest that \textit{observable} spending will tend to increase for moderate candidates and decrease for extreme candidates when dark money is allowed. We also illustrate how different social pressures affect patterns of campaign spending.
+
+</details>
+
 * "[The Institutional Foundations of the Power to Persuade](http://doi.org/10.1111/ajps.12931){target="_blank"}" (with [Carlo Prato](https://sites.google.com/site/carloprato1982/carlo-prato "Carlo Prato"){target="_blank"}). Forthcoming. *American Journal of Political Science*.
 [[Ungated]](https://osf.io/preprints/socarxiv/4w9af/ "Power to Persuade"){target="_blank"}
 <details>
@@ -138,13 +146,6 @@ The lion's share of policy in the United States is made by administrative agenci
 <details>
 <summary>*Abstract*</summary>
 The scope and complexity of government work has grown exponentially over the 20th Century and into the 21st Century. In response, Congress has long delegated agencies policymaking authority to handle increasingly complex policy domains. At the same time, political polarization has reached record levels, rendering Congress seemingly unable to legislate effectively. This has led to increased efforts by administrative agencies to stretch their existing authority to its fullest. In response, all three branches have expressed concerns about how agencies might use this authority. Former President Donald Trump spent much of his time in office railing against the 'deep state' and promising to deconstruct the administrative state, culminating in the imposition of Schedule F: an executive order creating a new employment category that would strip thousands of government workers of civil service protections. Congress resurrected the long dormant Congressional Review Act (CRA) to overturn Obama-era regulations and has long had internal conversations about how the capacity for administrative oversight could be strengthened to rein in the bureaucracy. The Supreme Court has issued transformational decisions---redefining long-standing practices of judicial deference (Loper Bright (2024)), severely limiting congressional delegation (e.g., West Virginia v. EPA (2022), Biden v. Nebraska (2023)), and calling into question the constitutionality of agency independence (Seila Law (2020))---which represent a continued trend of judicial self-empowerment and a fundamental reconstitution of how the other branches can engage in political control of the administrative state. Given the importance and stakes for the American people, it is crucial we understand the dynamics of these political struggles for control of the administrative state. <i>Accountable Administration</i> develops a theoretical framework, supported by cases studies and historical narratives, that clearly and systematically indicates how characteristics of the policy environment, agencies themselves, and bureaucratic control institutions (e.g., judicial review, delegation, and personnel management) help us evaluate and understand bureaucratic decision-making and predict the effect of these ongoing developments in American politics seeking to rein in the administrative state. The book provides a distinctly political-institutional logic for how, when, and why strengthening efforts to control the bureaucracy can actually reduce bureaucratic accountability, which complicates the standard premise that political control is necessary for accountable administration.
-
-</details>
-
-* "[Dark Money and Politician Learning](https://osf.io/preprints/socarxiv/3bzex/ "Dark Money and Politician Learning"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). <i><b>R&R.</b></i>\
-<details>
-<summary>*Abstract*</summary>
-We study the consequences of campaign finance disclosure laws in a model of informative campaign finance. Campaign spending can affect electoral outcomes and also signal policy information to politicians. Under mandatory disclosure donors may engage in spending that runs counter to their electoral interests in order to signal good news regarding their preferred policy. When donors can use dark money the electoral price to influence policy increases to account for the possibility that donors use public spending to signal, but secretly offset the electoral costs with dark money. Our results suggest that \textit{observable} spending will tend to increase for moderate candidates and decrease for extreme candidates when dark money is allowed. We also illustrate how different social pressures affect patterns of campaign spending.
 
 </details>
 
