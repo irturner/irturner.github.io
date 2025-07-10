@@ -163,6 +163,13 @@ Legislators can benefit from delegation to executive agencies, but they have lim
 
 </details>
 
+* "[Managing Government Hierarchy: Electoral Turnover and Intra-Governmental Cooperation](https://osf.io/preprints/socarxiv/xuvjc "Managing Government Hierarchy"){target="_blank"}" (with [Christopher M. Li](https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1 "Chris Li"){target="_blank"} and [Greg Sasso](https://gregsasso.me/ "Greg Sasso"){target="_blank"}). <i><b>R&R.</b></i>\
+<details>
+<summary>*Abstract*</summary>
+Theories of political accountability often consider voter-politician interactions in isolation from politician-bureaucrat interactions. We study a model of electoral accountability with a governing hierarchy: voter-politician-bureaucrat. The politician and bureaucrat both produce government output valued by the voter. The voter controls the politician via election and the politician provides incentives to bureaucrats. We show that when times are conducive to high quality governance---budgets are large and players are farsighted---incorporating the politician-bureaucrat relationship leads to weaker accountability standards. However, when times are tough and budgets are small or players are myopic voters may benefit from adopting more demanding standards.
+
+</details>
+
 * "[Democratic Accountability with Citizen Coproduction](https://osf.io/preprints/osf/gehwz_v1 "Citizen Coproduction"){target="_blank"}" (with [Jie Ma](https://polisci.wustl.edu/people/jie-ma "Jie Ma"){target="_blank"} and [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). <i><b>Under review.</b></i>\
 <details>
 <summary>*Abstract*</summary>
@@ -174,13 +181,6 @@ Many policies require citizens to actively and voluntarily participate in their 
 <details>
 <summary>*Abstract*</summary>
 When do presidents "go public" and how does that choice affect their prospects for legislative and electoral success? To answer these questions, we develop a two-period model of dynamic inter-branch policymaking in which two pivotal legislators must agree to change policy. Before lawmakers vote, the president has an opportunity to make an appeal in favor of his preferred policy, linking his approval rating and future electoral success to the legislative outcome. Doing so activates the parties’ electoral bases, creating additional strategic polarization beyond sincere preference disagreement between the two parties. Ultimately, we find that presidential appeals can create strategic polarization even in the absence of sincere preference polarization. We also uncover a new logic of defensive presidential appeals in which the president goes public to prevent policy defection from within his own party. This model helps disentangle the influence of party and preference polarization on legislative outcomes while generating new insights about when and why presidents go public.
-
-</details>
-
-* "[Managing Government Hierarchy: Electoral Turnover and Intra-Governmental Cooperation](https://osf.io/preprints/socarxiv/xuvjc "Managing Government Hierarchy"){target="_blank"}" (with [Christopher M. Li](https://sites.google.com/a/u.northwestern.edu/christopher-li/home-1 "Chris Li"){target="_blank"} and [Greg Sasso](https://gregsasso.me/ "Greg Sasso"){target="_blank"}). <i><b>Under review.</b></i>\
-<details>
-<summary>*Abstract*</summary>
-Theories of political accountability often consider voter-politician interactions in isolation from politician-bureaucrat interactions. We study a model of electoral accountability with a governing hierarchy: voter-politician-bureaucrat. The politician and bureaucrat both produce government output valued by the voter. The voter controls the politician via election and the politician provides incentives to bureaucrats. We show that when times are conducive to high quality governance---budgets are large and players are farsighted---incorporating the politician-bureaucrat relationship leads to weaker accountability standards. However, when times are tough and budgets are small or players are myopic voters may benefit from adopting more demanding standards.
 
 </details>
 
