@@ -170,17 +170,17 @@ Theories of political accountability often consider voter-politician interaction
 
 </details>
 
+* "[Presidential Leadership and Legislative Polarization](https://osf.io/preprints/socarxiv/sa9ke "Presidential Leadership and Legislative Polarization"){target="_blank"}" (with [Benjamin S. Noble](https://benjaminnoble.org/ "Ben Noble"){target="_blank"}). <i><b>R&R.</b></i>\
+<details>
+<summary>*Abstract*</summary>
+When do presidents "go public" and how does that choice affect their prospects for legislative and electoral success? To answer these questions, we develop a two-period model of dynamic inter-branch policymaking in which two pivotal legislators must agree to change policy. Before lawmakers vote, the president has an opportunity to make an appeal in favor of his preferred policy, linking his approval rating and future electoral success to the legislative outcome. Doing so activates the parties’ electoral bases, creating additional strategic polarization beyond sincere preference disagreement between the two parties. Ultimately, we find that presidential appeals can create strategic polarization even in the absence of sincere preference polarization. We also uncover a new logic of defensive presidential appeals in which the president goes public to prevent policy defection from within his own party. This model helps disentangle the influence of party and preference polarization on legislative outcomes while generating new insights about when and why presidents go public.
+
+</details>
+
 * "[Democratic Accountability with Citizen Coproduction](https://osf.io/preprints/osf/gehwz_v1 "Citizen Coproduction"){target="_blank"}" (with [Jie Ma](https://polisci.wustl.edu/people/jie-ma "Jie Ma"){target="_blank"} and [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). <i><b>Under review.</b></i>\
 <details>
 <summary>*Abstract*</summary>
 Many policies require citizens to actively and voluntarily participate in their implementation in order to produce successful outcomes, a situation referred to as *citizen coproduction*. Though citizen coproduction is necessary in many policy areas, it could create difficulties for democratic accountability because citizens and politicians share responsibility for policy failures and the attribution of blame may be difficult. We analyze the problem of democratic accountability with citizen coproduction in the context of a model in which politicians, who vary with respect to their competence at selecting policies, choose whether or not to implement policies whose success depends on the coproduction choices of citizens. For citizens, the problem is one of attribution: when citizen coproduction is low, it may be hard to select good incumbents because policy failures are frequent even in light of good policy choices. Furthermore, incumbent decisions anticipate these effects, which sometimes implies that incumbents are less likely to choose reforms when they are more likely to be successful.
-
-</details>
-
-* "[Presidential Leadership and Legislative Polarization](https://osf.io/preprints/socarxiv/sa9ke "Presidential Leadership and Legislative Polarization"){target="_blank"}" (with [Benjamin S. Noble](https://benjaminnoble.org/ "Ben Noble"){target="_blank"}). <i><b>Under review.</b></i>\
-<details>
-<summary>*Abstract*</summary>
-When do presidents "go public" and how does that choice affect their prospects for legislative and electoral success? To answer these questions, we develop a two-period model of dynamic inter-branch policymaking in which two pivotal legislators must agree to change policy. Before lawmakers vote, the president has an opportunity to make an appeal in favor of his preferred policy, linking his approval rating and future electoral success to the legislative outcome. Doing so activates the parties’ electoral bases, creating additional strategic polarization beyond sincere preference disagreement between the two parties. Ultimately, we find that presidential appeals can create strategic polarization even in the absence of sincere preference polarization. We also uncover a new logic of defensive presidential appeals in which the president goes public to prevent policy defection from within his own party. This model helps disentangle the influence of party and preference polarization on legislative outcomes while generating new insights about when and why presidents go public.
 
 </details>
 
