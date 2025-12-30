@@ -23,6 +23,13 @@ I am an Assistant Professor of [Political Science at Yale University](http://pol
 
 &nbsp; **Published & forthcoming**
 
+* "[Presidential Leadership and Legislative Polarization](https://osf.io/preprints/socarxiv/sa9ke "Presidential Leadership and Legislative Polarization"){target="_blank"}" (with [Benjamin S. Noble](https://benjaminnoble.org/ "Ben Noble"){target="_blank"}). Forthcoming. *Presidential Studies Quarterly*. [[Ungated]](https://osf.io/preprints/socarxiv/sa9ke "Presidential Leadership and Legislative Polarization"){target="_blank"}
+<details>
+<summary>*Abstract*</summary>
+When do presidents "go public" and how does that choice affect their prospects for legislative and electoral success? To answer these questions, we develop a two-period model of dynamic inter-branch policymaking in which two pivotal legislators must agree to change policy. Before lawmakers vote, the president has an opportunity to make an appeal in favor of his preferred policy, linking his approval rating and future electoral success to the legislative outcome. Doing so activates the parties’ electoral bases, creating additional strategic polarization beyond sincere preference disagreement between the two parties. Ultimately, we find that presidential appeals can create strategic polarization even in the absence of sincere preference polarization. We also uncover a new logic of defensive presidential appeals in which the president goes public to prevent policy defection from within his own party. This model helps disentangle the influence of party and preference polarization on legislative outcomes while generating new insights about when and why presidents go public.
+
+</details>
+
 * "[Dark Money and Politician Learning](https://www.journals.uchicago.edu/doi/10.1086/734548 "Dark Money and Politician Learning"){target="_blank"}" (with [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). 2026. *Journal of Politics* 88(1): 177-191.
 [[Ungated]](https://osf.io/preprints/socarxiv/3bzex/ "Dark Money and Politician Learning"){target="_blank"}
 <details>
@@ -167,13 +174,6 @@ Legislators can benefit from delegation to executive agencies, but they have lim
 <details>
 <summary>*Abstract*</summary>
 Theories of political accountability often consider voter-politician interactions in isolation from politician-bureaucrat interactions. We study a model of electoral accountability with a governing hierarchy: voter-politician-bureaucrat. The politician and bureaucrat both produce government output valued by the voter. The voter controls the politician via election and the politician provides incentives to bureaucrats. We show that when times are conducive to high quality governance---budgets are large and players are farsighted---incorporating the politician-bureaucrat relationship leads to weaker accountability standards. However, when times are tough and budgets are small or players are myopic voters may benefit from adopting more demanding standards.
-
-</details>
-
-* "[Presidential Leadership and Legislative Polarization](https://osf.io/preprints/socarxiv/sa9ke "Presidential Leadership and Legislative Polarization"){target="_blank"}" (with [Benjamin S. Noble](https://benjaminnoble.org/ "Ben Noble"){target="_blank"}). <i><b>R&R.</b></i>\
-<details>
-<summary>*Abstract*</summary>
-When do presidents "go public" and how does that choice affect their prospects for legislative and electoral success? To answer these questions, we develop a two-period model of dynamic inter-branch policymaking in which two pivotal legislators must agree to change policy. Before lawmakers vote, the president has an opportunity to make an appeal in favor of his preferred policy, linking his approval rating and future electoral success to the legislative outcome. Doing so activates the parties’ electoral bases, creating additional strategic polarization beyond sincere preference disagreement between the two parties. Ultimately, we find that presidential appeals can create strategic polarization even in the absence of sincere preference polarization. We also uncover a new logic of defensive presidential appeals in which the president goes public to prevent policy defection from within his own party. This model helps disentangle the influence of party and preference polarization on legislative outcomes while generating new insights about when and why presidents go public.
 
 </details>
 
