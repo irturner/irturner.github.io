@@ -23,6 +23,14 @@ I am an Assistant Professor of [Political Science at Yale University](http://pol
 
 &nbsp; **Published & forthcoming**
 
+* "[Democratic Accountability with Citizen Coproduction](https://osf.io/preprints/osf/gehwz_v1 "Citizen Coproduction"){target="_blank"}" (with [Jie Ma](https://polisci.wustl.edu/people/jie-ma "Jie Ma"){target="_blank"} and [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). Conditionally Accepted. *American Political Science Review*.
+[[Ungated]](https://osf.io/preprints/osf/gehwz_v1 "Citizen Coproduction"){target="_blank"}
+<details>
+<summary>*Abstract*</summary>
+Many policies require citizens to actively and voluntarily participate in their implementation in order to produce successful outcomes, a situation referred to as *citizen coproduction*. Though citizen coproduction is necessary in many policy areas, it could create difficulties for democratic accountability because citizens and politicians share responsibility for policy failures and the attribution of blame may be difficult. We analyze the problem of democratic accountability with citizen coproduction in the context of a model in which politicians, who vary with respect to their competence at selecting policies, choose whether or not to implement policies whose success depends on the coproduction choices of citizens. For citizens, the problem is one of attribution: when citizen coproduction is low, it may be hard to select good incumbents because policy failures are frequent even in light of good policy choices. Furthermore, incumbent decisions anticipate these effects, which sometimes implies that incumbents are less likely to choose reforms when they are more likely to be successful.
+
+</details>
+
 * "[The Institutional Foundations of the Power to Persuade](http://doi.org/10.1111/ajps.12931 "Power to Persuade"){target="_blank"}" (with [Carlo Prato](https://sites.google.com/site/carloprato1982/carlo-prato "Carlo Prato"){target="_blank"}). 2026. *American Journal of Political Science* 70(1): 120-135.
 [[Ungated]](https://osf.io/preprints/socarxiv/4w9af/ "Power to Persuade"){target="_blank"}
 <details>
@@ -174,13 +182,6 @@ Legislators can benefit from delegation to executive agencies, but they have lim
 <details>
 <summary>*Abstract*</summary>
 Theories of political accountability often consider voter-politician interactions in isolation from politician-bureaucrat interactions. We study a model of electoral accountability with a governing hierarchy: voter-politician-bureaucrat. The politician and bureaucrat both produce government output valued by the voter. The voter controls the politician via election and the politician provides incentives to bureaucrats. We show that when times are conducive to high quality governance---budgets are large and players are farsighted---incorporating the politician-bureaucrat relationship leads to weaker accountability standards. However, when times are tough and budgets are small or players are myopic voters may benefit from adopting more demanding standards.
-
-</details>
-
-* "[Democratic Accountability with Citizen Coproduction](https://osf.io/preprints/osf/gehwz_v1 "Citizen Coproduction"){target="_blank"}" (with [Jie Ma](https://polisci.wustl.edu/people/jie-ma "Jie Ma"){target="_blank"} and [Keith E. Schnakenberg](https://sites.wustl.edu/keschnak/ "Keith Schnakenberg"){target="_blank"}). <i><b>R&R.</b></i>\
-<details>
-<summary>*Abstract*</summary>
-Many policies require citizens to actively and voluntarily participate in their implementation in order to produce successful outcomes, a situation referred to as *citizen coproduction*. Though citizen coproduction is necessary in many policy areas, it could create difficulties for democratic accountability because citizens and politicians share responsibility for policy failures and the attribution of blame may be difficult. We analyze the problem of democratic accountability with citizen coproduction in the context of a model in which politicians, who vary with respect to their competence at selecting policies, choose whether or not to implement policies whose success depends on the coproduction choices of citizens. For citizens, the problem is one of attribution: when citizen coproduction is low, it may be hard to select good incumbents because policy failures are frequent even in light of good policy choices. Furthermore, incumbent decisions anticipate these effects, which sometimes implies that incumbents are less likely to choose reforms when they are more likely to be successful.
 
 </details>
 
