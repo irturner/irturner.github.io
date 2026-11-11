@@ -17,7 +17,7 @@ output:
   <img width="200" src="pitt_seal.svg">
 </p>
 
-I am the [Daniel H. Wallace Chair of Civic Government and Associate Professor of Political Science](https://www.polisci.pitt.edu/people/ian-turner "Pitt profile") at the [University of Pittsburgh](https://www.polisci.pitt.edu/ "Pitt polisci"). I have broad research interests in American political institutions, executive branch and bureaucratic politics, special interest politics, political economy, and applied game theory and formal modeling. My research has been published in leading academic journals such as the *American Political Science Review*, the *American Journal of Political Science*, the *Journal of Politics*, and the *Journal of Law, Economics, & Organization*. My teaching spans courses on American political institutions, bureaucratic politics, money in politics, game theory, and applied formal modeling. Before coming to Pitt I held faculty positions at Texas A&M University and Yale University, the latter of which I was awarded the Poorvu Family Fund for Academic Innovation Award for excellence in teaching in 2024.
+I am the [Daniel H. Wallace Chair of Civic Government and Associate Professor of Political Science](https://www.polisci.pitt.edu/people/ian-turner "Pitt profile") at the [University of Pittsburgh](https://www.polisci.pitt.edu/ "Pitt polisci"). I have broad research interests in American political institutions, executive branch and bureaucratic politics, special interest politics, political economy, and applied game theory and formal modeling. My research has been published in leading academic journals such as the *American Political Science Review*, the *American Journal of Political Science*, the *Journal of Politics*, and the *Journal of Law, Economics, & Organization*. My teaching spans courses on American political institutions, bureaucratic politics, money in politics, game theory, and applied formal modeling. Before coming to Pitt I held faculty positions at Texas A&M University and Yale University. I was awarded the Poorvu Family Fund for Academic Innovation Award for excellence in teaching in 2024 at Yale.
 
 ### Research
 
@@ -245,11 +245,11 @@ How do the identities of bureaucratic representatives affect citizens’ percept
 
 #### Office 
 
-&nbsp; A105, ISPS, 77 Prospect Street
+&nbsp; 4804 Wesley W. Posvar Hall
 
 #### Contact information
 
-&nbsp; Yale University\
 &nbsp; Department of Political Science\
-&nbsp; P.O. Box 208301\
-&nbsp; New Haven, CT 06520-8301\
+&nbsp; University of Pittsburgh\
+&nbsp; 4600 Wesley W. Posvar Hall\
+&nbsp; Pittsburgh, PA 15260\
