@@ -6,7 +6,7 @@ links:
   - label: CV
     url: "https://www.dropbox.com/s/yajb28ykcozbr0e/turnerCV.pdf?raw=1"
   - label: Email
-    url: "mailto:ian.turner@yale.edu"
+    url: "mailto:ian.turner@pitt.edu"
   - label: Office Hours
     url: "https://calendly.com/ian-turner"
 output:
