@@ -1,0 +1,39 @@
+---
+title: "Ian R. Turner"
+subtitle: "Daniel H. Wallace Chair of Civic Government<br>Associate Professor of Political Science<br>University of Pittsburgh"
+image: images/headshot.jpg
+about:
+  template: trestles
+  image-width: 14em
+  links:
+    - text: CV
+      icon: file-earmark-text
+      href: "https://www.dropbox.com/s/yajb28ykcozbr0e/turnerCV.pdf?raw=1"
+      target: _blank
+    - text: Email
+      icon: envelope
+      href: "mailto:ian.turner@pitt.edu"
+    - text: Office Hours
+      icon: calendar-check
+      href: "https://calendly.com/ian-turner"
+      target: _blank
+---
+
+![](images/pitt_seal.svg){width=140px fig-align="center"}
+
+I have broad research interests in American political institutions, executive branch and bureaucratic politics, special interest politics, political economy, and applied game theory and formal modeling. My research has been published in leading academic journals such as the *American Political Science Review*, the *American Journal of Political Science*, the *Journal of Politics*, and the *Journal of Law, Economics, & Organization*. My teaching spans courses on American political institutions, bureaucratic politics, money in politics, game theory, and applied formal modeling. Before coming to Pitt I held faculty positions at Texas A&M University and Yale University, the latter of which I was awarded the Poorvu Family Fund for Academic Innovation Award for excellence in teaching in 2024.
+
+::: {.callout-note appearance="minimal"}
+**Research:** see my [published papers and work in progress](research.qmd). **Teaching:** [courses and syllabi](teaching.qmd).
+:::
+
+## Office
+
+4804 Wesley W. Posvar Hall
+
+## Mailing address
+
+Department of Political Science\
+University of Pittsburgh\
+4600 Wesley W. Posvar Hall\
+Pittsburgh, PA 15260

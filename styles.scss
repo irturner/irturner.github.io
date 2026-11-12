@@ -1,0 +1,52 @@
+/*-- scss:defaults --*/
+$pitt-blue: #003594;
+$pitt-gold: #FFB81C;
+
+$primary: $pitt-blue;
+$link-color: $pitt-blue;
+$navbar-bg: $pitt-blue;
+$navbar-fg: #ffffff;
+$font-family-sans-serif: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: Georgia, "Times New Roman", serif;
+
+/*-- scss:rules --*/
+.navbar { border-bottom: 3px solid $pitt-gold; }
+
+h2 { margin-top: 2rem; border-bottom: 1px solid #dee2e6; padding-bottom: .3rem; }
+
+// ---- paper entries
+.paper { margin: 0 0 1.6rem 0; }
+.paper-title { font-weight: 600; font-size: 1.05rem; line-height: 1.35; }
+.paper-title a { text-decoration: none; }
+.paper-title a:hover { text-decoration: underline; }
+.paper-meta { color: #555; margin-top: .15rem; }
+.paper-meta a { color: inherit; }
+
+.paper-btns { margin-top: .4rem; display: flex; flex-wrap: wrap; gap: .35rem; }
+.paper-btn {
+  display: inline-flex; align-items: center; gap: .3rem;
+  font-size: .8rem; line-height: 1; padding: .35rem .6rem;
+  border: 1px solid rgba($pitt-blue, .35); border-radius: 999px;
+  background: #fff; color: $pitt-blue; text-decoration: none; cursor: pointer;
+}
+.paper-btn:hover, .paper-btn.active {
+  background: $pitt-blue; color: #fff; border-color: $pitt-blue; text-decoration: none;
+}
+
+.paper-panel { display: none; margin-top: .6rem; }
+.paper-panel.open { display: block; }
+.paper-abstract {
+  border-left: 3px solid $pitt-gold; padding: .2rem 0 .2rem .9rem;
+  font-size: .93rem; color: #333;
+}
+.paper-abstract p:last-child { margin-bottom: 0; }
+.paper-bibtex pre { font-size: .78rem; margin-bottom: 0; }
+
+.research-tools { margin-bottom: 1.5rem; }
+
+// titles under the photo on the home page
+.about-entity .subtitle { font-size: .98rem; line-height: 1.45; color: #444; white-space: nowrap; }
+
+// justified (block) text in the home-page bio column
+.about-contents p { text-align: justify; hyphens: auto; }
+.about-contents .callout p { text-align: left; hyphens: manual; }

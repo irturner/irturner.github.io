@@ -1,0 +1,26 @@
+<script>
+document.addEventListener("click", function (e) {
+  // Show/hide the Abstract and BibTeX panels under each paper.
+  var btn = e.target.closest("[data-paper-toggle]");
+  if (btn) {
+    var panel = document.getElementById(btn.getAttribute("data-paper-toggle"));
+    if (!panel) return;
+    var open = panel.classList.toggle("open");
+    btn.classList.toggle("active", open);
+    btn.setAttribute("aria-expanded", open ? "true" : "false");
+    return;
+  }
+  // Citation downloads (Zotero .ris, all-papers .bib): build the file on click.
+  var dl = e.target.closest("[data-download]");
+  if (dl) {
+    var blob = new Blob([dl.getAttribute("data-content")],
+                        { type: (dl.getAttribute("data-mime") || "text/plain") + ";charset=utf-8" });
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = dl.getAttribute("data-download");
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+  }
+});
+</script>

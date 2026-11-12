@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+::: {.research-tools}
+Each paper has buttons for the abstract, a free (ungated) version, a **Zotero** citation file, and **BibTeX**. {{< papers-bib-all >}}
+:::
+
+## Published & forthcoming {#published}
+
+{{< papers section="published" >}}
+
+## Selected work in progress {#working}
+
+{{< papers section="working" >}}
