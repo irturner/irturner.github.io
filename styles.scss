@@ -50,3 +50,11 @@ h2 { margin-top: 2rem; border-bottom: 1px solid #dee2e6; padding-bottom: .3rem; 
 // justified (block) text in the home-page bio column
 .about-contents p { text-align: justify; hyphens: auto; }
 .about-contents .callout p { text-align: left; hyphens: manual; }
+
+// jump links and back-to-top links on the Research page
+.jump-links { display: flex; flex-wrap: wrap; gap: .5rem; margin: .25rem 0 1rem; }
+.jump-links .paper-btn { font-size: .9rem; padding: .45rem .9rem; }
+.back-top { display: inline-block; font-size: .85rem; margin: .25rem 0 .5rem; text-decoration: none; }
+.back-top:hover { text-decoration: underline; }
+html { scroll-behavior: smooth; }
+h2[id] { scroll-margin-top: 80px; }   // keep headings clear of the navbar after jumping

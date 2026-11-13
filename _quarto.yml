@@ -11,19 +11,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: Research
-        menu:
-          - href: research.qmd
-            text: All research
-          - href: research.qmd#published
-            text: Published & forthcoming
-          - href: research.qmd#working
-            text: Work in progress
+      - href: research.qmd
+        text: Research
       - href: teaching.qmd
         text: Teaching
       - text: CV
         href: "https://www.dropbox.com/s/yajb28ykcozbr0e/turnerCV.pdf?raw=1"
         target: _blank
+  back-to-top-navigation: true
   page-footer:
     center: "© Ian R. Turner · Department of Political Science, University of Pittsburgh"
 

@@ -6,10 +6,18 @@ title: "Research"
 Each paper has buttons for the abstract, a free (ungated) version, a **Zotero** citation file, and **BibTeX**. {{< papers-bib-all >}}
 :::
 
+::: {.jump-links}
+[Published & forthcoming](#published){.paper-btn} [Work in progress](#working){.paper-btn}
+:::
+
 ## Published & forthcoming {#published}
 
 {{< papers section="published" >}}
 
+[↑ Back to top](#top){.back-top}
+
 ## Selected work in progress {#working}
 
 {{< papers section="working" >}}
+
+[↑ Back to top](#top){.back-top}
